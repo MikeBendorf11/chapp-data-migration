@@ -1,0 +1,288 @@
+[
+  {
+    "char": {
+      "hanzi": "看",
+      "pinyin": "kān",
+      "literal": "look"
+    },
+    "short": {
+      "hanzi": [
+        "看管",
+        "小看"
+      ],
+      "figurative": [
+        "look after/manage",
+        "underestimate"
+      ]
+    },
+    "long": {
+      "hanzi": [
+        "嘿嘿，你别小看你爸"
+      ],
+      "figurative": [
+        "Hey, don’t underestimate your dad."
+      ]
+    },
+    "id": 50,
+    "learnedId": 50,
+    "level": 0,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "看",
+      "pinyin": " kàn",
+      "literal": "look"
+    },
+    "short": {
+      "hanzi": [
+        "看法",
+        "看到",
+        "看样子",
+        "看上去",
+        "好看",
+        "难看"
+      ],
+      "figurative": [
+        "opinion",
+        "notice",
+        "it seems",
+        "it seems",
+        "beautiful",
+        "ugly"
+      ]
+    },
+    "long": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "id": 51,
+    "learnedId": 51,
+    "level": 0,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "literal": "real, genuine"
+    },
+    "short": {
+      "hanzi": [
+        "真理 / 真相",
+        "真是",
+        "真心",
+        "天真"
+      ],
+      "figurative": [
+        "truth, facts",
+        "indeed",
+        "sincere",
+        "innocent"
+      ]
+    },
+    "long": {
+      "hanzi": [
+        "很久以后真相才会大白"
+      ],
+      "figurative": [
+        "long after facts recent will greatly clear"
+      ]
+    },
+    "id": 52,
+    "learnedId": 52,
+    "level": 0,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "着",
+      "pinyin": "zhuó",
+      "literal": "use, wear"
+    },
+    "short": {
+      "hanzi": [
+        "着手",
+        "着想"
+      ],
+      "figurative": [
+        "start",
+        "care"
+      ]
+    },
+    "long": {
+      "hanzi": [
+        "#快着点儿",
+        "就着手干起来",
+        "他从不为别人着想"
+      ],
+      "figurative": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "id": 53,
+    "learnedId": 53,
+    "level": 2,
+    "consult": true
+  },
+  {
+    "char": {
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "literal": "action in progress"
+    },
+    "short": {
+      "hanzi": [
+        "着呢",
+        "对着干"
+      ],
+      "figurative": [
+        "a lot(not quantity)",
+        "to beat, to win"
+      ]
+    },
+    "long": {
+      "hanzi": [
+        "#你看着办吧",
+        "对着干",
+        "她家里的事多着呢"
+      ],
+      "figurative": [
+        "You look to manage, ok?",
+        "",
+        "so many things about her family."
+      ]
+    },
+    "id": 54,
+    "learnedId": 54,
+    "level": 2,
+    "consult": true
+  },
+  {
+    "char": {
+      "hanzi": "事",
+      "pinyin": "shì",
+      "literal": "matter, business"
+    },
+    "short": {
+      "hanzi": [
+        "事实",
+        "事先",
+        "从事",
+        "办事",
+        "做事",
+        "没事"
+      ],
+      "figurative": [
+        "fact",
+        "beforehand",
+        "to manage",
+        "to manage",
+        "to manage",
+        "no prob/big deal"
+      ]
+    },
+    "long": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "id": 55,
+    "learnedId": 55,
+    "level": 0,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "这个",
+      "pinyin": "zhége",
+      "figurative": "",
+      "literal": "this, one"
+    },
+    "short": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "long": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "id": 56,
+    "learnedId": 56,
+    "level": 0,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "figurative": "how",
+      "literal": "how,interrogative"
+    },
+    "short": {
+      "hanzi": [
+        "怎么样",
+        "不怎么"
+      ],
+      "figurative": [
+        "how about",
+        "not quite"
+      ]
+    },
+    "long": {
+      "hanzi": [
+        "你昨天怎么没来?",
+        "我不怎么想去"
+      ],
+      "figurative": [
+        "why",
+        "not quite feel going"
+      ]
+    },
+    "id": 57,
+    "learnedId": 57,
+    "level": 1,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "figurative": "now",
+      "literal": "appear/be at, rest"
+    },
+    "short": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "long": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "id": 58,
+    "learnedId": 58,
+    "level": 0,
+    "consult": false
+  },
+  {
+    "char": {
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "figurative": "able",
+      "literal": "able, "
+    },
+    "short": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "long": {
+      "hanzi": [],
+      "figurative": []
+    },
+    "id": 59,
+    "learnedId": 59,
+    "level": 0,
+    "consult": false
+  }
+]

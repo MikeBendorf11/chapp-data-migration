@@ -1,60 +1,78 @@
 var fs = require("fs");
 const readline = require('readline');
-
-
 var file = fs.readFileSync("mychars.json");
 var units = JSON.parse(file);
 
-1 || 1
+/*
 var newUnits = []
 
-for(let i = 50, j=0; i< 60; i++, j++){
+//i is for json, k is for reactored newUnits
+for(let i = 50, k=0; i< 60; i++, k++){
+  console.log(`i = ${i}, k=${k}`)
   var unit = {char:{}, short:{}, long:{}}
   newUnits.push(unit)
-  var oldSingle = units[i].definitions.single[0]
+  var oldSingle = units[i].definitions.single[0].trim()
   var isDoubleChar = units[i].char.length > 1 || false
+    
+  newUnits[k].id = units[i].id
+  newUnits[k].learnedId = units[i].learnedId
+  newUnits[k].level = units[i].level
+  newUnits[k].consult = units[i].consult
+  newUnits[k].char.hanzi = units[i].char
+  newUnits[k].char.pinyin = units[i].pronunciation
   
-  //parenthesis 
-  oldSingle = isDoubleChar ? oldSingle.substring(1, oldSingle.length-2) : oldSingle
+  //parenthesis and
   //single char doesn't have figurative
-  if(!isDoubleChar)
-    newUnits[j].char.figurative = undefined
-  else  
-    newUnits[j].char.figurative = units[i].definitions.single[1].trim()
+  if(isDoubleChar){
+    oldSingle = oldSingle.substring(1, oldSingle.length-1)
+    newUnits[k].char.figurative = units[i].definitions.single[1].trim()
+  }
+  newUnits[k].char.literal = oldSingle
 
-  //empty combs, leave complete
+  //empty combs, leave complete, curate space on cells
   var oldCombShort = units[i].combinations.short
   var oldDefShort = units[i].definitions.short
   var oldCombLong = units[i].combinations.long
   var oldDefLong = units[i].definitions.long
 
   if(oldCombShort.length > 1){
-    for(let i=oldCombShort.length-1; i>-1; i--){
-      if(!oldCombShort[i]){
-        oldCombShort = oldCombShort.slice(0,i)
-        oldDefShort = oldDefShort.slice(0,i)
+    for(let x=oldCombShort.length-1; x>-1; x--){
+      if(!oldCombShort[x]){
+        oldCombShort = oldCombShort.slice(0,x)
+        oldDefShort = oldDefShort.slice(0,x)
+      } else {
+        oldCombShort[x] = oldCombShort[x].trim()
+        //some combs don't have corresponding defs
+        oldDefShort[x] = typeof(oldDefShort[x])==='undefined' ? '': oldDefShort[x].trim()
       }
     }
   }
   if(oldCombLong.length > 1){
-    for(let i=oldCombLong.length-1; i>-1; i--){
-      if(!oldCombLong[i]){
-        oldCombLong = oldCombLong.slice(0,i)
-        oldDefLong = oldDefLong.slice(0,i)
+    for(let m=oldCombLong.length-1; m>-1; m--){
+      if(!oldCombLong[m]){
+        oldCombLong = oldCombLong.slice(0,m)
+        oldDefLong = oldDefLong.slice(0,m)
+      }else {
+        oldCombLong[m] = oldCombLong[m].trim()
+        oldDefLong[m] = typeof(oldDefLong[m])==='undefined'? '' :
+        oldDefLong[m].trim()
       }
     }
   }
+
+  newUnits[k].short.hanzi = oldCombShort
+  newUnits[k].short.figurative = oldDefShort
+  newUnits[k].long.hanzi = oldCombLong
+  newUnits[k].long.figurative = oldDefLong
   
-  newUnits[j].id = units[i].id
-  newUnits[j].char.hanzi = units[i].char
-  newUnits[j].char.literal = oldSingle
-  
-  newUnits[j].short.hanzi = units[i].combinations.short
-  console.dir(newUnits[j])
+  //console.dir(newUnits[j])
 }
 
-console.dir(newUnits)
-1 || 1
+fs.writeFile('./new-db-struct.json', JSON.stringify(newUnits,null, 2), function(err){
+  if(err) console.log(err)
+  console.log('Result saved!!')
+})
+*/
 
 
 
@@ -73,8 +91,11 @@ console.dir(newUnits)
  * char.trace 
  */
 
- /* //UNICODE DB PARSE
+ //UNICODE DB PARSE
 var myCharsInUnicode = []
+var file = fs.readFileSync("mychars.json");
+var content = JSON.parse(file);
+
 content.forEach(element => {
   myCharsInUnicode.push(element.char.codePointAt(0).toString(16))
   //console.log(element.char.codePointAt(0).toString(16))
@@ -86,10 +107,28 @@ let rl = readline.createInterface({
 
 let line_no = 0;
 
-var unihan = []
+//var unihan = []
+var pinyin = new Set();
+
 rl.on('line', function(line) {
   line_no++;
+
   var arr = line.split('	')
-  if(arr[1]=='kMandarin' || arr[1]=='kDefinition')
-  console.log();
-});*/
+  if(arr[1]=='kMandarin' && arr[2]){// || arr[1]=='kDefinition')
+    pinyin.add(arr[2])
+    //console.log(arr[2])
+  }
+});
+
+rl.on('close', function(x){
+  var pinyinList = []
+  pinyin.forEach(p=>pinyinList.push(p))
+  fs.writeFile('./pinyin-list', pinyinList.toString(), 
+    function (err) {
+      if(err) console.log(err)
+      console.log('success')
+  })
+  console.log(pinyinList.toString())
+})
+
+//console.log(pinyinList.toString())
