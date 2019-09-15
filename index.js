@@ -103,16 +103,12 @@ fs.writeFile('./new-db-struct.json', JSON.stringify(newUnits, null, 2), function
 /**
  * remove &nbsp from anywhere
  */
-/*
-//UNICODE DB PARSE
+
+//UNICODE TO JSON WITH CHARS, 1ST PASS
 var myCharsInUnicode = []
 var file = fs.readFileSync("mychars.json");
-var content = JSON.parse(file);
-
-content.forEach(element => {
- myCharsInUnicode.push(element.char.codePointAt(0).toString(16))
- //console.log(element.char.codePointAt(0).toString(16))
-});
+var units = JSON.parse(file);
+var unicodeDB = []
 
 let rl = readline.createInterface({
  input: fs.createReadStream('unicode.txt')
@@ -120,28 +116,50 @@ let rl = readline.createInterface({
 
 let line_no = 0;
 
-//var unihan = []
-var pinyin = new Set();
-
+var id = pronunciation = definition = ''
 rl.on('line', function(line) {
  line_no++;
 
  var arr = line.split('	')
- if(arr[1]=='kMandarin' && arr[2]){// || arr[1]=='kDefinition')
-   pinyin.add(arr[2])
-   //console.log(arr[2])
+ 
+ if( arr[1]=='kDefinition' && arr[2]){
+  var cantIdx = arr[2].indexOf('(C') //cantonses def
+  definition = cantIdx > 0 ? arr[2].substring(0,cantIdx) : arr[2]
+  id = arr[0]
  }
+ if(arr[1]=='kMandarin' && arr[2] && id==arr[0]){
+  id= arr[0].split('+')[1]
+  pronunciation = arr[2]
+  unicodeDB.push({
+    id: id,
+    char: String.fromCodePoint(`0x${id}`),
+    pronunciation: pronunciation,
+    definition: definition
+  })
+  //console.log(unicodeDB[unicodeDB.length-1])
+  id = pronunciation = definition = ''
+ } 
+ if(arr[1]=='kXHC1983' 
+    && arr[2]   
+    && arr[0].split('+')[1] == unicodeDB[unicodeDB.length-1].id){
+
+    var pron =arr[2].indexOf(' '>1)? arr[2].split(' ') : [arr[2]] 
+    pron.forEach(function(v,i){pron[i] = pron[i].split(':')[1] })
+    unicodeDB[unicodeDB.length-1].pronunciation = pron.toString()
+  }
+
 });
 
-rl.on('close', function(x){
- var pinyinList = []
- pinyin.forEach(p=>pinyinList.push(p))
- fs.writeFile('./pinyin-list', pinyinList.toString(),
-   function (err) {
-     if(err) console.log(err)
-     console.log('success')
- })
- console.log(pinyinList.toString())
+rl.on('close', function(){
+  //console.log(unicodeDB)
+  fs.writeFileSync('./unicode-mine-all.txt', JSON.stringify(unicodeDB,null,2))
 })
 
-//console.log(pinyinList.toString())*/
+
+
+
+/*
+units.forEach(element => {
+ myCharsInUnicode.push(element.char.codePointAt(0).toString(16))
+ 
+});*/
