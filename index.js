@@ -2,8 +2,6 @@ var fs = require("fs");
 const readline = require('readline');
 
 
-
-/*
 //FIRST DATA CONVERSION PASS
 var file = fs.readFileSync("mychars.json");
 var units = JSON.parse(file);
@@ -94,16 +92,12 @@ fs.writeFile('./new-db-struct.json', JSON.stringify(newUnits, null, 2), function
   console.log('Result saved!!')
 })
 
-*/
-
-//SECOND DATA CONVERSION
-
 
 
 /**
  * remove &nbsp from anywhere
  */
-
+/*
 //UNICODE TO JSON WITH CHARS, 1ST PASS
 var myCharsInUnicode = []
 var file = fs.readFileSync("mychars.json");
@@ -154,12 +148,42 @@ rl.on('close', function(){
   //console.log(unicodeDB)
   fs.writeFileSync('./unicode-mine-all.txt', JSON.stringify(unicodeDB,null,2))
 })
+*/
 
-
-
-
+//1500 SUBTLEX, JUST CHARS
 /*
-units.forEach(element => {
- myCharsInUnicode.push(element.char.codePointAt(0).toString(16))
- 
-});*/
+let rl = readline.createInterface({
+  input: fs.createReadStream('SUBTLEX-CH-WF')
+});
+ var lineC = 0;
+ var result = []
+rl.on('line', function(line){
+  
+  var arr = line.split('	')
+  result.push(arr[0])
+  lineC++
+  if(lineC>=1500) rl.close()
+
+})
+
+rl.on('close', function(){
+  fs.writeFileSync('./subtlex-chars-only', result.toString())
+})*/
+
+//UNICODE SUBTLEX 1500
+/*
+var fileU = fs.readFileSync('./unicode-json-all.txt')
+var fileS = fs.readFileSync('./subtlex-chars-only')
+
+var unico = JSON.parse(fileU)
+var arrS = [fileS.toString().split(',')]
+var subtlSet = new Set(arrS)
+var result = []
+
+unico.forEach(function(v){
+  console.log(v)
+  //if(subtlSet.has(v.char)) result.push(v)
+})
+
+//fs.writeFileSync('./unicode-subtlex', JSON.parse(result, null, 2))
+*/
