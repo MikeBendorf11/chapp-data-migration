@@ -1,0 +1,5057 @@
+[
+  {
+    "char": "一",
+    "pronunciation": "yī",
+    "definition": "one; a, an; alone"
+  },
+  {
+    "char": "七",
+    "pronunciation": "qī",
+    "definition": "seven"
+  },
+  {
+    "char": "万",
+    "pronunciation": "wàn mò",
+    "definition": "ten thousand; innumerable"
+  },
+  {
+    "char": "丈",
+    "pronunciation": "zhàng",
+    "definition": "unit of length equal 3.3 meters; gentleman, man, husband"
+  },
+  {
+    "char": "三",
+    "pronunciation": "sān",
+    "definition": "three"
+  },
+  {
+    "char": "上",
+    "pronunciation": "shàng",
+    "definition": "top; superior, highest; go up, send up"
+  },
+  {
+    "char": "下",
+    "pronunciation": "xià",
+    "definition": "under, underneath, below; down; inferior; bring down"
+  },
+  {
+    "char": "不",
+    "pronunciation": "bù",
+    "definition": "no, not; un-; negative prefix"
+  },
+  {
+    "char": "与",
+    "pronunciation": "yǔ",
+    "definition": "and; with; to; for; give, grant"
+  },
+  {
+    "char": "且",
+    "pronunciation": "qiě",
+    "definition": "moreover, also (post-subject); about to, will soon (pre-verb)"
+  },
+  {
+    "char": "世",
+    "pronunciation": "shì",
+    "definition": "generation; world; era"
+  },
+  {
+    "char": "业",
+    "pronunciation": "yè",
+    "definition": "profession, business; GB radical 111"
+  },
+  {
+    "char": "东",
+    "pronunciation": "dōng",
+    "definition": "east, eastern, eastward"
+  },
+  {
+    "char": "丝",
+    "pronunciation": "sī",
+    "definition": "silk; fine thread; wire; strings"
+  },
+  {
+    "char": "丢",
+    "pronunciation": "diū",
+    "definition": "discard"
+  },
+  {
+    "char": "两",
+    "pronunciation": "liǎng",
+    "definition": "two, both, pair, couple; ounce"
+  },
+  {
+    "char": "严",
+    "pronunciation": "yán",
+    "definition": "strict, rigorous, rigid; stern"
+  },
+  {
+    "char": "个",
+    "pronunciation": "gè",
+    "definition": "numerary adjunct, piece; single"
+  },
+  {
+    "char": "中",
+    "pronunciation": "zhōng",
+    "definition": "central; center, middle; in the midst of; hit (target); attain"
+  },
+  {
+    "char": "为",
+    "pronunciation": "wèi",
+    "definition": "do, handle, govern, act; be"
+  },
+  {
+    "char": "主",
+    "pronunciation": "zhǔ",
+    "definition": "master, chief owner; host; lord"
+  },
+  {
+    "char": "丽",
+    "pronunciation": "lì",
+    "definition": "beautiful, magnificent, elegant"
+  },
+  {
+    "char": "久",
+    "pronunciation": "jiǔ",
+    "definition": "long time (ago); time passage, grow late"
+  },
+  {
+    "char": "么",
+    "pronunciation": "me",
+    "definition": "interrogative particle; repetition of a tune small; tender"
+  },
+  {
+    "char": "义",
+    "pronunciation": "yì",
+    "definition": "right conduct, righteousness"
+  },
+  {
+    "char": "之",
+    "pronunciation": "zhī",
+    "definition": "marks preceding phrase as modifier of following phrase; it, him her, them; go to"
+  },
+  {
+    "char": "乎",
+    "pronunciation": "hū",
+    "definition": "interrogative or exclamatory final particle"
+  },
+  {
+    "char": "乐",
+    "pronunciation": "lè",
+    "definition": "happy, glad; enjoyable; music"
+  },
+  {
+    "char": "也",
+    "pronunciation": "yě",
+    "definition": "also; classical final particle of strong affirmation or identity"
+  },
+  {
+    "char": "习",
+    "pronunciation": "xí",
+    "definition": "practice; flapping wings"
+  },
+  {
+    "char": "书",
+    "pronunciation": "shū",
+    "definition": "book, letter, document; writings"
+  },
+  {
+    "char": "买",
+    "pronunciation": "mǎi",
+    "definition": "buy, purchase; bribe, persuade"
+  },
+  {
+    "char": "乱",
+    "pronunciation": "luàn",
+    "definition": "confusion, state of chaos, revolt"
+  },
+  {
+    "char": "了",
+    "pronunciation": "le",
+    "definition": "to finish; particle of completed action"
+  },
+  {
+    "char": "争",
+    "pronunciation": "zhēng",
+    "definition": "dispute, fight, contend, strive"
+  },
+  {
+    "char": "事",
+    "pronunciation": "shì",
+    "definition": "affair, matter, business; to serve; accident, incident"
+  },
+  {
+    "char": "二",
+    "pronunciation": "èr",
+    "definition": "two; twice"
+  },
+  {
+    "char": "于",
+    "pronunciation": "yú",
+    "definition": "in, on, at; go to; surname"
+  },
+  {
+    "char": "五",
+    "pronunciation": "wǔ",
+    "definition": "five; surname"
+  },
+  {
+    "char": "亚",
+    "pronunciation": "yà",
+    "definition": "Asia; second"
+  },
+  {
+    "char": "些",
+    "pronunciation": "xiē",
+    "definition": "little, few; rather, somewhat"
+  },
+  {
+    "char": "亡",
+    "pronunciation": "wáng",
+    "definition": "death, destroyed; lose, perish"
+  },
+  {
+    "char": "交",
+    "pronunciation": "jiāo",
+    "definition": "mix; intersect; exchange, communicate; deliver"
+  },
+  {
+    "char": "享",
+    "pronunciation": "xiǎng",
+    "definition": "enjoy"
+  },
+  {
+    "char": "亮",
+    "pronunciation": "liàng",
+    "definition": "bright, brilliant, radiant, light"
+  },
+  {
+    "char": "亲",
+    "pronunciation": "qīn",
+    "definition": "relatives, parents; intimate the hazel nut or filbert tree a thorny tree"
+  },
+  {
+    "char": "人",
+    "pronunciation": "rén",
+    "definition": "man; people; mankind; someone else"
+  },
+  {
+    "char": "什",
+    "pronunciation": "shén",
+    "definition": "file of ten soldiers; mixed, miscellaneous"
+  },
+  {
+    "char": "今",
+    "pronunciation": "jīn",
+    "definition": "now, today, modern era"
+  },
+  {
+    "char": "介",
+    "pronunciation": "jiè",
+    "definition": "forerunner, herald, harbinger; to lie between; sea shell; to wear armor"
+  },
+  {
+    "char": "仍",
+    "pronunciation": "réng",
+    "definition": "yet, still, as ever; again; keep -ing, continuing"
+  },
+  {
+    "char": "从",
+    "pronunciation": "cóng",
+    "definition": "from, by, since, whence, through"
+  },
+  {
+    "char": "他",
+    "pronunciation": "tā",
+    "definition": "other, another; he, she, it"
+  },
+  {
+    "char": "付",
+    "pronunciation": "fù",
+    "definition": "give, deliver, pay, hand over; entrust"
+  },
+  {
+    "char": "代",
+    "pronunciation": "dài",
+    "definition": "replace, replacement (of person or generation); era, generation"
+  },
+  {
+    "char": "令",
+    "pronunciation": "lìng",
+    "definition": "command, order; 'commandant', magistrate; allow, cause"
+  },
+  {
+    "char": "以",
+    "pronunciation": "yǐ",
+    "definition": "by means of; thereby, therefore; consider as; in order to"
+  },
+  {
+    "char": "们",
+    "pronunciation": "men",
+    "definition": "adjunct pronoun indicate plural"
+  },
+  {
+    "char": "件",
+    "pronunciation": "jiàn",
+    "definition": "numerary adjunct for article; matter"
+  },
+  {
+    "char": "任",
+    "pronunciation": "rèn",
+    "definition": "trust to, rely on, appoint; to bear, duty, office; allow"
+  },
+  {
+    "char": "份",
+    "pronunciation": "fèn",
+    "definition": "portion, part; duty"
+  },
+  {
+    "char": "伍",
+    "pronunciation": "wǔ",
+    "definition": "five, company of five; troops"
+  },
+  {
+    "char": "休",
+    "pronunciation": "xiū",
+    "definition": "rest, stop; retire; do not!"
+  },
+  {
+    "char": "众",
+    "pronunciation": "zhòng",
+    "definition": "multitude, crowd; masses, public"
+  },
+  {
+    "char": "伙",
+    "pronunciation": "huǒ",
+    "definition": "companion, colleague; utensils"
+  },
+  {
+    "char": "会",
+    "pronunciation": "huì",
+    "definition": "assemble, meet together; meeting"
+  },
+  {
+    "char": "伟",
+    "pronunciation": "wěi",
+    "definition": "great, robust; extraordinary"
+  },
+  {
+    "char": "传",
+    "pronunciation": "chuán",
+    "definition": "summon; propagate, transmit"
+  },
+  {
+    "char": "伤",
+    "pronunciation": "shāng",
+    "definition": "wound, injury; fall ill from"
+  },
+  {
+    "char": "似",
+    "pronunciation": "shì",
+    "definition": "resemble, similar to; as if, seem"
+  },
+  {
+    "char": "但",
+    "pronunciation": "dàn",
+    "definition": "only; but, however, yet, still"
+  },
+  {
+    "char": "位",
+    "pronunciation": "wèi",
+    "definition": "throne; position, post; rank, status; seat"
+  },
+  {
+    "char": "住",
+    "pronunciation": "zhù",
+    "definition": "reside, live at, dwell, lodge; stop"
+  },
+  {
+    "char": "体",
+    "pronunciation": "tǐ",
+    "definition": "body; group, class, body, unit; inferior"
+  },
+  {
+    "char": "何",
+    "pronunciation": "hé",
+    "definition": "what, why, where, which, how"
+  },
+  {
+    "char": "作",
+    "pronunciation": "zuò",
+    "definition": "make; work; compose, write; act, perform"
+  },
+  {
+    "char": "你",
+    "pronunciation": "nǐ",
+    "definition": "you, second person pronoun"
+  },
+  {
+    "char": "使",
+    "pronunciation": "shǐ",
+    "definition": "cause, send on a mission, order; envoy, messenger, ambassador"
+  },
+  {
+    "char": "供",
+    "pronunciation": "gōng",
+    "definition": "supply, provide for; offer in worship"
+  },
+  {
+    "char": "侦",
+    "pronunciation": "zhēn",
+    "definition": "spy, reconnoiter; detective"
+  },
+  {
+    "char": "便",
+    "pronunciation": "biàn",
+    "definition": "convenience, ease; expedient"
+  },
+  {
+    "char": "保",
+    "pronunciation": "bǎo",
+    "definition": "protect, safeguard, defend, care"
+  },
+  {
+    "char": "信",
+    "pronunciation": "xìn",
+    "definition": "trust, believe; letter"
+  },
+  {
+    "char": "俩",
+    "pronunciation": "liǎ",
+    "definition": "two, pair"
+  },
+  {
+    "char": "修",
+    "pronunciation": "xiū",
+    "definition": "study; repair; cultivate"
+  },
+  {
+    "char": "俱",
+    "pronunciation": "jù",
+    "definition": "all, together; accompany"
+  },
+  {
+    "char": "倒",
+    "pronunciation": "dào",
+    "definition": "fall over; lie down; take turns"
+  },
+  {
+    "char": "候",
+    "pronunciation": "hòu",
+    "definition": "wait; expect; visit; greet"
+  },
+  {
+    "char": "借",
+    "pronunciation": "jiè",
+    "definition": "borrow; lend; make pretext of"
+  },
+  {
+    "char": "值",
+    "pronunciation": "zhí",
+    "definition": "price"
+  },
+  {
+    "char": "假",
+    "pronunciation": "jiǎ",
+    "definition": "falsehood, deception; vacation"
+  },
+  {
+    "char": "做",
+    "pronunciation": "zuò",
+    "definition": "work, make; act"
+  },
+  {
+    "char": "停",
+    "pronunciation": "tíng",
+    "definition": "stop, suspend, delay; suitable"
+  },
+  {
+    "char": "健",
+    "pronunciation": "jiàn",
+    "definition": "strong, robust, healthy; strength"
+  },
+  {
+    "char": "偶",
+    "pronunciation": "ǒu",
+    "definition": "accidentally, coincidently; an idol"
+  },
+  {
+    "char": "偷",
+    "pronunciation": "tōu",
+    "definition": "to steal, burglar, thief"
+  },
+  {
+    "char": "傲",
+    "pronunciation": "ào",
+    "definition": "proud, haughty, overbearing"
+  },
+  {
+    "char": "傻",
+    "pronunciation": "shǎ",
+    "definition": "foolish, silly, stupid; an imbecile"
+  },
+  {
+    "char": "像",
+    "pronunciation": "xiàng",
+    "definition": "a picture, image, figure; to resemble"
+  },
+  {
+    "char": "儿",
+    "pronunciation": "ér",
+    "definition": "son, child; KangXi radical 10"
+  },
+  {
+    "char": "允",
+    "pronunciation": "yǔn",
+    "definition": "to grant, to allow, to consent"
+  },
+  {
+    "char": "元",
+    "pronunciation": "yuán",
+    "definition": "first; dollar; origin; head"
+  },
+  {
+    "char": "兄",
+    "pronunciation": "xiōng",
+    "definition": "elder brother"
+  },
+  {
+    "char": "充",
+    "pronunciation": "chōng",
+    "definition": "fill, be full, supply"
+  },
+  {
+    "char": "先",
+    "pronunciation": "xiān",
+    "definition": "first, former, previous"
+  },
+  {
+    "char": "光",
+    "pronunciation": "guāng",
+    "definition": "light, brilliant, shine; only"
+  },
+  {
+    "char": "克",
+    "pronunciation": "kè",
+    "definition": "gram; overcome; transliteration"
+  },
+  {
+    "char": "入",
+    "pronunciation": "rù",
+    "definition": "enter, come in(to), join"
+  },
+  {
+    "char": "全",
+    "pronunciation": "quán",
+    "definition": "maintain, keep whole or intact"
+  },
+  {
+    "char": "八",
+    "pronunciation": "bā",
+    "definition": "eight; all around, all sides"
+  },
+  {
+    "char": "公",
+    "pronunciation": "gōng",
+    "definition": "fair, equitable; public; duke"
+  },
+  {
+    "char": "六",
+    "pronunciation": "liù",
+    "definition": "number six"
+  },
+  {
+    "char": "关",
+    "pronunciation": "guān",
+    "definition": "frontier pass; close; relation"
+  },
+  {
+    "char": "兴",
+    "pronunciation": "xìng",
+    "definition": "thrive, prosper, flourish"
+  },
+  {
+    "char": "其",
+    "pronunciation": "qí",
+    "definition": "his, her, its, their; that"
+  },
+  {
+    "char": "养",
+    "pronunciation": "yǎng",
+    "definition": "raise, rear, bring up; support"
+  },
+  {
+    "char": "内",
+    "pronunciation": "nèi",
+    "definition": "inside"
+  },
+  {
+    "char": "再",
+    "pronunciation": "zài",
+    "definition": "again, twice, re-"
+  },
+  {
+    "char": "写",
+    "pronunciation": "xiě",
+    "definition": "write; draw, sketch; compose"
+  },
+  {
+    "char": "军",
+    "pronunciation": "jūn",
+    "definition": "army, military; soldiers, troops"
+  },
+  {
+    "char": "冠",
+    "pronunciation": "guān",
+    "definition": "cap, crown, headgear"
+  },
+  {
+    "char": "冲",
+    "pronunciation": "chōng",
+    "definition": "soar; pour boiling water over"
+  },
+  {
+    "char": "决",
+    "pronunciation": "jué",
+    "definition": "decide, determine, judge"
+  },
+  {
+    "char": "况",
+    "pronunciation": "kuàng",
+    "definition": "condition, situation; furthermore"
+  },
+  {
+    "char": "冷",
+    "pronunciation": "lěng",
+    "definition": "cold, cool; lonely"
+  },
+  {
+    "char": "净",
+    "pronunciation": "jìng",
+    "definition": "clean, pure; cleanse"
+  },
+  {
+    "char": "准",
+    "pronunciation": "zhǔn",
+    "definition": "approve, allow, permit; in accord"
+  },
+  {
+    "char": "几",
+    "pronunciation": "jǐ",
+    "definition": "small table"
+  },
+  {
+    "char": "凶",
+    "pronunciation": "xiōng",
+    "definition": "culprit; murder; bad, sad"
+  },
+  {
+    "char": "出",
+    "pronunciation": "chū",
+    "definition": "go out, send out; stand; produce"
+  },
+  {
+    "char": "击",
+    "pronunciation": "jī",
+    "definition": "strike, hit, beat; attack, fight"
+  },
+  {
+    "char": "刀",
+    "pronunciation": "dāo",
+    "definition": "knife; old coin; measure"
+  },
+  {
+    "char": "分",
+    "pronunciation": "fēn",
+    "definition": "divide; small unit of time etc."
+  },
+  {
+    "char": "切",
+    "pronunciation": "qiè",
+    "definition": "cut, mince, slice, carve"
+  },
+  {
+    "char": "划",
+    "pronunciation": "huà",
+    "definition": "to row or paddle boat; to scratch"
+  },
+  {
+    "char": "则",
+    "pronunciation": "zé",
+    "definition": "rule, law, regulation; grades"
+  },
+  {
+    "char": "刚",
+    "pronunciation": "gāng",
+    "definition": "hard, tough, rigid, strong"
+  },
+  {
+    "char": "利",
+    "pronunciation": "lì",
+    "definition": "gains, advantage, profit, merit"
+  },
+  {
+    "char": "别",
+    "pronunciation": "bié",
+    "definition": "separate, other; do not"
+  },
+  {
+    "char": "到",
+    "pronunciation": "dào",
+    "definition": "go to, arrive, been to"
+  },
+  {
+    "char": "制",
+    "pronunciation": "zhì",
+    "definition": "system; establish; overpower"
+  },
+  {
+    "char": "刻",
+    "pronunciation": "kè",
+    "definition": "carve, engrave; quarter hour"
+  },
+  {
+    "char": "前",
+    "pronunciation": "qián",
+    "definition": "in front, forward; preceding"
+  },
+  {
+    "char": "剩",
+    "pronunciation": "shèng",
+    "definition": "leftovers, residue, remains"
+  },
+  {
+    "char": "副",
+    "pronunciation": "fù",
+    "definition": "assist; supplement; assistant"
+  },
+  {
+    "char": "力",
+    "pronunciation": "lì",
+    "definition": "power, capability, influence"
+  },
+  {
+    "char": "办",
+    "pronunciation": "bàn",
+    "definition": "manage, do, handle; deal with"
+  },
+  {
+    "char": "功",
+    "pronunciation": "gōng",
+    "definition": "achievement, merit, good result"
+  },
+  {
+    "char": "加",
+    "pronunciation": "jiā",
+    "definition": "add to, increase, augment"
+  },
+  {
+    "char": "务",
+    "pronunciation": "wù",
+    "definition": "affairs, business; must, should"
+  },
+  {
+    "char": "动",
+    "pronunciation": "dòng",
+    "definition": "move, happen; movement, action"
+  },
+  {
+    "char": "助",
+    "pronunciation": "zhù",
+    "definition": "help, aid, assist"
+  },
+  {
+    "char": "努",
+    "pronunciation": "nǔ",
+    "definition": "to exert, strive, make an effort; to pout"
+  },
+  {
+    "char": "包",
+    "pronunciation": "bāo",
+    "definition": "wrap, pack, bundle; package"
+  },
+  {
+    "char": "匙",
+    "pronunciation": "shi",
+    "definition": "spoon; surname"
+  },
+  {
+    "char": "区",
+    "pronunciation": "qū",
+    "definition": "area, district, region, ward"
+  },
+  {
+    "char": "医",
+    "pronunciation": "yī",
+    "definition": "cure, heal; doctor, medical"
+  },
+  {
+    "char": "十",
+    "pronunciation": "shí",
+    "definition": "ten, tenth; complete; perfect"
+  },
+  {
+    "char": "午",
+    "pronunciation": "wǔ",
+    "definition": "noon; 7th terrestrial branch"
+  },
+  {
+    "char": "半",
+    "pronunciation": "bàn",
+    "definition": "half"
+  },
+  {
+    "char": "单",
+    "pronunciation": "dān",
+    "definition": "single, individual, only; lone"
+  },
+  {
+    "char": "卖",
+    "pronunciation": "mài",
+    "definition": "sell; betray; show off"
+  },
+  {
+    "char": "博",
+    "pronunciation": "bó",
+    "definition": "gamble, play games; wide, broad"
+  },
+  {
+    "char": "卡",
+    "pronunciation": "kǎ",
+    "definition": "card, punch card; calorie"
+  },
+  {
+    "char": "危",
+    "pronunciation": "wēi",
+    "definition": "dangerous, precarious; high"
+  },
+  {
+    "char": "即",
+    "pronunciation": "jí",
+    "definition": "promptly, quickly, immediately"
+  },
+  {
+    "char": "却",
+    "pronunciation": "què",
+    "definition": "still, but; decline; retreat"
+  },
+  {
+    "char": "历",
+    "pronunciation": "lì",
+    "definition": "history; calendar"
+  },
+  {
+    "char": "厉",
+    "pronunciation": "lì",
+    "definition": "whetstone; grind, sharpen; whet"
+  },
+  {
+    "char": "压",
+    "pronunciation": "yā",
+    "definition": "press; oppress; crush; pressure"
+  },
+  {
+    "char": "厌",
+    "pronunciation": "yàn",
+    "definition": "dislike, detest, reject; satiate"
+  },
+  {
+    "char": "原",
+    "pronunciation": "yuán",
+    "definition": "source, origin, beginning"
+  },
+  {
+    "char": "去",
+    "pronunciation": "qù",
+    "definition": "go away, leave, depart"
+  },
+  {
+    "char": "参",
+    "pronunciation": "cān",
+    "definition": "take part in, intervene; ginseng"
+  },
+  {
+    "char": "又",
+    "pronunciation": "yòu",
+    "definition": "and, also, again, in addition"
+  },
+  {
+    "char": "及",
+    "pronunciation": "jí",
+    "definition": "extend; reach; come up to; and"
+  },
+  {
+    "char": "友",
+    "pronunciation": "yǒu",
+    "definition": "friend, companion; fraternity"
+  },
+  {
+    "char": "双",
+    "pronunciation": "shuāng",
+    "definition": "set of two, pair, couple; both"
+  },
+  {
+    "char": "反",
+    "pronunciation": "fǎn",
+    "definition": "reverse, opposite, contrary, anti"
+  },
+  {
+    "char": "发",
+    "pronunciation": "fā",
+    "definition": "issue, dispatch, send out; hair"
+  },
+  {
+    "char": "叔",
+    "pronunciation": "shū",
+    "definition": "father's younger brother"
+  },
+  {
+    "char": "取",
+    "pronunciation": "qǔ",
+    "definition": "take, receive, obtain; select"
+  },
+  {
+    "char": "受",
+    "pronunciation": "shòu",
+    "definition": "receive, accept, get; bear, stand"
+  },
+  {
+    "char": "变",
+    "pronunciation": "biàn",
+    "definition": "change, transform, alter; rebel"
+  },
+  {
+    "char": "口",
+    "pronunciation": "kǒu",
+    "definition": "mouth; open end; entrance, gate"
+  },
+  {
+    "char": "句",
+    "pronunciation": "jù",
+    "definition": "sentence"
+  },
+  {
+    "char": "另",
+    "pronunciation": "lìng",
+    "definition": "another, separate, other"
+  },
+  {
+    "char": "只",
+    "pronunciation": "zhǐ",
+    "definition": "only, just, simply"
+  },
+  {
+    "char": "叫",
+    "pronunciation": "jiào",
+    "definition": "cry, shout; hail, greet, call"
+  },
+  {
+    "char": "可",
+    "pronunciation": "kě",
+    "definition": "may, can, -able; possibly"
+  },
+  {
+    "char": "台",
+    "pronunciation": "tái",
+    "definition": "platform; unit; term of address"
+  },
+  {
+    "char": "史",
+    "pronunciation": "shǐ",
+    "definition": "history, chronicle, annals"
+  },
+  {
+    "char": "号",
+    "pronunciation": "hào",
+    "definition": "mark, sign; symbol; number"
+  },
+  {
+    "char": "司",
+    "pronunciation": "sī",
+    "definition": "take charge of, control, manage; officer"
+  },
+  {
+    "char": "吃",
+    "pronunciation": "chī",
+    "definition": "eat; drink; suffer, endure, bear"
+  },
+  {
+    "char": "各",
+    "pronunciation": "gè",
+    "definition": "each, individually, every, all"
+  },
+  {
+    "char": "合",
+    "pronunciation": "hé",
+    "definition": "combine, unite, join; gather"
+  },
+  {
+    "char": "吉",
+    "pronunciation": "jí",
+    "definition": "lucky, propitious, good"
+  },
+  {
+    "char": "同",
+    "pronunciation": "tóng",
+    "definition": "same, similar; together with"
+  },
+  {
+    "char": "名",
+    "pronunciation": "míng",
+    "definition": "name, rank, title, position"
+  },
+  {
+    "char": "后",
+    "pronunciation": "hòu",
+    "definition": "queen, empress, sovereign; (simp. for 後) behind, rear, after"
+  },
+  {
+    "char": "吐",
+    "pronunciation": "tǔ",
+    "definition": "vomit, spew out, cough up"
+  },
+  {
+    "char": "向",
+    "pronunciation": "xiàng",
+    "definition": "toward, direction, trend"
+  },
+  {
+    "char": "吓",
+    "pronunciation": "xià",
+    "definition": "scare, frighten; intimidate"
+  },
+  {
+    "char": "吗",
+    "pronunciation": "ma",
+    "definition": "final interrogative particle"
+  },
+  {
+    "char": "否",
+    "pronunciation": "fǒu",
+    "definition": "not, no, negative; final particle"
+  },
+  {
+    "char": "吧",
+    "pronunciation": "ba",
+    "definition": "emphatic final particle"
+  },
+  {
+    "char": "听",
+    "pronunciation": "tīng",
+    "definition": "hear; understand; obey, comply"
+  },
+  {
+    "char": "吵",
+    "pronunciation": "chǎo",
+    "definition": "argue, dispute; disturb, annoy"
+  },
+  {
+    "char": "吸",
+    "pronunciation": "xī",
+    "definition": "inhale, suck in; absorb; attract"
+  },
+  {
+    "char": "吹",
+    "pronunciation": "chuī",
+    "definition": "blow; puff; brag, boast"
+  },
+  {
+    "char": "吻",
+    "pronunciation": "wěn",
+    "definition": "kiss; the lips; coinciding"
+  },
+  {
+    "char": "呀",
+    "pronunciation": "ya",
+    "definition": "particle used to express surprise or mild emphasis; "
+  },
+  {
+    "char": "呃",
+    "pronunciation": "è",
+    "definition": "belch; hiccup"
+  },
+  {
+    "char": "呆",
+    "pronunciation": "dāi",
+    "definition": "dull; dull-minded, simple, stupid"
+  },
+  {
+    "char": "告",
+    "pronunciation": "gào",
+    "definition": "tell, announce, inform; accuse"
+  },
+  {
+    "char": "员",
+    "pronunciation": "yuán",
+    "definition": "member; personnel, staff member"
+  },
+  {
+    "char": "呢",
+    "pronunciation": "ne",
+    "definition": "interrogative or emphatic final; "
+  },
+  {
+    "char": "周",
+    "pronunciation": "zhōu",
+    "definition": "Zhou dynasty; circumference"
+  },
+  {
+    "char": "味",
+    "pronunciation": "wèi",
+    "definition": "taste, smell, odor; delicacy"
+  },
+  {
+    "char": "呼",
+    "pronunciation": "hū",
+    "definition": "breathe sigh, exhale; call, shout"
+  },
+  {
+    "char": "命",
+    "pronunciation": "mìng",
+    "definition": "life; destiny, fate, luck; an order, instruction"
+  },
+  {
+    "char": "和",
+    "pronunciation": "hé",
+    "definition": "harmony, peace; peaceful, calm"
+  },
+  {
+    "char": "咖",
+    "pronunciation": "kā",
+    "definition": "coffee; a phonetic"
+  },
+  {
+    "char": "咬",
+    "pronunciation": "yǎo",
+    "definition": "bite, gnaw"
+  },
+  {
+    "char": "咱",
+    "pronunciation": "zán",
+    "definition": "we, us"
+  },
+  {
+    "char": "品",
+    "pronunciation": "pǐn",
+    "definition": "article, product, commodity"
+  },
+  {
+    "char": "哇",
+    "pronunciation": "wa",
+    "definition": "vomit; cry of an infant"
+  },
+  {
+    "char": "哈",
+    "pronunciation": "hā",
+    "definition": "sound of laughter"
+  },
+  {
+    "char": "响",
+    "pronunciation": "xiǎng",
+    "definition": "make sound, make noise; sound"
+  },
+  {
+    "char": "哥",
+    "pronunciation": "gē",
+    "definition": "elder brother"
+  },
+  {
+    "char": "哦",
+    "pronunciation": "ó",
+    "definition": "oh? really? is that so?"
+  },
+  {
+    "char": "哪",
+    "pronunciation": "nǎ",
+    "definition": "which? where? how?"
+  },
+  {
+    "char": "哭",
+    "pronunciation": "kū",
+    "definition": "weep, cry, wail"
+  },
+  {
+    "char": "唔",
+    "pronunciation": "wú",
+    "definition": "hold in mouth; bite; "
+  },
+  {
+    "char": "唯",
+    "pronunciation": "wéi",
+    "definition": "only; yes"
+  },
+  {
+    "char": "唱",
+    "pronunciation": "chàng",
+    "definition": "sing, chant, call; ditty, song"
+  },
+  {
+    "char": "啊",
+    "pronunciation": "a",
+    "definition": "exclamatory particle"
+  },
+  {
+    "char": "啡",
+    "pronunciation": "fēi",
+    "definition": "morphine; coffee"
+  },
+  {
+    "char": "啤",
+    "pronunciation": "pí",
+    "definition": "beer"
+  },
+  {
+    "char": "啥",
+    "pronunciation": "shà",
+    "definition": "what?"
+  },
+  {
+    "char": "啦",
+    "pronunciation": "la",
+    "definition": "final particle of assertion"
+  },
+  {
+    "char": "喂",
+    "pronunciation": "wèi",
+    "definition": "interjection to call attention"
+  },
+  {
+    "char": "喔",
+    "pronunciation": "ō",
+    "definition": "descriptive of crying or of crowing"
+  },
+  {
+    "char": "喜",
+    "pronunciation": "xǐ",
+    "definition": "like, love, enjoy; joyful thing"
+  },
+  {
+    "char": "喝",
+    "pronunciation": "hē",
+    "definition": "drink; shout, call out"
+  },
+  {
+    "char": "嗨",
+    "pronunciation": "hāi",
+    "definition": "an exclamation"
+  },
+  {
+    "char": "嗯",
+    "pronunciation": "ń",
+    "definition": "final particle"
+  },
+  {
+    "char": "嘘",
+    "pronunciation": "xū",
+    "definition": "exhale; blow out; deep sigh; hiss; praise"
+  },
+  {
+    "char": "嘛",
+    "pronunciation": "ma",
+    "definition": "final exclamatory particle"
+  },
+  {
+    "char": "嘴",
+    "pronunciation": "zuǐ",
+    "definition": "mouth, lips"
+  },
+  {
+    "char": "嘿",
+    "pronunciation": "hēi",
+    "definition": "be silent, be quiet"
+  },
+  {
+    "char": "噢",
+    "pronunciation": "ō",
+    "definition": "moan; interjection for pain, sad"
+  },
+  {
+    "char": "器",
+    "pronunciation": "qì",
+    "definition": "receptacle, vessel; instrument"
+  },
+  {
+    "char": "四",
+    "pronunciation": "sì",
+    "definition": "four"
+  },
+  {
+    "char": "回",
+    "pronunciation": "huí",
+    "definition": "return, turn around; a time"
+  },
+  {
+    "char": "因",
+    "pronunciation": "yīn",
+    "definition": "cause, reason; by; because (of)"
+  },
+  {
+    "char": "园",
+    "pronunciation": "yuán",
+    "definition": "garden; park, orchard"
+  },
+  {
+    "char": "困",
+    "pronunciation": "kùn",
+    "definition": "to surround, beseige; to be surrounded; difficult"
+  },
+  {
+    "char": "围",
+    "pronunciation": "wéi",
+    "definition": "surround, encircle, corral"
+  },
+  {
+    "char": "国",
+    "pronunciation": "guó",
+    "definition": "nation, country, nation-state"
+  },
+  {
+    "char": "图",
+    "pronunciation": "tú",
+    "definition": "diagram; chart, map, picture"
+  },
+  {
+    "char": "圈",
+    "pronunciation": "quān",
+    "definition": "to circle; a circle; corral"
+  },
+  {
+    "char": "圣",
+    "pronunciation": "shèng",
+    "definition": "holy, sacred"
+  },
+  {
+    "char": "在",
+    "pronunciation": "zài",
+    "definition": "be at, in, on; consist in, rest"
+  },
+  {
+    "char": "地",
+    "pronunciation": "de dì",
+    "definition": "earth; soil, ground; region"
+  },
+  {
+    "char": "场",
+    "pronunciation": "chǎng",
+    "definition": "open space, field, market"
+  },
+  {
+    "char": "圾",
+    "pronunciation": "jī",
+    "definition": "garbage, rubbish; shaking; danger"
+  },
+  {
+    "char": "址",
+    "pronunciation": "zhǐ",
+    "definition": "site, location, land for house"
+  },
+  {
+    "char": "坏",
+    "pronunciation": "huài",
+    "definition": "rotten, spoilt, bad, broken down"
+  },
+  {
+    "char": "坐",
+    "pronunciation": "zuò",
+    "definition": "sit; seat; ride, travel by"
+  },
+  {
+    "char": "块",
+    "pronunciation": "kuài",
+    "definition": "piece, lump; dollar"
+  },
+  {
+    "char": "坚",
+    "pronunciation": "jiān",
+    "definition": "hard, strong, firm; resolute"
+  },
+  {
+    "char": "垃",
+    "pronunciation": "lā",
+    "definition": "garbage, refuse, waste"
+  },
+  {
+    "char": "城",
+    "pronunciation": "chéng",
+    "definition": "castle; city, town; municipality"
+  },
+  {
+    "char": "堂",
+    "pronunciation": "táng",
+    "definition": "hall; government office"
+  },
+  {
+    "char": "堆",
+    "pronunciation": "duī",
+    "definition": "heap, pile, crowd; pile up"
+  },
+  {
+    "char": "士",
+    "pronunciation": "shì",
+    "definition": "scholar, gentleman; soldier"
+  },
+  {
+    "char": "声",
+    "pronunciation": "shēng",
+    "definition": "sound, voice, noise; tone; music"
+  },
+  {
+    "char": "处",
+    "pronunciation": "chù",
+    "definition": "place, locale; department"
+  },
+  {
+    "char": "备",
+    "pronunciation": "bèi",
+    "definition": "prepare, ready, perfect"
+  },
+  {
+    "char": "复",
+    "pronunciation": "fù",
+    "definition": "return; repeat; repeatedly"
+  },
+  {
+    "char": "外",
+    "pronunciation": "wài",
+    "definition": "out, outside, external; foreign"
+  },
+  {
+    "char": "多",
+    "pronunciation": "duō",
+    "definition": "much, many; more than, over"
+  },
+  {
+    "char": "夜",
+    "pronunciation": "yè",
+    "definition": "night, dark; in night; by night"
+  },
+  {
+    "char": "够",
+    "pronunciation": "gòu",
+    "definition": "enough, adequate"
+  },
+  {
+    "char": "大",
+    "pronunciation": "dà",
+    "definition": "big, great, vast, large, high"
+  },
+  {
+    "char": "天",
+    "pronunciation": "tiān",
+    "definition": "sky, heaven; god, celestial"
+  },
+  {
+    "char": "太",
+    "pronunciation": "tài",
+    "definition": "very, too, much; big; extreme"
+  },
+  {
+    "char": "夫",
+    "pronunciation": "fū",
+    "definition": "man, male adult, husband; those"
+  },
+  {
+    "char": "失",
+    "pronunciation": "shī",
+    "definition": "lose; make mistake, neglect"
+  },
+  {
+    "char": "头",
+    "pronunciation": "tóu",
+    "definition": "head; top; chief, first; boss"
+  },
+  {
+    "char": "奇",
+    "pronunciation": "qí",
+    "definition": "strange, unusual, uncanny, occult"
+  },
+  {
+    "char": "奋",
+    "pronunciation": "fèn",
+    "definition": "strive, exert effort; arouse"
+  },
+  {
+    "char": "套",
+    "pronunciation": "tào",
+    "definition": "case, cover, wrapper, envelope"
+  },
+  {
+    "char": "女",
+    "pronunciation": "nǚ",
+    "definition": "woman, girl; feminine; rad. 38"
+  },
+  {
+    "char": "奶",
+    "pronunciation": "nǎi",
+    "definition": "milk; woman's breasts; nurse"
+  },
+  {
+    "char": "她",
+    "pronunciation": "tā",
+    "definition": "she, her"
+  },
+  {
+    "char": "好",
+    "pronunciation": "hǎo",
+    "definition": "good, excellent, fine; well"
+  },
+  {
+    "char": "如",
+    "pronunciation": "rú",
+    "definition": "if, supposing; as if; like, as"
+  },
+  {
+    "char": "妈",
+    "pronunciation": "mā",
+    "definition": "mother, mama"
+  },
+  {
+    "char": "妹",
+    "pronunciation": "mèi",
+    "definition": "younger sister"
+  },
+  {
+    "char": "妻",
+    "pronunciation": "qī",
+    "definition": "wife"
+  },
+  {
+    "char": "始",
+    "pronunciation": "shǐ",
+    "definition": "begin, start; then, only then"
+  },
+  {
+    "char": "姐",
+    "pronunciation": "jiě",
+    "definition": "elder sister, young lady"
+  },
+  {
+    "char": "姑",
+    "pronunciation": "gū",
+    "definition": "father's sister; husband's mother"
+  },
+  {
+    "char": "委",
+    "pronunciation": "wěi",
+    "definition": "appoint, send, commission"
+  },
+  {
+    "char": "姻",
+    "pronunciation": "yīn",
+    "definition": "relatives by marriage"
+  },
+  {
+    "char": "威",
+    "pronunciation": "wēi",
+    "definition": "pomp, power; powerful; dominate"
+  },
+  {
+    "char": "娘",
+    "pronunciation": "niáng",
+    "definition": "mother; young girl; woman; wife"
+  },
+  {
+    "char": "婆",
+    "pronunciation": "pó",
+    "definition": "old woman; grandmother"
+  },
+  {
+    "char": "婊",
+    "pronunciation": "biǎo",
+    "definition": "whore, prostitute"
+  },
+  {
+    "char": "婚",
+    "pronunciation": "hūn",
+    "definition": "get married; marriage, wedding"
+  },
+  {
+    "char": "嫁",
+    "pronunciation": "jià",
+    "definition": "to marry, give a daughter in marriage"
+  },
+  {
+    "char": "子",
+    "pronunciation": "zi",
+    "definition": "offspring, child; fruit, seed of; 1st terrestrial branch"
+  },
+  {
+    "char": "孕",
+    "pronunciation": "yùn",
+    "definition": "be pregnant, pregnancy"
+  },
+  {
+    "char": "字",
+    "pronunciation": "zì",
+    "definition": "letter, character, word"
+  },
+  {
+    "char": "存",
+    "pronunciation": "cún",
+    "definition": "exist, live, be; survive; remain"
+  },
+  {
+    "char": "季",
+    "pronunciation": "jì",
+    "definition": "quarter of year; season; surname"
+  },
+  {
+    "char": "学",
+    "pronunciation": "xué",
+    "definition": "learning, knowledge; school"
+  },
+  {
+    "char": "孩",
+    "pronunciation": "hái",
+    "definition": "baby, child; children"
+  },
+  {
+    "char": "它",
+    "pronunciation": "tā",
+    "definition": "it; other"
+  },
+  {
+    "char": "安",
+    "pronunciation": "ān",
+    "definition": "peaceful, tranquil, quiet"
+  },
+  {
+    "char": "完",
+    "pronunciation": "wán",
+    "definition": "complete, finish, settle; whole"
+  },
+  {
+    "char": "官",
+    "pronunciation": "guān",
+    "definition": "official, public servant"
+  },
+  {
+    "char": "定",
+    "pronunciation": "dìng",
+    "definition": "decide, settle, fix"
+  },
+  {
+    "char": "宝",
+    "pronunciation": "bǎo",
+    "definition": "treasure, jewel; precious, rare"
+  },
+  {
+    "char": "实",
+    "pronunciation": "shí",
+    "definition": "real, true; honest, sincere"
+  },
+  {
+    "char": "客",
+    "pronunciation": "kè",
+    "definition": "guest, traveller; customer"
+  },
+  {
+    "char": "室",
+    "pronunciation": "shì",
+    "definition": "room, home, house, chamber"
+  },
+  {
+    "char": "害",
+    "pronunciation": "hài",
+    "definition": "injure, harm; destroy, kill"
+  },
+  {
+    "char": "家",
+    "pronunciation": "jiā",
+    "definition": "house, home, residence; family"
+  },
+  {
+    "char": "容",
+    "pronunciation": "róng",
+    "definition": "looks, appearance; figure, form"
+  },
+  {
+    "char": "寄",
+    "pronunciation": "jì",
+    "definition": "send, transmit, mail; rely on"
+  },
+  {
+    "char": "密",
+    "pronunciation": "mì",
+    "definition": "dense, thick, close; intimate"
+  },
+  {
+    "char": "寓",
+    "pronunciation": "yù",
+    "definition": "residence; lodge; dwell"
+  },
+  {
+    "char": "察",
+    "pronunciation": "chá",
+    "definition": "examine, investigate; notice"
+  },
+  {
+    "char": "对",
+    "pronunciation": "duì",
+    "definition": "correct, right; facing, opposed"
+  },
+  {
+    "char": "寻",
+    "pronunciation": "xún",
+    "definition": "seek, search, look for; ancient"
+  },
+  {
+    "char": "封",
+    "pronunciation": "fēng",
+    "definition": "letter, envelope; feudal"
+  },
+  {
+    "char": "射",
+    "pronunciation": "shè",
+    "definition": "shoot, eject, issue forth, emit"
+  },
+  {
+    "char": "将",
+    "pronunciation": "jiāng",
+    "definition": "will, going to, future; general"
+  },
+  {
+    "char": "尊",
+    "pronunciation": "zūn",
+    "definition": "respect, revere, venerate; honor"
+  },
+  {
+    "char": "小",
+    "pronunciation": "xiǎo",
+    "definition": "small, tiny, insignificant"
+  },
+  {
+    "char": "少",
+    "pronunciation": "shǎo",
+    "definition": "few, less, inadequate"
+  },
+  {
+    "char": "尔",
+    "pronunciation": "ěr",
+    "definition": "you; that, those; final particle"
+  },
+  {
+    "char": "尝",
+    "pronunciation": "cháng",
+    "definition": "taste; experience, experiment"
+  },
+  {
+    "char": "就",
+    "pronunciation": "jiù",
+    "definition": "just, simply; to come, go to; to approach, near"
+  },
+  {
+    "char": "尸",
+    "pronunciation": "shī",
+    "definition": "corpse; to impersonate the dead; to preside; KangXi radical 44"
+  },
+  {
+    "char": "尼",
+    "pronunciation": "ní",
+    "definition": "Buddhist nun; transliteration"
+  },
+  {
+    "char": "尽",
+    "pronunciation": "jǐn",
+    "definition": "exhaust, use up; deplete"
+  },
+  {
+    "char": "局",
+    "pronunciation": "jú",
+    "definition": "bureau, office; circumstance"
+  },
+  {
+    "char": "屁",
+    "pronunciation": "pì",
+    "definition": "break wind; fart; buttocks"
+  },
+  {
+    "char": "居",
+    "pronunciation": "jū",
+    "definition": "live, dwell, reside, sit"
+  },
+  {
+    "char": "属",
+    "pronunciation": "shǔ",
+    "definition": "class, category, type; belong to"
+  },
+  {
+    "char": "山",
+    "pronunciation": "shān",
+    "definition": "mountain, hill, peak"
+  },
+  {
+    "char": "岁",
+    "pronunciation": "suì",
+    "definition": "year; age; harvest"
+  },
+  {
+    "char": "岛",
+    "pronunciation": "dǎo",
+    "definition": "island"
+  },
+  {
+    "char": "州",
+    "pronunciation": "zhōu",
+    "definition": "administrative division, state"
+  },
+  {
+    "char": "工",
+    "pronunciation": "gōng",
+    "definition": "labor, work; worker, laborer"
+  },
+  {
+    "char": "差",
+    "pronunciation": "chà chā",
+    "definition": "to differ; different, wrong; nearly, almost; an officer"
+  },
+  {
+    "char": "己",
+    "pronunciation": "jǐ",
+    "definition": "self, oneself; personal, private; 6th heavenly stem"
+  },
+  {
+    "char": "已",
+    "pronunciation": "yǐ",
+    "definition": "already; finished; stop"
+  },
+  {
+    "char": "市",
+    "pronunciation": "shì",
+    "definition": "market, fair; city, town; trade"
+  },
+  {
+    "char": "帅",
+    "pronunciation": "shuài",
+    "definition": "commander, commander-in-chief"
+  },
+  {
+    "char": "师",
+    "pronunciation": "shī",
+    "definition": "teacher, master, specialist"
+  },
+  {
+    "char": "希",
+    "pronunciation": "xī",
+    "definition": "rare; hope, expect, strive for"
+  },
+  {
+    "char": "帐",
+    "pronunciation": "zhàng",
+    "definition": "tent; screen, mosquito net"
+  },
+  {
+    "char": "帝",
+    "pronunciation": "dì",
+    "definition": "supreme ruler, emperor; god"
+  },
+  {
+    "char": "带",
+    "pronunciation": "dài",
+    "definition": "belt, girdle, band, strap, zone"
+  },
+  {
+    "char": "帮",
+    "pronunciation": "bāng",
+    "definition": "help, assist; defend; shoe upper"
+  },
+  {
+    "char": "常",
+    "pronunciation": "cháng",
+    "definition": "common, normal, frequent, regular"
+  },
+  {
+    "char": "干",
+    "pronunciation": "gàn",
+    "definition": "oppose, offend; invade; dried"
+  },
+  {
+    "char": "平",
+    "pronunciation": "píng",
+    "definition": "flat, level, even; peaceful"
+  },
+  {
+    "char": "年",
+    "pronunciation": "nián",
+    "definition": "year; new-years; person's age"
+  },
+  {
+    "char": "并",
+    "pronunciation": "bìng",
+    "definition": "combine, annex; also, what's more"
+  },
+  {
+    "char": "幸",
+    "pronunciation": "xìng",
+    "definition": "luck(ily), favor, fortunately"
+  },
+  {
+    "char": "广",
+    "pronunciation": "guǎng",
+    "definition": "wide, extensive, broad; rad. 53"
+  },
+  {
+    "char": "庆",
+    "pronunciation": "qìng",
+    "definition": "congratulate, celebrate"
+  },
+  {
+    "char": "床",
+    "pronunciation": "chuáng",
+    "definition": "bed, couch; framework, chassis"
+  },
+  {
+    "char": "应",
+    "pronunciation": "yīng",
+    "definition": "should, ought to, must"
+  },
+  {
+    "char": "底",
+    "pronunciation": "dǐ",
+    "definition": "bottom, underneath, underside"
+  },
+  {
+    "char": "店",
+    "pronunciation": "diàn",
+    "definition": "shop, store; inn, hotel"
+  },
+  {
+    "char": "府",
+    "pronunciation": "fǔ",
+    "definition": "prefecture; prefect; government"
+  },
+  {
+    "char": "度",
+    "pronunciation": "dù",
+    "definition": "degree, system; manner; to consider"
+  },
+  {
+    "char": "座",
+    "pronunciation": "zuò",
+    "definition": "seat; stand, base"
+  },
+  {
+    "char": "庭",
+    "pronunciation": "tíng",
+    "definition": "courtyard; spacious hall or yard"
+  },
+  {
+    "char": "康",
+    "pronunciation": "kāng",
+    "definition": "peaceful, quiet; happy, healthy"
+  },
+  {
+    "char": "建",
+    "pronunciation": "jiàn",
+    "definition": "build, establish, erect, found"
+  },
+  {
+    "char": "开",
+    "pronunciation": "kāi",
+    "definition": "open; initiate, begin, start"
+  },
+  {
+    "char": "弃",
+    "pronunciation": "qì",
+    "definition": "reject, abandon, discard"
+  },
+  {
+    "char": "弄",
+    "pronunciation": "nòng",
+    "definition": "do, play or fiddle with; alley"
+  },
+  {
+    "char": "式",
+    "pronunciation": "shì",
+    "definition": "style, system, formula, rule"
+  },
+  {
+    "char": "弟",
+    "pronunciation": "dì",
+    "definition": "young brother; junior; i, me"
+  },
+  {
+    "char": "张",
+    "pronunciation": "zhāng",
+    "definition": "stretch, extend, expand; sheet"
+  },
+  {
+    "char": "弹",
+    "pronunciation": "dàn",
+    "definition": "pellet, bullet, shot, shell"
+  },
+  {
+    "char": "强",
+    "pronunciation": "qiáng",
+    "definition": "strong, powerful, energetic"
+  },
+  {
+    "char": "当",
+    "pronunciation": "dāng",
+    "definition": "bear, accept, undertake; just"
+  },
+  {
+    "char": "录",
+    "pronunciation": "lù",
+    "definition": "copy, write down, record"
+  },
+  {
+    "char": "彩",
+    "pronunciation": "cǎi",
+    "definition": "hue, color; variegated colors"
+  },
+  {
+    "char": "影",
+    "pronunciation": "yǐng",
+    "definition": "shadow; image, reflection; photograph"
+  },
+  {
+    "char": "彼",
+    "pronunciation": "bǐ",
+    "definition": "that, there, those"
+  },
+  {
+    "char": "往",
+    "pronunciation": "wǎng",
+    "definition": "go, depart; past, formerly"
+  },
+  {
+    "char": "待",
+    "pronunciation": "dài",
+    "definition": "treat, entertain, receive; wait"
+  },
+  {
+    "char": "很",
+    "pronunciation": "hěn",
+    "definition": "very, quite, much"
+  },
+  {
+    "char": "律",
+    "pronunciation": "lǜ",
+    "definition": "statute, principle, regulation"
+  },
+  {
+    "char": "得",
+    "pronunciation": "dé",
+    "definition": "obtain, get, gain, acquire"
+  },
+  {
+    "char": "德",
+    "pronunciation": "dé",
+    "definition": "ethics, morality, virtue"
+  },
+  {
+    "char": "心",
+    "pronunciation": "xīn",
+    "definition": "heart; mind, intelligence; soul"
+  },
+  {
+    "char": "必",
+    "pronunciation": "bì",
+    "definition": "surely, most certainly; must"
+  },
+  {
+    "char": "忆",
+    "pronunciation": "yì",
+    "definition": "remember, reflect upon; memory"
+  },
+  {
+    "char": "志",
+    "pronunciation": "zhì",
+    "definition": "purpose, will, determination; annals"
+  },
+  {
+    "char": "忘",
+    "pronunciation": "wàng",
+    "definition": "forget; neglect; miss, omit"
+  },
+  {
+    "char": "忙",
+    "pronunciation": "máng",
+    "definition": "busy, pressed for time; hustling"
+  },
+  {
+    "char": "快",
+    "pronunciation": "kuài",
+    "definition": "rapid, quick, speedy, fast; soon"
+  },
+  {
+    "char": "怀",
+    "pronunciation": "huái",
+    "definition": "bosom, breast; carry in bosom"
+  },
+  {
+    "char": "态",
+    "pronunciation": "tài",
+    "definition": "manner, bearing, attitude"
+  },
+  {
+    "char": "怎",
+    "pronunciation": "zěn",
+    "definition": "what? why? how?"
+  },
+  {
+    "char": "怕",
+    "pronunciation": "pà",
+    "definition": "to fear, be afraid of; apprehensive"
+  },
+  {
+    "char": "怖",
+    "pronunciation": "bù",
+    "definition": "terror, fear; frighten; terrified"
+  },
+  {
+    "char": "怜",
+    "pronunciation": "lián",
+    "definition": "pity, sympathize"
+  },
+  {
+    "char": "思",
+    "pronunciation": "sī",
+    "definition": "think, consider, ponder; final particle"
+  },
+  {
+    "char": "急",
+    "pronunciation": "jí",
+    "definition": "quick, quickly; urgent, pressing"
+  },
+  {
+    "char": "性",
+    "pronunciation": "xìng",
+    "definition": "nature, character, sex"
+  },
+  {
+    "char": "怪",
+    "pronunciation": "guài",
+    "definition": "strange, unusual, peculiar"
+  },
+  {
+    "char": "总",
+    "pronunciation": "zǒng",
+    "definition": "collect; overall, altogether"
+  },
+  {
+    "char": "恋",
+    "pronunciation": "liàn",
+    "definition": "love; long for, yearn for; love"
+  },
+  {
+    "char": "恐",
+    "pronunciation": "kǒng",
+    "definition": "fear; fearful, apprehensive"
+  },
+  {
+    "char": "恢",
+    "pronunciation": "huī",
+    "definition": "restore; big, great, immense, vast"
+  },
+  {
+    "char": "恨",
+    "pronunciation": "hèn",
+    "definition": "hatred, dislike; resent, hate"
+  },
+  {
+    "char": "恩",
+    "pronunciation": "ēn",
+    "definition": "kindness, mercy, charity"
+  },
+  {
+    "char": "恭",
+    "pronunciation": "gōng",
+    "definition": "respectful, polite, reverent"
+  },
+  {
+    "char": "息",
+    "pronunciation": "xī",
+    "definition": "rest, put stop to, end, cease"
+  },
+  {
+    "char": "恶",
+    "pronunciation": "è",
+    "definition": "evil, wicked, bad, foul"
+  },
+  {
+    "char": "您",
+    "pronunciation": "nín",
+    "definition": "honorific for 'you'"
+  },
+  {
+    "char": "情",
+    "pronunciation": "qíng",
+    "definition": "feeling, sentiment, emotion"
+  },
+  {
+    "char": "惊",
+    "pronunciation": "jīng",
+    "definition": "frighten, surprise, startle"
+  },
+  {
+    "char": "惯",
+    "pronunciation": "guàn",
+    "definition": "habit, custom; habitually, usual"
+  },
+  {
+    "char": "想",
+    "pronunciation": "xiǎng",
+    "definition": "think, speculate, plan, consider"
+  },
+  {
+    "char": "惹",
+    "pronunciation": "rě",
+    "definition": "irritate, vex, offend, incite"
+  },
+  {
+    "char": "愉",
+    "pronunciation": "yú",
+    "definition": "pleasant, delightful; please"
+  },
+  {
+    "char": "意",
+    "pronunciation": "yì",
+    "definition": "thought, idea, opinion; think"
+  },
+  {
+    "char": "愚",
+    "pronunciation": "yú",
+    "definition": "stupid, doltish, foolish"
+  },
+  {
+    "char": "感",
+    "pronunciation": "gǎn",
+    "definition": "feel, perceive, emotion"
+  },
+  {
+    "char": "愿",
+    "pronunciation": "yuàn",
+    "definition": "sincere, honest, virtuous"
+  },
+  {
+    "char": "慢",
+    "pronunciation": "màn",
+    "definition": "slow(ly), leisurely, sluggish"
+  },
+  {
+    "char": "憾",
+    "pronunciation": "hàn",
+    "definition": "to regret, remorse; dissatisfied"
+  },
+  {
+    "char": "懂",
+    "pronunciation": "dǒng",
+    "definition": "understand, comprehend"
+  },
+  {
+    "char": "戏",
+    "pronunciation": "xì",
+    "definition": "theatrical play, show"
+  },
+  {
+    "char": "成",
+    "pronunciation": "chéng",
+    "definition": "completed, finished, fixed"
+  },
+  {
+    "char": "我",
+    "pronunciation": "wǒ",
+    "definition": "our, us, i, me, my, we"
+  },
+  {
+    "char": "或",
+    "pronunciation": "huò",
+    "definition": "or, either, else; perhaps, maybe"
+  },
+  {
+    "char": "战",
+    "pronunciation": "zhàn",
+    "definition": "war, fighting, battle"
+  },
+  {
+    "char": "戴",
+    "pronunciation": "dài",
+    "definition": "wear on top; support"
+  },
+  {
+    "char": "户",
+    "pronunciation": "hù",
+    "definition": "door; family"
+  },
+  {
+    "char": "房",
+    "pronunciation": "fáng",
+    "definition": "house, building; room"
+  },
+  {
+    "char": "所",
+    "pronunciation": "suǒ",
+    "definition": "place, location; numerary adjunct"
+  },
+  {
+    "char": "手",
+    "pronunciation": "shǒu",
+    "definition": "hand"
+  },
+  {
+    "char": "才",
+    "pronunciation": "cái",
+    "definition": "talent, ability; just, only"
+  },
+  {
+    "char": "打",
+    "pronunciation": "dǎ",
+    "definition": "strike, hit, beat; fight; attack"
+  },
+  {
+    "char": "扔",
+    "pronunciation": "rēng",
+    "definition": "throw, hurl; throw away, cast"
+  },
+  {
+    "char": "托",
+    "pronunciation": "tuō",
+    "definition": "to hold up with palm; to support, rely on"
+  },
+  {
+    "char": "扰",
+    "pronunciation": "rǎo",
+    "definition": "disturb, annoy, agitate"
+  },
+  {
+    "char": "找",
+    "pronunciation": "zhǎo",
+    "definition": "search, seek, look for; find"
+  },
+  {
+    "char": "承",
+    "pronunciation": "chéng",
+    "definition": "inherit, receive; succeed"
+  },
+  {
+    "char": "技",
+    "pronunciation": "jì",
+    "definition": "skill, ability, talent, ingenuity"
+  },
+  {
+    "char": "把",
+    "pronunciation": "bǎ",
+    "definition": "hold, take; guard; regard as"
+  },
+  {
+    "char": "抓",
+    "pronunciation": "zhuā",
+    "definition": "scratch; clutch, seize, grab"
+  },
+  {
+    "char": "投",
+    "pronunciation": "tóu",
+    "definition": "throw, cast, fling, pitch; jump"
+  },
+  {
+    "char": "抢",
+    "pronunciation": "qiǎng",
+    "definition": "plunder, rob, take by force"
+  },
+  {
+    "char": "护",
+    "pronunciation": "hù",
+    "definition": "protect, guard, defend, shelter"
+  },
+  {
+    "char": "报",
+    "pronunciation": "bào",
+    "definition": "report, tell, announce"
+  },
+  {
+    "char": "抱",
+    "pronunciation": "bào",
+    "definition": "embrace, hold in arms, enfold"
+  },
+  {
+    "char": "抽",
+    "pronunciation": "chōu",
+    "definition": "draw out, pull out; sprout"
+  },
+  {
+    "char": "担",
+    "pronunciation": "dān",
+    "definition": "carry, bear, undertake"
+  },
+  {
+    "char": "拉",
+    "pronunciation": "lā",
+    "definition": "pull, drag; seize, hold; lengthen"
+  },
+  {
+    "char": "拍",
+    "pronunciation": "pāi",
+    "definition": "clap, tap, beat; beat or rhythm"
+  },
+  {
+    "char": "拒",
+    "pronunciation": "jù",
+    "definition": "ward off with hand, defend"
+  },
+  {
+    "char": "拖",
+    "pronunciation": "tuō",
+    "definition": "drag, tow, haul; delay, prolong"
+  },
+  {
+    "char": "拜",
+    "pronunciation": "bài",
+    "definition": "do obeisance, bow, kowtow"
+  },
+  {
+    "char": "拥",
+    "pronunciation": "yōng",
+    "definition": "embrace, hug, squeeze; crowd"
+  },
+  {
+    "char": "择",
+    "pronunciation": "zé",
+    "definition": "select, choose, pick out"
+  },
+  {
+    "char": "括",
+    "pronunciation": "kuò",
+    "definition": "include, embrace, enclose"
+  },
+  {
+    "char": "拯",
+    "pronunciation": "zhěng",
+    "definition": "help, save, aid; lift, raise"
+  },
+  {
+    "char": "拾",
+    "pronunciation": "shí",
+    "definition": "pick up, collect, tidy up; accounting form of the numeral ten"
+  },
+  {
+    "char": "拿",
+    "pronunciation": "ná",
+    "definition": "take, hold, grasp; bring; with"
+  },
+  {
+    "char": "持",
+    "pronunciation": "chí",
+    "definition": "sustain, support; hold, grasp"
+  },
+  {
+    "char": "挂",
+    "pronunciation": "guà",
+    "definition": "hang, suspend; suspense"
+  },
+  {
+    "char": "指",
+    "pronunciation": "zhǐ",
+    "definition": "finger, toe; point, indicate"
+  },
+  {
+    "char": "按",
+    "pronunciation": "àn",
+    "definition": "put hand on, press down with hand"
+  },
+  {
+    "char": "挑",
+    "pronunciation": "tiāo",
+    "definition": "a load carried on the shoulders; to carry"
+  },
+  {
+    "char": "挺",
+    "pronunciation": "tǐng",
+    "definition": "to stand upright, straighten; rigid"
+  },
+  {
+    "char": "捕",
+    "pronunciation": "bǔ",
+    "definition": "arrest, catch, seize"
+  },
+  {
+    "char": "换",
+    "pronunciation": "huàn",
+    "definition": "change"
+  },
+  {
+    "char": "据",
+    "pronunciation": "jù",
+    "definition": "to occupy, take possession of; a base, position"
+  },
+  {
+    "char": "授",
+    "pronunciation": "shòu",
+    "definition": "give to, transmit; confer"
+  },
+  {
+    "char": "掉",
+    "pronunciation": "diào",
+    "definition": "turn, move; shake, wag; drop down"
+  },
+  {
+    "char": "排",
+    "pronunciation": "pái",
+    "definition": "row, rank, line"
+  },
+  {
+    "char": "探",
+    "pronunciation": "tàn",
+    "definition": "find, locate; search, grope for"
+  },
+  {
+    "char": "接",
+    "pronunciation": "jiē",
+    "definition": "receive; continue; catch; connect"
+  },
+  {
+    "char": "控",
+    "pronunciation": "kòng",
+    "definition": "accuse, charge; control"
+  },
+  {
+    "char": "推",
+    "pronunciation": "tuī",
+    "definition": "push, expel; push forward"
+  },
+  {
+    "char": "提",
+    "pronunciation": "tí",
+    "definition": "hold in hand; lift in hand"
+  },
+  {
+    "char": "搞",
+    "pronunciation": "gǎo",
+    "definition": "to clear, clarify"
+  },
+  {
+    "char": "搬",
+    "pronunciation": "bān",
+    "definition": "transfer, move, remove, shift"
+  },
+  {
+    "char": "搭",
+    "pronunciation": "dā",
+    "definition": "join together, attach to; add to"
+  },
+  {
+    "char": "撒",
+    "pronunciation": "sā",
+    "definition": "release, cast away, let go; disperse; relax"
+  },
+  {
+    "char": "撞",
+    "pronunciation": "zhuàng",
+    "definition": "knock against, bump into, collide"
+  },
+  {
+    "char": "操",
+    "pronunciation": "cāo",
+    "definition": "conduct, run, control, manage"
+  },
+  {
+    "char": "支",
+    "pronunciation": "zhī",
+    "definition": "disperse, pay; support; branch"
+  },
+  {
+    "char": "收",
+    "pronunciation": "shōu",
+    "definition": "gather together, collect; harvest"
+  },
+  {
+    "char": "改",
+    "pronunciation": "gǎi",
+    "definition": "change, alter; improve, remodel"
+  },
+  {
+    "char": "攻",
+    "pronunciation": "gōng",
+    "definition": "attack, assault; criticize"
+  },
+  {
+    "char": "放",
+    "pronunciation": "fàng",
+    "definition": "put, release, free, liberate"
+  },
+  {
+    "char": "政",
+    "pronunciation": "zhèng",
+    "definition": "government, political affairs"
+  },
+  {
+    "char": "故",
+    "pronunciation": "gù",
+    "definition": "ancient, old; reason, because"
+  },
+  {
+    "char": "敌",
+    "pronunciation": "dí",
+    "definition": "enemy, foe, rival; resist"
+  },
+  {
+    "char": "救",
+    "pronunciation": "jiù",
+    "definition": "save, rescue, relieve; help, aid"
+  },
+  {
+    "char": "教",
+    "pronunciation": "jiào",
+    "definition": "teach, class"
+  },
+  {
+    "char": "敢",
+    "pronunciation": "gǎn",
+    "definition": "to dare, venture; bold, brave"
+  },
+  {
+    "char": "数",
+    "pronunciation": "shù",
+    "definition": "number; several, count; fate"
+  },
+  {
+    "char": "整",
+    "pronunciation": "zhěng",
+    "definition": "orderly, neat, tidy; whole"
+  },
+  {
+    "char": "文",
+    "pronunciation": "wén",
+    "definition": "literature, culture, writing"
+  },
+  {
+    "char": "料",
+    "pronunciation": "liào",
+    "definition": "consider, conjecture; materials, ingredients"
+  },
+  {
+    "char": "断",
+    "pronunciation": "duàn",
+    "definition": "sever, cut off; interrupt"
+  },
+  {
+    "char": "斯",
+    "pronunciation": "sī",
+    "definition": "this, thus, such; to lop off; emphatic particle"
+  },
+  {
+    "char": "新",
+    "pronunciation": "xīn",
+    "definition": "new, recent, fresh, modern"
+  },
+  {
+    "char": "方",
+    "pronunciation": "fāng",
+    "definition": "a square, rectangle; a region; local"
+  },
+  {
+    "char": "旁",
+    "pronunciation": "páng",
+    "definition": "side; by side, close by, near"
+  },
+  {
+    "char": "旅",
+    "pronunciation": "lǚ",
+    "definition": "trip, journey; travel; traveler"
+  },
+  {
+    "char": "无",
+    "pronunciation": "wú",
+    "definition": "negative, no, not; KangXi radical 71"
+  },
+  {
+    "char": "既",
+    "pronunciation": "jì",
+    "definition": "already; de facto; since; then"
+  },
+  {
+    "char": "日",
+    "pronunciation": "rì",
+    "definition": "sun; day; daytime"
+  },
+  {
+    "char": "旦",
+    "pronunciation": "dàn",
+    "definition": "dawn; morning; day"
+  },
+  {
+    "char": "早",
+    "pronunciation": "zǎo",
+    "definition": "early; soon; morning"
+  },
+  {
+    "char": "时",
+    "pronunciation": "shí",
+    "definition": "time, season; era, age, period"
+  },
+  {
+    "char": "明",
+    "pronunciation": "míng",
+    "definition": "bright, light, brilliant; clear"
+  },
+  {
+    "char": "易",
+    "pronunciation": "yì",
+    "definition": "change; easy"
+  },
+  {
+    "char": "星",
+    "pronunciation": "xīng",
+    "definition": "a star, planet; any point of light"
+  },
+  {
+    "char": "昨",
+    "pronunciation": "zuó",
+    "definition": "yesterday; in former times, past"
+  },
+  {
+    "char": "是",
+    "pronunciation": "shì",
+    "definition": "indeed, yes, right; to be; demonstrative pronoun, this, that"
+  },
+  {
+    "char": "显",
+    "pronunciation": "xiǎn",
+    "definition": "manifest, display; evident, clear"
+  },
+  {
+    "char": "晚",
+    "pronunciation": "wǎn",
+    "definition": "night, evening; late"
+  },
+  {
+    "char": "更",
+    "pronunciation": "gèng",
+    "definition": "more, still further, much more"
+  },
+  {
+    "char": "曾",
+    "pronunciation": "céng",
+    "definition": "already; sign of past"
+  },
+  {
+    "char": "替",
+    "pronunciation": "tì",
+    "definition": "change, replace, substitute for"
+  },
+  {
+    "char": "最",
+    "pronunciation": "zuì",
+    "definition": "most, extremely, exceedingly"
+  },
+  {
+    "char": "月",
+    "pronunciation": "yuè",
+    "definition": "moon; month; KangXi radical 74"
+  },
+  {
+    "char": "有",
+    "pronunciation": "yǒu",
+    "definition": "have, own, possess; exist"
+  },
+  {
+    "char": "朋",
+    "pronunciation": "péng",
+    "definition": "friend, pal, acquaintance"
+  },
+  {
+    "char": "服",
+    "pronunciation": "fú",
+    "definition": "clothes; wear, dress"
+  },
+  {
+    "char": "望",
+    "pronunciation": "wàng",
+    "definition": "to look at, look forward; to hope, expect"
+  },
+  {
+    "char": "朝",
+    "pronunciation": "cháo",
+    "definition": "dynasty; morning"
+  },
+  {
+    "char": "期",
+    "pronunciation": "qī",
+    "definition": "period of time; date; time limit"
+  },
+  {
+    "char": "未",
+    "pronunciation": "wèi",
+    "definition": "not yet; 8th terrestrial branch"
+  },
+  {
+    "char": "末",
+    "pronunciation": "mò",
+    "definition": "final, last, end; insignificant"
+  },
+  {
+    "char": "本",
+    "pronunciation": "běn",
+    "definition": "root, origin, source; basis"
+  },
+  {
+    "char": "术",
+    "pronunciation": "shù",
+    "definition": "art, skill, special feat; method, technique"
+  },
+  {
+    "char": "机",
+    "pronunciation": "jī",
+    "definition": "desk; machine; moment"
+  },
+  {
+    "char": "杀",
+    "pronunciation": "shā",
+    "definition": "kill, slaughter, murder; hurt"
+  },
+  {
+    "char": "杂",
+    "pronunciation": "zá",
+    "definition": "mixed, blended; mix, mingle"
+  },
+  {
+    "char": "权",
+    "pronunciation": "quán",
+    "definition": "power, right, authority"
+  },
+  {
+    "char": "杉",
+    "pronunciation": "shān",
+    "definition": "various species of pine and fir"
+  },
+  {
+    "char": "束",
+    "pronunciation": "shù",
+    "definition": "bind, control, restrain; bale"
+  },
+  {
+    "char": "条",
+    "pronunciation": "tiáo",
+    "definition": "clause, condition; string, stripe"
+  },
+  {
+    "char": "来",
+    "pronunciation": "lái",
+    "definition": "come, coming; return, returning"
+  },
+  {
+    "char": "杯",
+    "pronunciation": "bēi",
+    "definition": "cup, glass"
+  },
+  {
+    "char": "杰",
+    "pronunciation": "jié",
+    "definition": "hero; heroic, outstanding"
+  },
+  {
+    "char": "松",
+    "pronunciation": "sōng",
+    "definition": "pine tree; fir tree"
+  },
+  {
+    "char": "板",
+    "pronunciation": "bǎn",
+    "definition": "plank, board; iron or tin plate"
+  },
+  {
+    "char": "极",
+    "pronunciation": "jí",
+    "definition": "extreme, utmost, furthest, final"
+  },
+  {
+    "char": "果",
+    "pronunciation": "guǒ",
+    "definition": "fruit; result"
+  },
+  {
+    "char": "枪",
+    "pronunciation": "qiāng",
+    "definition": "spear, lance; gun, rifle"
+  },
+  {
+    "char": "架",
+    "pronunciation": "jià",
+    "definition": "rack, stand, prop; prop up"
+  },
+  {
+    "char": "某",
+    "pronunciation": "mǒu",
+    "definition": "certain thing or person"
+  },
+  {
+    "char": "查",
+    "pronunciation": "chá",
+    "definition": "investigate, examine, seek into"
+  },
+  {
+    "char": "标",
+    "pronunciation": "biāo",
+    "definition": "mark, symbol, label, sign; stand the bole of a tree"
+  },
+  {
+    "char": "树",
+    "pronunciation": "shù",
+    "definition": "tree; plant; set up, establish"
+  },
+  {
+    "char": "校",
+    "pronunciation": "xiào",
+    "definition": "school; military field officer"
+  },
+  {
+    "char": "样",
+    "pronunciation": "yàng",
+    "definition": "shape, form, pattern, style"
+  },
+  {
+    "char": "根",
+    "pronunciation": "gēn",
+    "definition": "root, base(d on); foundation"
+  },
+  {
+    "char": "案",
+    "pronunciation": "àn",
+    "definition": "table, bench; legal case"
+  },
+  {
+    "char": "档",
+    "pronunciation": "dàng",
+    "definition": "shelf; frame, crosspiece"
+  },
+  {
+    "char": "梦",
+    "pronunciation": "mèng",
+    "definition": "dream; visionary; wishful"
+  },
+  {
+    "char": "检",
+    "pronunciation": "jiǎn",
+    "definition": "check; examine"
+  },
+  {
+    "char": "棒",
+    "pronunciation": "bàng",
+    "definition": "stick, club, truncheon; hit"
+  },
+  {
+    "char": "楚",
+    "pronunciation": "chǔ",
+    "definition": "name of feudal state; clear"
+  },
+  {
+    "char": "楼",
+    "pronunciation": "lóu",
+    "definition": "building of two or more stories"
+  },
+  {
+    "char": "概",
+    "pronunciation": "gài",
+    "definition": "generally, approximately"
+  },
+  {
+    "char": "模",
+    "pronunciation": "mó",
+    "definition": "model, standard, pattern; copy"
+  },
+  {
+    "char": "欠",
+    "pronunciation": "qiàn",
+    "definition": "owe, lack, be deficient; KangXi radical number 76"
+  },
+  {
+    "char": "次",
+    "pronunciation": "cì",
+    "definition": "order, sequence; next"
+  },
+  {
+    "char": "欢",
+    "pronunciation": "huān",
+    "definition": "happy, pleased, glad; joy; enjoy"
+  },
+  {
+    "char": "歉",
+    "pronunciation": "qiàn",
+    "definition": "deficient, lacking, insufficient"
+  },
+  {
+    "char": "歌",
+    "pronunciation": "gē",
+    "definition": "song, lyrics; sing, chant; praise"
+  },
+  {
+    "char": "止",
+    "pronunciation": "zhǐ",
+    "definition": "stop, halt, desist; detain"
+  },
+  {
+    "char": "正",
+    "pronunciation": "zhèng",
+    "definition": "right, proper, correct"
+  },
+  {
+    "char": "此",
+    "pronunciation": "cǐ",
+    "definition": "this, these; in this case, then"
+  },
+  {
+    "char": "步",
+    "pronunciation": "bù",
+    "definition": "step, pace; walk, stroll"
+  },
+  {
+    "char": "武",
+    "pronunciation": "wǔ",
+    "definition": "military; martial, warlike"
+  },
+  {
+    "char": "死",
+    "pronunciation": "sǐ",
+    "definition": "die; dead; death"
+  },
+  {
+    "char": "段",
+    "pronunciation": "duàn",
+    "definition": "section, piece, division"
+  },
+  {
+    "char": "毁",
+    "pronunciation": "huǐ",
+    "definition": "destroy"
+  },
+  {
+    "char": "母",
+    "pronunciation": "mǔ",
+    "definition": "mother; female elders; female"
+  },
+  {
+    "char": "每",
+    "pronunciation": "měi",
+    "definition": "every, each"
+  },
+  {
+    "char": "毒",
+    "pronunciation": "dú",
+    "definition": "poison, venom; poisonous"
+  },
+  {
+    "char": "比",
+    "pronunciation": "bǐ",
+    "definition": "to compare, liken; comparison; than"
+  },
+  {
+    "char": "毛",
+    "pronunciation": "máo",
+    "definition": "hair, fur, feathers; coarse"
+  },
+  {
+    "char": "毫",
+    "pronunciation": "háo",
+    "definition": "fine hair; measure of length"
+  },
+  {
+    "char": "气",
+    "pronunciation": "qì",
+    "definition": "steam, vapor; KangXi radical 84"
+  },
+  {
+    "char": "水",
+    "pronunciation": "shuǐ",
+    "definition": "water, liquid, lotion, juice"
+  },
+  {
+    "char": "永",
+    "pronunciation": "yǒng",
+    "definition": "long, perpetual, eternal, forever"
+  },
+  {
+    "char": "求",
+    "pronunciation": "qiú",
+    "definition": "seek; demand, request; beseech"
+  },
+  {
+    "char": "汰",
+    "pronunciation": "tài",
+    "definition": "excessive; scour, wash out"
+  },
+  {
+    "char": "汽",
+    "pronunciation": "qì",
+    "definition": "steam, vapor, gas"
+  },
+  {
+    "char": "没",
+    "pronunciation": "méi",
+    "definition": "not, have not, none; drown, sink"
+  },
+  {
+    "char": "油",
+    "pronunciation": "yóu",
+    "definition": "oil, fat, grease, lard; paints"
+  },
+  {
+    "char": "治",
+    "pronunciation": "zhì",
+    "definition": "govern, regulate, administer"
+  },
+  {
+    "char": "法",
+    "pronunciation": "fǎ",
+    "definition": "law, rule, regulation, statute; France, French"
+  },
+  {
+    "char": "注",
+    "pronunciation": "zhù",
+    "definition": "concentrate, focus, direct"
+  },
+  {
+    "char": "洗",
+    "pronunciation": "xǐ",
+    "definition": "wash, rinse; clean, purify"
+  },
+  {
+    "char": "洛",
+    "pronunciation": "luò",
+    "definition": "river in Shanxi province; city"
+  },
+  {
+    "char": "活",
+    "pronunciation": "huó",
+    "definition": "live, exist, survive; lively"
+  },
+  {
+    "char": "派",
+    "pronunciation": "pài",
+    "definition": "school of thought, sect, branch"
+  },
+  {
+    "char": "测",
+    "pronunciation": "cè",
+    "definition": "measure, estimate, conjecture"
+  },
+  {
+    "char": "浪",
+    "pronunciation": "làng",
+    "definition": "wave; wasteful, reckless"
+  },
+  {
+    "char": "消",
+    "pronunciation": "xiāo",
+    "definition": "vanish, die out; melt away"
+  },
+  {
+    "char": "淘",
+    "pronunciation": "táo",
+    "definition": "wash in sieve; weed out"
+  },
+  {
+    "char": "深",
+    "pronunciation": "shēn",
+    "definition": "deep; depth; far; very, extreme"
+  },
+  {
+    "char": "混",
+    "pronunciation": "hùn",
+    "definition": "to mix, blend, mingle; to bumble along"
+  },
+  {
+    "char": "清",
+    "pronunciation": "qīng",
+    "definition": "clear, pure, clean; peaceful"
+  },
+  {
+    "char": "游",
+    "pronunciation": "yóu",
+    "definition": "to swim; float, drift; wander, roam"
+  },
+  {
+    "char": "滚",
+    "pronunciation": "gǔn",
+    "definition": "turn"
+  },
+  {
+    "char": "满",
+    "pronunciation": "mǎn",
+    "definition": "fill; full, satisfied"
+  },
+  {
+    "char": "漂",
+    "pronunciation": "piào",
+    "definition": "float, drift; tossed about"
+  },
+  {
+    "char": "演",
+    "pronunciation": "yǎn",
+    "definition": "perform, put on; exercise"
+  },
+  {
+    "char": "激",
+    "pronunciation": "jī",
+    "definition": "arouse, excite, incite; quickly"
+  },
+  {
+    "char": "火",
+    "pronunciation": "huǒ",
+    "definition": "fire, flame; burn; anger, rage"
+  },
+  {
+    "char": "灵",
+    "pronunciation": "líng",
+    "definition": "spirit, soul; spiritual world"
+  },
+  {
+    "char": "炸",
+    "pronunciation": "zhà",
+    "definition": "to fry in oil; to scald; to explode"
+  },
+  {
+    "char": "点",
+    "pronunciation": "diǎn",
+    "definition": "dot, speck, spot; point, degree"
+  },
+  {
+    "char": "烂",
+    "pronunciation": "làn",
+    "definition": "rotten, spoiled, decayed"
+  },
+  {
+    "char": "烦",
+    "pronunciation": "fán",
+    "definition": "bother, vex, trouble; troublesome"
+  },
+  {
+    "char": "烧",
+    "pronunciation": "shāo",
+    "definition": "burn; bake; heat; roast"
+  },
+  {
+    "char": "热",
+    "pronunciation": "rè",
+    "definition": "hot; heat; fever; restless; zeal"
+  },
+  {
+    "char": "然",
+    "pronunciation": "rán",
+    "definition": "yes, certainly; pledge, promise"
+  },
+  {
+    "char": "照",
+    "pronunciation": "zhào",
+    "definition": "shine, illumine, reflect"
+  },
+  {
+    "char": "爆",
+    "pronunciation": "bào",
+    "definition": "crackle, pop, burst, explode"
+  },
+  {
+    "char": "爬",
+    "pronunciation": "pá",
+    "definition": "crawl, creep; climb; scramble"
+  },
+  {
+    "char": "爱",
+    "pronunciation": "ài",
+    "definition": "love, be fond of, like"
+  },
+  {
+    "char": "父",
+    "pronunciation": "fù",
+    "definition": "father; KangXi radical 88"
+  },
+  {
+    "char": "爸",
+    "pronunciation": "bà",
+    "definition": "father, papa"
+  },
+  {
+    "char": "爽",
+    "pronunciation": "shuǎng",
+    "definition": "happy, cheerful; refreshing"
+  },
+  {
+    "char": "片",
+    "pronunciation": "piàn",
+    "definition": "slice, splinter, strip; rad. 91"
+  },
+  {
+    "char": "牌",
+    "pronunciation": "pái",
+    "definition": "signboard, placard"
+  },
+  {
+    "char": "牛",
+    "pronunciation": "niú",
+    "definition": "cow, ox, bull; KangXi radical93"
+  },
+  {
+    "char": "物",
+    "pronunciation": "wù",
+    "definition": "thing, substance, creature"
+  },
+  {
+    "char": "特",
+    "pronunciation": "tè",
+    "definition": "special, unique, distinguished"
+  },
+  {
+    "char": "犯",
+    "pronunciation": "fàn",
+    "definition": "commit crime, violate; criminal"
+  },
+  {
+    "char": "状",
+    "pronunciation": "zhuàng",
+    "definition": "form; appearance; shape; official"
+  },
+  {
+    "char": "狂",
+    "pronunciation": "kuáng",
+    "definition": "insane, mad; violent; wild"
+  },
+  {
+    "char": "狗",
+    "pronunciation": "gǒu",
+    "definition": "dog, canis familiaris"
+  },
+  {
+    "char": "狱",
+    "pronunciation": "yù",
+    "definition": "prison, jail; case; lawsuit"
+  },
+  {
+    "char": "猜",
+    "pronunciation": "cāi",
+    "definition": "guess, conjecture, suppose; feel"
+  },
+  {
+    "char": "猪",
+    "pronunciation": "zhū",
+    "definition": "pig, hog, wild boar"
+  },
+  {
+    "char": "猫",
+    "pronunciation": "māo",
+    "definition": "cat"
+  },
+  {
+    "char": "王",
+    "pronunciation": "wáng",
+    "definition": "king, ruler; royal; surname"
+  },
+  {
+    "char": "玩",
+    "pronunciation": "wán",
+    "definition": "play with, joke, enjoy"
+  },
+  {
+    "char": "现",
+    "pronunciation": "xiàn",
+    "definition": "appear, manifest, become visible"
+  },
+  {
+    "char": "班",
+    "pronunciation": "bān",
+    "definition": "class, group, grade; squad; job"
+  },
+  {
+    "char": "球",
+    "pronunciation": "qiú",
+    "definition": "ball, sphere, globe; round"
+  },
+  {
+    "char": "理",
+    "pronunciation": "lǐ",
+    "definition": "reason, logic; manage"
+  },
+  {
+    "char": "瓜",
+    "pronunciation": "guā",
+    "definition": "melon, gourd, cucumber; rad. 97"
+  },
+  {
+    "char": "瓶",
+    "pronunciation": "píng",
+    "definition": "jug, pitcher, vase, jar, bottle"
+  },
+  {
+    "char": "甚",
+    "pronunciation": "shén",
+    "definition": "great extent; considerably"
+  },
+  {
+    "char": "甜",
+    "pronunciation": "tián",
+    "definition": "sweet, sweetness"
+  },
+  {
+    "char": "生",
+    "pronunciation": "shēng",
+    "definition": "life, living, lifetime; birth"
+  },
+  {
+    "char": "用",
+    "pronunciation": "yòng",
+    "definition": "use, employ, apply, operate; use"
+  },
+  {
+    "char": "由",
+    "pronunciation": "yóu",
+    "definition": "cause, reason; from"
+  },
+  {
+    "char": "电",
+    "pronunciation": "diàn",
+    "definition": "electricity; electric; lightning"
+  },
+  {
+    "char": "男",
+    "pronunciation": "nán",
+    "definition": "male, man; son; baron; surname"
+  },
+  {
+    "char": "画",
+    "pronunciation": "huà",
+    "definition": "a painting, picture, drawing; to draw"
+  },
+  {
+    "char": "界",
+    "pronunciation": "jiè",
+    "definition": "boundary, limit; domain; society; the world"
+  },
+  {
+    "char": "留",
+    "pronunciation": "liú",
+    "definition": "stop, halt; stay, detain, keep"
+  },
+  {
+    "char": "疑",
+    "pronunciation": "yí",
+    "definition": "doubt, question, suspect"
+  },
+  {
+    "char": "疗",
+    "pronunciation": "liáo",
+    "definition": "be healed, cured, recover"
+  },
+  {
+    "char": "疯",
+    "pronunciation": "fēng",
+    "definition": "crazy, insane, mentally ill"
+  },
+  {
+    "char": "疼",
+    "pronunciation": "téng",
+    "definition": "aches, pains; be fond of; love"
+  },
+  {
+    "char": "病",
+    "pronunciation": "bìng",
+    "definition": "illness, sickness, disease"
+  },
+  {
+    "char": "痛",
+    "pronunciation": "tòng",
+    "definition": "pain, ache; sorry, sad; bitter"
+  },
+  {
+    "char": "痴",
+    "pronunciation": "chī",
+    "definition": "foolish, stupid, dumb, silly"
+  },
+  {
+    "char": "白",
+    "pronunciation": "bái",
+    "definition": "white; pure, unblemished; bright"
+  },
+  {
+    "char": "的",
+    "pronunciation": "de",
+    "definition": "possessive, adjectival suffix"
+  },
+  {
+    "char": "皮",
+    "pronunciation": "pí",
+    "definition": "skin, hide, fur, feather; outer"
+  },
+  {
+    "char": "监",
+    "pronunciation": "jiān",
+    "definition": "supervise, control, direct"
+  },
+  {
+    "char": "目",
+    "pronunciation": "mù",
+    "definition": "eye; look, see; division, topic"
+  },
+  {
+    "char": "盯",
+    "pronunciation": "dīng",
+    "definition": "rivet gaze upon, keep eyes on"
+  },
+  {
+    "char": "直",
+    "pronunciation": "zhí",
+    "definition": "straight, erect, vertical"
+  },
+  {
+    "char": "相",
+    "pronunciation": "xiāng",
+    "definition": "mutual, reciprocal, each other"
+  },
+  {
+    "char": "看",
+    "pronunciation": "kàn",
+    "definition": "look, see; examine, scrutinize"
+  },
+  {
+    "char": "真",
+    "pronunciation": "zhēn",
+    "definition": "real, actual, true, genuine"
+  },
+  {
+    "char": "眼",
+    "pronunciation": "yǎn",
+    "definition": "eye; eyelet, hole, opening"
+  },
+  {
+    "char": "着",
+    "pronunciation": "zhe",
+    "definition": "make move, take action"
+  },
+  {
+    "char": "睛",
+    "pronunciation": "jīng",
+    "definition": "eyeball; pupil of eye"
+  },
+  {
+    "char": "睡",
+    "pronunciation": "shuì",
+    "definition": "sleep, doze"
+  },
+  {
+    "char": "瞧",
+    "pronunciation": "qiáo",
+    "definition": "glance at, look at, see"
+  },
+  {
+    "char": "知",
+    "pronunciation": "zhī",
+    "definition": "know, perceive, comprehend"
+  },
+  {
+    "char": "短",
+    "pronunciation": "duǎn",
+    "definition": "short; brief; deficient, lacking"
+  },
+  {
+    "char": "矶",
+    "pronunciation": "jī",
+    "definition": "jetty; submerged rock; eddy"
+  },
+  {
+    "char": "码",
+    "pronunciation": "mǎ",
+    "definition": "number, numerals; yard; symbol"
+  },
+  {
+    "char": "研",
+    "pronunciation": "yán",
+    "definition": "grind, rub; study, research"
+  },
+  {
+    "char": "破",
+    "pronunciation": "pò",
+    "definition": "break, ruin, destroy; rout"
+  },
+  {
+    "char": "砸",
+    "pronunciation": "zá",
+    "definition": "smash, crush, break; pound, mash"
+  },
+  {
+    "char": "确",
+    "pronunciation": "què",
+    "definition": "sure, certain; real, true"
+  },
+  {
+    "char": "碰",
+    "pronunciation": "pèng",
+    "definition": "collide, bump into"
+  },
+  {
+    "char": "示",
+    "pronunciation": "shì",
+    "definition": "show, manifest; demonstrate"
+  },
+  {
+    "char": "礼",
+    "pronunciation": "lǐ",
+    "definition": "social custom; manners; courtesy"
+  },
+  {
+    "char": "祈",
+    "pronunciation": "qí",
+    "definition": "pray; entreat, beseech"
+  },
+  {
+    "char": "祝",
+    "pronunciation": "zhù",
+    "definition": "pray for happiness or blessings"
+  },
+  {
+    "char": "神",
+    "pronunciation": "shén",
+    "definition": "spirit, god, supernatural being"
+  },
+  {
+    "char": "票",
+    "pronunciation": "piào",
+    "definition": "slip of paper or bamboo; ticket"
+  },
+  {
+    "char": "祷",
+    "pronunciation": "dǎo",
+    "definition": "pray; entreat, beg, plead; prayer"
+  },
+  {
+    "char": "福",
+    "pronunciation": "fú",
+    "definition": "happiness, good fortune, blessing"
+  },
+  {
+    "char": "离",
+    "pronunciation": "lí",
+    "definition": "rare beast; strange; elegant"
+  },
+  {
+    "char": "秀",
+    "pronunciation": "xiù",
+    "definition": "ear of grain; flowering, luxuriant; refined, elegant, graceful"
+  },
+  {
+    "char": "私",
+    "pronunciation": "sī",
+    "definition": "private, personal; secret"
+  },
+  {
+    "char": "种",
+    "pronunciation": "zhǒng",
+    "definition": "seed; race, breed; to plant"
+  },
+  {
+    "char": "秒",
+    "pronunciation": "miǎo",
+    "definition": "beard of grain or corn; a second"
+  },
+  {
+    "char": "秘",
+    "pronunciation": "mì",
+    "definition": "secret, mysterious, abstruse"
+  },
+  {
+    "char": "究",
+    "pronunciation": "jiū",
+    "definition": "examine, investigate"
+  },
+  {
+    "char": "空",
+    "pronunciation": "kōng",
+    "definition": "empty, hollow, bare, deserted"
+  },
+  {
+    "char": "穿",
+    "pronunciation": "chuān",
+    "definition": "penetrate, pierce, drill; wear"
+  },
+  {
+    "char": "突",
+    "pronunciation": "tū",
+    "definition": "suddenly, abruptly, unexpectedly"
+  },
+  {
+    "char": "立",
+    "pronunciation": "lì",
+    "definition": "stand; let stand; establish, set"
+  },
+  {
+    "char": "站",
+    "pronunciation": "zhàn",
+    "definition": "stand up; a stand, station"
+  },
+  {
+    "char": "竟",
+    "pronunciation": "jìng",
+    "definition": "finally, after all, at last"
+  },
+  {
+    "char": "笑",
+    "pronunciation": "xiào",
+    "definition": "smile, laugh, giggle; snicker"
+  },
+  {
+    "char": "笔",
+    "pronunciation": "bǐ",
+    "definition": "writing brush; write; stroke"
+  },
+  {
+    "char": "笨",
+    "pronunciation": "bèn",
+    "definition": "foolish, stupid, dull; awkward"
+  },
+  {
+    "char": "第",
+    "pronunciation": "dì",
+    "definition": "sequence, number; grade, degree"
+  },
+  {
+    "char": "等",
+    "pronunciation": "děng",
+    "definition": "rank, grade; wait; equal; 'etc.'"
+  },
+  {
+    "char": "答",
+    "pronunciation": "dá",
+    "definition": "answer, reply; return; assent to"
+  },
+  {
+    "char": "签",
+    "pronunciation": "qiān",
+    "definition": "sign, endorse; slip of paper"
+  },
+  {
+    "char": "简",
+    "pronunciation": "jiǎn",
+    "definition": "simple, terse, succinct, a letter"
+  },
+  {
+    "char": "算",
+    "pronunciation": "suàn",
+    "definition": "count, calculate, figure; plan"
+  },
+  {
+    "char": "管",
+    "pronunciation": "guǎn",
+    "definition": "pipe, tube, duct; woodwind music"
+  },
+  {
+    "char": "米",
+    "pronunciation": "mǐ",
+    "definition": "hulled or husked uncooked rice"
+  },
+  {
+    "char": "类",
+    "pronunciation": "lèi",
+    "definition": "class, group, kind, category"
+  },
+  {
+    "char": "精",
+    "pronunciation": "jīng",
+    "definition": "essence; semen; spirit"
+  },
+  {
+    "char": "糕",
+    "pronunciation": "gāo",
+    "definition": "cakes, pastry"
+  },
+  {
+    "char": "糟",
+    "pronunciation": "zāo",
+    "definition": "sediment, dregs; pickle"
+  },
+  {
+    "char": "系",
+    "pronunciation": "xì",
+    "definition": "system; line, link, connection"
+  },
+  {
+    "char": "索",
+    "pronunciation": "suǒ",
+    "definition": "large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated"
+  },
+  {
+    "char": "紧",
+    "pronunciation": "jǐn",
+    "definition": "tense, tight, taut; firm, secure"
+  },
+  {
+    "char": "累",
+    "pronunciation": "lèi",
+    "definition": "tired; implicate, involve; bother"
+  },
+  {
+    "char": "红",
+    "pronunciation": "hóng",
+    "definition": "red, vermillion; blush, flush"
+  },
+  {
+    "char": "约",
+    "pronunciation": "yuē",
+    "definition": "treaty, agreement, covenant"
+  },
+  {
+    "char": "级",
+    "pronunciation": "jí",
+    "definition": "level, rank, class; grade"
+  },
+  {
+    "char": "纹",
+    "pronunciation": "wén",
+    "definition": "line, streak, stripe; wrinkle"
+  },
+  {
+    "char": "纽",
+    "pronunciation": "niǔ",
+    "definition": "knot; button; handle, knob; tie"
+  },
+  {
+    "char": "线",
+    "pronunciation": "xiàn",
+    "definition": "line, thread, wire; clue"
+  },
+  {
+    "char": "练",
+    "pronunciation": "liàn",
+    "definition": "to practice, drill, exercise, train"
+  },
+  {
+    "char": "组",
+    "pronunciation": "zǔ",
+    "definition": "class; section, department"
+  },
+  {
+    "char": "织",
+    "pronunciation": "zhī",
+    "definition": "weave, knit; organize, unite"
+  },
+  {
+    "char": "终",
+    "pronunciation": "zhōng",
+    "definition": "end; finally, in the end"
+  },
+  {
+    "char": "绍",
+    "pronunciation": "shào",
+    "definition": "continue, carry on; join"
+  },
+  {
+    "char": "经",
+    "pronunciation": "jīng",
+    "definition": "classic works; pass through"
+  },
+  {
+    "char": "绑",
+    "pronunciation": "bǎng",
+    "definition": "bind, tie, fasten"
+  },
+  {
+    "char": "结",
+    "pronunciation": "jié",
+    "definition": "knot, tie; join, connect"
+  },
+  {
+    "char": "给",
+    "pronunciation": "gěi",
+    "definition": "give; by, for"
+  },
+  {
+    "char": "绝",
+    "pronunciation": "jué",
+    "definition": "to cut, sever, break off, terminate"
+  },
+  {
+    "char": "统",
+    "pronunciation": "tǒng",
+    "definition": "govern, command, control; unite"
+  },
+  {
+    "char": "继",
+    "pronunciation": "jì",
+    "definition": "continue, maintain, carry on"
+  },
+  {
+    "char": "续",
+    "pronunciation": "xù",
+    "definition": "continue, carry on; succeed"
+  },
+  {
+    "char": "编",
+    "pronunciation": "biān",
+    "definition": "knit, weave; arrange; compile"
+  },
+  {
+    "char": "罪",
+    "pronunciation": "zuì",
+    "definition": "crime, sin, vice; evil; hardship"
+  },
+  {
+    "char": "置",
+    "pronunciation": "zhì",
+    "definition": "place, lay out; set aside"
+  },
+  {
+    "char": "美",
+    "pronunciation": "měi",
+    "definition": "beautiful, pretty; pleasing"
+  },
+  {
+    "char": "群",
+    "pronunciation": "qún",
+    "definition": "(same as U+7FA3 羣) group, crowd, multitude, mob"
+  },
+  {
+    "char": "翰",
+    "pronunciation": "hàn",
+    "definition": "writing brush, pen, pencil"
+  },
+  {
+    "char": "老",
+    "pronunciation": "lǎo",
+    "definition": "old, aged; experienced"
+  },
+  {
+    "char": "考",
+    "pronunciation": "kǎo",
+    "definition": "examine, test; investigate"
+  },
+  {
+    "char": "者",
+    "pronunciation": "zhě",
+    "definition": "that which; he who; those who"
+  },
+  {
+    "char": "而",
+    "pronunciation": "ér",
+    "definition": "and; and then; and yet; but"
+  },
+  {
+    "char": "耶",
+    "pronunciation": "yé",
+    "definition": "used in transliteration"
+  },
+  {
+    "char": "聊",
+    "pronunciation": "liáo",
+    "definition": "somewhat, slightly, at least"
+  },
+  {
+    "char": "职",
+    "pronunciation": "zhí",
+    "definition": "duty, profession; office, post"
+  },
+  {
+    "char": "联",
+    "pronunciation": "lián",
+    "definition": "connect, join; associate, ally"
+  },
+  {
+    "char": "聚",
+    "pronunciation": "jù",
+    "definition": "assemble, meet together, collect"
+  },
+  {
+    "char": "聪",
+    "pronunciation": "cōng",
+    "definition": "intelligent, clever, bright"
+  },
+  {
+    "char": "肉",
+    "pronunciation": "ròu",
+    "definition": "flesh; meat; KangXi radical 130"
+  },
+  {
+    "char": "股",
+    "pronunciation": "gǔ",
+    "definition": "thighs, haunches, rump; share"
+  },
+  {
+    "char": "肯",
+    "pronunciation": "kěn",
+    "definition": "willing; consent to, permit"
+  },
+  {
+    "char": "胁",
+    "pronunciation": "xié",
+    "definition": "ribs, armpits; flank; threaten"
+  },
+  {
+    "char": "背",
+    "pronunciation": "bèi",
+    "definition": "back; back side; behind; betray"
+  },
+  {
+    "char": "能",
+    "pronunciation": "néng",
+    "definition": "to be able; can, permitted to; ability"
+  },
+  {
+    "char": "脑",
+    "pronunciation": "nǎo",
+    "definition": "brain"
+  },
+  {
+    "char": "脚",
+    "pronunciation": "jiǎo",
+    "definition": "leg, foot; base, leg, foundation"
+  },
+  {
+    "char": "脱",
+    "pronunciation": "tuō",
+    "definition": "take off"
+  },
+  {
+    "char": "脸",
+    "pronunciation": "liǎn",
+    "definition": "face; cheek; reputation"
+  },
+  {
+    "char": "腿",
+    "pronunciation": "tuǐ",
+    "definition": "legs, thighs"
+  },
+  {
+    "char": "自",
+    "pronunciation": "zì",
+    "definition": "self, private, personal; from"
+  },
+  {
+    "char": "臭",
+    "pronunciation": "chòu",
+    "definition": "smell, stink, emit foul odor"
+  },
+  {
+    "char": "至",
+    "pronunciation": "zhì",
+    "definition": "reach, arrive; extremely, very"
+  },
+  {
+    "char": "舒",
+    "pronunciation": "shū",
+    "definition": "open up, unfold, stretch out; comfortable, easy"
+  },
+  {
+    "char": "舞",
+    "pronunciation": "wǔ",
+    "definition": "dance, posture, prance; brandish"
+  },
+  {
+    "char": "般",
+    "pronunciation": "bān",
+    "definition": "sort, manner, kind, category"
+  },
+  {
+    "char": "船",
+    "pronunciation": "chuán",
+    "definition": "ship, boat, vessel"
+  },
+  {
+    "char": "色",
+    "pronunciation": "sè",
+    "definition": "color, tint, hue, shade; form, body; beauty, desire for beauty"
+  },
+  {
+    "char": "节",
+    "pronunciation": "jié",
+    "definition": "knot, node, joint; section"
+  },
+  {
+    "char": "花",
+    "pronunciation": "huā",
+    "definition": "flower; blossoms"
+  },
+  {
+    "char": "苦",
+    "pronunciation": "kǔ",
+    "definition": "bitter; hardship, suffering"
+  },
+  {
+    "char": "英",
+    "pronunciation": "yīng",
+    "definition": "petal, flower, leaf; brave, a hero; England, English"
+  },
+  {
+    "char": "荣",
+    "pronunciation": "róng",
+    "definition": "glory, honor; flourish, prosper"
+  },
+  {
+    "char": "药",
+    "pronunciation": "yào",
+    "definition": "leaf of Dahurian angelica plant; medicine"
+  },
+  {
+    "char": "获",
+    "pronunciation": "huò",
+    "definition": "obtain, get, receive; seize"
+  },
+  {
+    "char": "菜",
+    "pronunciation": "cài",
+    "definition": "vegetables; dish, order; food"
+  },
+  {
+    "char": "落",
+    "pronunciation": "luò",
+    "definition": "fall, drop; net income, surplus"
+  },
+  {
+    "char": "藏",
+    "pronunciation": "cáng",
+    "definition": "hide, conceal; hoard, store up"
+  },
+  {
+    "char": "虑",
+    "pronunciation": "lǜ",
+    "definition": "be concerned, worry about"
+  },
+  {
+    "char": "虽",
+    "pronunciation": "suī",
+    "definition": "although, even if"
+  },
+  {
+    "char": "蛋",
+    "pronunciation": "dàn",
+    "definition": "eggs; term of abuse"
+  },
+  {
+    "char": "蠢",
+    "pronunciation": "chǔn",
+    "definition": "wriggle; stupid; silly; fat"
+  },
+  {
+    "char": "血",
+    "pronunciation": "xuè",
+    "definition": "blood; radical number 143"
+  },
+  {
+    "char": "行",
+    "pronunciation": "xíng",
+    "definition": "go; walk; move, travel; circulate"
+  },
+  {
+    "char": "街",
+    "pronunciation": "jiē",
+    "definition": "street, road, thoroughfare"
+  },
+  {
+    "char": "衣",
+    "pronunciation": "yī",
+    "definition": "clothes, clothing; cover, skin"
+  },
+  {
+    "char": "表",
+    "pronunciation": "biǎo",
+    "definition": "show, express, manifest, display"
+  },
+  {
+    "char": "袋",
+    "pronunciation": "dài",
+    "definition": "pocket, bag, sack, pouch"
+  },
+  {
+    "char": "被",
+    "pronunciation": "bèi",
+    "definition": "passive indicator 'by'; bedding"
+  },
+  {
+    "char": "袭",
+    "pronunciation": "xí",
+    "definition": "raid, attack; inherit"
+  },
+  {
+    "char": "装",
+    "pronunciation": "zhuāng",
+    "definition": "dress, clothes, attire; fill"
+  },
+  {
+    "char": "裤",
+    "pronunciation": "kù",
+    "definition": "trousers, pants"
+  },
+  {
+    "char": "西",
+    "pronunciation": "xī",
+    "definition": "west(ern); westward, occident"
+  },
+  {
+    "char": "要",
+    "pronunciation": "yào",
+    "definition": "necessary, essential; necessity"
+  },
+  {
+    "char": "见",
+    "pronunciation": "jiàn",
+    "definition": "see, observe, behold; perceive"
+  },
+  {
+    "char": "观",
+    "pronunciation": "guān",
+    "definition": "see, observe, view; appearance"
+  },
+  {
+    "char": "视",
+    "pronunciation": "shì",
+    "definition": "look at, inspect, observe, see"
+  },
+  {
+    "char": "觉",
+    "pronunciation": "jué",
+    "definition": "to wake up from sleep; conscious"
+  },
+  {
+    "char": "角",
+    "pronunciation": "jiǎo",
+    "definition": "horn; angle, corner; point"
+  },
+  {
+    "char": "解",
+    "pronunciation": "jiě",
+    "definition": "loosen, unfasten, untie; explain"
+  },
+  {
+    "char": "誓",
+    "pronunciation": "shì",
+    "definition": "swear, pledge; oath"
+  },
+  {
+    "char": "警",
+    "pronunciation": "jǐng",
+    "definition": "guard, watch; alert, alarm"
+  },
+  {
+    "char": "计",
+    "pronunciation": "jì",
+    "definition": "plan, plot; strategem; scheme"
+  },
+  {
+    "char": "认",
+    "pronunciation": "rèn",
+    "definition": "recognize, know, understand"
+  },
+  {
+    "char": "讨",
+    "pronunciation": "tǎo",
+    "definition": "to discuss; ask for, beg; demand; dun; marry"
+  },
+  {
+    "char": "让",
+    "pronunciation": "ràng",
+    "definition": "allow, permit, yield, concede"
+  },
+  {
+    "char": "训",
+    "pronunciation": "xùn",
+    "definition": "teach, instruct; exegesis"
+  },
+  {
+    "char": "议",
+    "pronunciation": "yì",
+    "definition": "consult, talk over, discuss"
+  },
+  {
+    "char": "记",
+    "pronunciation": "jì",
+    "definition": "record; keep in mind, remember"
+  },
+  {
+    "char": "讲",
+    "pronunciation": "jiǎng",
+    "definition": "explain; discuss; talk"
+  },
+  {
+    "char": "许",
+    "pronunciation": "xǔ",
+    "definition": "allow, permit; promise; betroth"
+  },
+  {
+    "char": "论",
+    "pronunciation": "lùn",
+    "definition": "debate; discuss; discourse"
+  },
+  {
+    "char": "设",
+    "pronunciation": "shè",
+    "definition": "build; establish; display"
+  },
+  {
+    "char": "证",
+    "pronunciation": "zhèng",
+    "definition": "prove, confirm, verify; proof"
+  },
+  {
+    "char": "评",
+    "pronunciation": "píng",
+    "definition": "appraise, criticize, evaluate"
+  },
+  {
+    "char": "识",
+    "pronunciation": "shì",
+    "definition": "recognize, understand, know"
+  },
+  {
+    "char": "诉",
+    "pronunciation": "sù",
+    "definition": "accuse; sue; inform; narrate"
+  },
+  {
+    "char": "词",
+    "pronunciation": "cí",
+    "definition": "words; phrase, expression"
+  },
+  {
+    "char": "试",
+    "pronunciation": "shì",
+    "definition": "test, try, experiment"
+  },
+  {
+    "char": "话",
+    "pronunciation": "huà",
+    "definition": "speech, talk, language; dialect"
+  },
+  {
+    "char": "诞",
+    "pronunciation": "dàn",
+    "definition": "bear children, give birth; birth"
+  },
+  {
+    "char": "该",
+    "pronunciation": "gāi",
+    "definition": "should, ought to, need to"
+  },
+  {
+    "char": "语",
+    "pronunciation": "yǔ",
+    "definition": "language, words; saying, expression"
+  },
+  {
+    "char": "误",
+    "pronunciation": "wù",
+    "definition": "err, make mistake; interfere"
+  },
+  {
+    "char": "说",
+    "pronunciation": "shuō",
+    "definition": "speak, say, talk; scold, upbraid"
+  },
+  {
+    "char": "请",
+    "pronunciation": "qǐng",
+    "definition": "ask, request; invite; please"
+  },
+  {
+    "char": "读",
+    "pronunciation": "dú",
+    "definition": "read, study; pronounce"
+  },
+  {
+    "char": "课",
+    "pronunciation": "kè",
+    "definition": "lesson; course; classwork"
+  },
+  {
+    "char": "谁",
+    "pronunciation": "shéi",
+    "definition": "who? whom? whose? anyone?"
+  },
+  {
+    "char": "调",
+    "pronunciation": "diào",
+    "definition": "transfer, move, change; tune"
+  },
+  {
+    "char": "谅",
+    "pronunciation": "liàng",
+    "definition": "excuse, forgive; guess, presume"
+  },
+  {
+    "char": "谈",
+    "pronunciation": "tán",
+    "definition": "talk; conversation; surname"
+  },
+  {
+    "char": "谋",
+    "pronunciation": "móu",
+    "definition": "plan, scheme; strategem"
+  },
+  {
+    "char": "谎",
+    "pronunciation": "huǎng",
+    "definition": "lie"
+  },
+  {
+    "char": "谢",
+    "pronunciation": "xiè",
+    "definition": "thank; decline"
+  },
+  {
+    "char": "象",
+    "pronunciation": "xiàng",
+    "definition": "elephant; ivory; figure, image"
+  },
+  {
+    "char": "贝",
+    "pronunciation": "bèi",
+    "definition": "sea shell; money, currency"
+  },
+  {
+    "char": "负",
+    "pronunciation": "fù",
+    "definition": "load, burden; carry, bear"
+  },
+  {
+    "char": "责",
+    "pronunciation": "zé",
+    "definition": "one's responsibility, duty"
+  },
+  {
+    "char": "败",
+    "pronunciation": "bài",
+    "definition": "be defeated, decline, fail"
+  },
+  {
+    "char": "费",
+    "pronunciation": "fèi",
+    "definition": "expenses, expenditures, fee"
+  },
+  {
+    "char": "资",
+    "pronunciation": "zī",
+    "definition": "property; wealth; capital"
+  },
+  {
+    "char": "赌",
+    "pronunciation": "dǔ",
+    "definition": "bet, gamble, wager; compete"
+  },
+  {
+    "char": "赚",
+    "pronunciation": "zhuàn",
+    "definition": "make money, earn; gain, profit"
+  },
+  {
+    "char": "赛",
+    "pronunciation": "sài",
+    "definition": "compete, contend; contest, race"
+  },
+  {
+    "char": "赢",
+    "pronunciation": "yíng",
+    "definition": "win; surplus, gain, profit"
+  },
+  {
+    "char": "走",
+    "pronunciation": "zǒu",
+    "definition": "walk, go on foot; run; leave"
+  },
+  {
+    "char": "赶",
+    "pronunciation": "gǎn",
+    "definition": "pursue, follow; expel, drive away"
+  },
+  {
+    "char": "起",
+    "pronunciation": "qǐ",
+    "definition": "rise, stand up; go up; begin"
+  },
+  {
+    "char": "超",
+    "pronunciation": "chāo",
+    "definition": "jump over, leap over; surpass"
+  },
+  {
+    "char": "越",
+    "pronunciation": "yuè",
+    "definition": "exceed, go beyond; the more ..."
+  },
+  {
+    "char": "趣",
+    "pronunciation": "qù",
+    "definition": "what attracts one's attention"
+  },
+  {
+    "char": "足",
+    "pronunciation": "zú",
+    "definition": "foot; attain, satisfy, enough"
+  },
+  {
+    "char": "跑",
+    "pronunciation": "pǎo",
+    "definition": "run, flee, leave in hurry"
+  },
+  {
+    "char": "跟",
+    "pronunciation": "gēn",
+    "definition": "heel; to follow, accompany; with"
+  },
+  {
+    "char": "路",
+    "pronunciation": "lù",
+    "definition": "road, path, street; journey"
+  },
+  {
+    "char": "跳",
+    "pronunciation": "tiào",
+    "definition": "jump, leap, vault, bounce; dance"
+  },
+  {
+    "char": "踢",
+    "pronunciation": "tī",
+    "definition": "kick"
+  },
+  {
+    "char": "踪",
+    "pronunciation": "zōng",
+    "definition": "footprints, traces, tracks"
+  },
+  {
+    "char": "蹈",
+    "pronunciation": "dǎo",
+    "definition": "stamp feet; dance"
+  },
+  {
+    "char": "身",
+    "pronunciation": "shēn",
+    "definition": "body; trunk, hull; rad. no. 158"
+  },
+  {
+    "char": "躲",
+    "pronunciation": "duǒ",
+    "definition": "hide, secrete; avoid, escape"
+  },
+  {
+    "char": "躺",
+    "pronunciation": "tǎng",
+    "definition": "lie down, recline"
+  },
+  {
+    "char": "车",
+    "pronunciation": "chē",
+    "definition": "cart, vehicle; carry in cart"
+  },
+  {
+    "char": "转",
+    "pronunciation": "zhuǎn",
+    "definition": "shift, move, turn"
+  },
+  {
+    "char": "轮",
+    "pronunciation": "lún",
+    "definition": "wheel; revolve, turn; recur"
+  },
+  {
+    "char": "轻",
+    "pronunciation": "qīng",
+    "definition": "light; easy, simple; gentle"
+  },
+  {
+    "char": "较",
+    "pronunciation": "jiào",
+    "definition": "compare; comparatively, more"
+  },
+  {
+    "char": "辆",
+    "pronunciation": "liàng",
+    "definition": "numerary adjunct for vehicles"
+  },
+  {
+    "char": "输",
+    "pronunciation": "shū",
+    "definition": "transport, carry, haul"
+  },
+  {
+    "char": "边",
+    "pronunciation": "biān",
+    "definition": "edge, margin, side, border"
+  },
+  {
+    "char": "达",
+    "pronunciation": "dá",
+    "definition": "arrive at, reach; intelligent; smooth, slippery"
+  },
+  {
+    "char": "过",
+    "pronunciation": "guò",
+    "definition": "pass, pass through, go across"
+  },
+  {
+    "char": "迎",
+    "pronunciation": "yíng",
+    "definition": "receive, welcome, greet"
+  },
+  {
+    "char": "运",
+    "pronunciation": "yùn",
+    "definition": "run; simplified form of 運 luck, fortune; ship, transport"
+  },
+  {
+    "char": "近",
+    "pronunciation": "jìn",
+    "definition": "near, close; approach; intimate"
+  },
+  {
+    "char": "还",
+    "pronunciation": "hái",
+    "definition": "still, yet, also, besides"
+  },
+  {
+    "char": "这",
+    "pronunciation": "zhè",
+    "definition": "this, the, here"
+  },
+  {
+    "char": "进",
+    "pronunciation": "jìn",
+    "definition": "advance, make progress, enter"
+  },
+  {
+    "char": "远",
+    "pronunciation": "yuǎn",
+    "definition": "distant, remote, far; profound"
+  },
+  {
+    "char": "连",
+    "pronunciation": "lián",
+    "definition": "join, connect; continuous; even"
+  },
+  {
+    "char": "迟",
+    "pronunciation": "chí",
+    "definition": "late, tardy; slow; delay"
+  },
+  {
+    "char": "追",
+    "pronunciation": "zhuī",
+    "definition": "pursue, chase after; expel"
+  },
+  {
+    "char": "送",
+    "pronunciation": "sòng",
+    "definition": "see off, send off; dispatch, give"
+  },
+  {
+    "char": "适",
+    "pronunciation": "shì",
+    "definition": "go, reach; appropriate, suitable"
+  },
+  {
+    "char": "逃",
+    "pronunciation": "táo",
+    "definition": "escape, flee; abscond, dodge"
+  },
+  {
+    "char": "选",
+    "pronunciation": "xuǎn",
+    "definition": "choose, select; elect; election"
+  },
+  {
+    "char": "透",
+    "pronunciation": "tòu",
+    "definition": "penetrate, pass through"
+  },
+  {
+    "char": "通",
+    "pronunciation": "tōng",
+    "definition": "pass through, common, communicate"
+  },
+  {
+    "char": "造",
+    "pronunciation": "zào",
+    "definition": "construct, build, make, begin; prepare"
+  },
+  {
+    "char": "逮",
+    "pronunciation": "dǎi",
+    "definition": "seize, catch; reach, arrive"
+  },
+  {
+    "char": "逼",
+    "pronunciation": "bī",
+    "definition": "compel, pressure, force; bother"
+  },
+  {
+    "char": "遇",
+    "pronunciation": "yù",
+    "definition": "meet, come across, encounter"
+  },
+  {
+    "char": "遍",
+    "pronunciation": "biàn",
+    "definition": "everywhere, all over, throughout"
+  },
+  {
+    "char": "道",
+    "pronunciation": "dào",
+    "definition": "path, road, street; method, way"
+  },
+  {
+    "char": "遗",
+    "pronunciation": "yí",
+    "definition": "lose; articles lost; omit"
+  },
+  {
+    "char": "邀",
+    "pronunciation": "yāo",
+    "definition": "invite, welcome; meet, intercept"
+  },
+  {
+    "char": "那",
+    "pronunciation": "nà",
+    "definition": "that, that one, those"
+  },
+  {
+    "char": "邦",
+    "pronunciation": "bāng",
+    "definition": "nation, country, state"
+  },
+  {
+    "char": "部",
+    "pronunciation": "bù",
+    "definition": "part, division, section"
+  },
+  {
+    "char": "都",
+    "pronunciation": "dōu dū",
+    "definition": "metropolis, capital; all, the whole; elegant, refined"
+  },
+  {
+    "char": "配",
+    "pronunciation": "pèi",
+    "definition": "match, pair; equal; blend"
+  },
+  {
+    "char": "酒",
+    "pronunciation": "jiǔ",
+    "definition": "wine, spirits, liquor, alcoholic beverage"
+  },
+  {
+    "char": "酷",
+    "pronunciation": "kù",
+    "definition": "strong, stimulating; very"
+  },
+  {
+    "char": "醉",
+    "pronunciation": "zuì",
+    "definition": "intoxicated, drunk; addicted to"
+  },
+  {
+    "char": "醒",
+    "pronunciation": "xǐng",
+    "definition": "wake up; sober up; startle"
+  },
+  {
+    "char": "释",
+    "pronunciation": "shì",
+    "definition": "interprete, elucidate; release"
+  },
+  {
+    "char": "里",
+    "pronunciation": "lǐ",
+    "definition": "unit of distance; village; lane"
+  },
+  {
+    "char": "重",
+    "pronunciation": "zhòng",
+    "definition": "heavy, weighty; double"
+  },
+  {
+    "char": "量",
+    "pronunciation": "liàng",
+    "definition": "measure, quantity, capacity"
+  },
+  {
+    "char": "金",
+    "pronunciation": "jīn",
+    "definition": "gold; metals in general; money"
+  },
+  {
+    "char": "钟",
+    "pronunciation": "zhōng",
+    "definition": "clock; bell"
+  },
+  {
+    "char": "钥",
+    "pronunciation": "yào",
+    "definition": "key; lock"
+  },
+  {
+    "char": "钱",
+    "pronunciation": "qián",
+    "definition": "money, currency, coins"
+  },
+  {
+    "char": "银",
+    "pronunciation": "yín",
+    "definition": "silver; cash, money, wealth"
+  },
+  {
+    "char": "锁",
+    "pronunciation": "suǒ",
+    "definition": "lock, padlock; shackles, chains"
+  },
+  {
+    "char": "错",
+    "pronunciation": "cuò",
+    "definition": "error, blunder, mistake; wrong"
+  },
+  {
+    "char": "键",
+    "pronunciation": "jiàn",
+    "definition": "door bolt, lock bolt; key"
+  },
+  {
+    "char": "长",
+    "pronunciation": "zhǎng",
+    "definition": "long; length; excel in; leader"
+  },
+  {
+    "char": "门",
+    "pronunciation": "mén",
+    "definition": "gate, door, entrance, opening"
+  },
+  {
+    "char": "闭",
+    "pronunciation": "bì",
+    "definition": "shut, close; obstruct, block up"
+  },
+  {
+    "char": "问",
+    "pronunciation": "wèn",
+    "definition": "ask about, inquire after"
+  },
+  {
+    "char": "间",
+    "pronunciation": "jiān",
+    "definition": "midpoint, space; place, locality"
+  },
+  {
+    "char": "闻",
+    "pronunciation": "wén",
+    "definition": "hear; smell; make known; news"
+  },
+  {
+    "char": "队",
+    "pronunciation": "duì",
+    "definition": "team, group; army unit"
+  },
+  {
+    "char": "阻",
+    "pronunciation": "zǔ",
+    "definition": "impede, hinder, obstruct; oppose"
+  },
+  {
+    "char": "阿",
+    "pronunciation": "ā",
+    "definition": "prefix for people's names; used in transliteration"
+  },
+  {
+    "char": "附",
+    "pronunciation": "fù",
+    "definition": "adhere to, append; rely on near to"
+  },
+  {
+    "char": "际",
+    "pronunciation": "jì",
+    "definition": "border, boundary, juncture"
+  },
+  {
+    "char": "院",
+    "pronunciation": "yuàn",
+    "definition": "courtyard, yard, court; school"
+  },
+  {
+    "char": "除",
+    "pronunciation": "chú",
+    "definition": "eliminate, remove, except"
+  },
+  {
+    "char": "险",
+    "pronunciation": "xiǎn",
+    "definition": "narrow pass, strategic point"
+  },
+  {
+    "char": "陪",
+    "pronunciation": "péi",
+    "definition": "accompany, be with, keep company"
+  },
+  {
+    "char": "随",
+    "pronunciation": "suí",
+    "definition": "follow, listen to, submit to"
+  },
+  {
+    "char": "难",
+    "pronunciation": "nán",
+    "definition": "difficult, arduous, hard; unable"
+  },
+  {
+    "char": "雄",
+    "pronunciation": "xióng",
+    "definition": "male of species; hero; manly"
+  },
+  {
+    "char": "集",
+    "pronunciation": "jí",
+    "definition": "assemble, collect together"
+  },
+  {
+    "char": "雷",
+    "pronunciation": "léi",
+    "definition": "thunder"
+  },
+  {
+    "char": "需",
+    "pronunciation": "xū",
+    "definition": "need, require, must"
+  },
+  {
+    "char": "静",
+    "pronunciation": "jìng",
+    "definition": "quiet, still, motionless; gentle"
+  },
+  {
+    "char": "非",
+    "pronunciation": "fēi",
+    "definition": "not, negative, non-; oppose"
+  },
+  {
+    "char": "靠",
+    "pronunciation": "kào",
+    "definition": "lean on, trust, depend on; near"
+  },
+  {
+    "char": "面",
+    "pronunciation": "miàn",
+    "definition": "face; surface; plane; side, dimension"
+  },
+  {
+    "char": "鞋",
+    "pronunciation": "xié",
+    "definition": "shoes, footwear in general"
+  },
+  {
+    "char": "音",
+    "pronunciation": "yīn",
+    "definition": "sound, tone, pitch, pronunciation"
+  },
+  {
+    "char": "项",
+    "pronunciation": "xiàng",
+    "definition": "neck, nape of neck; sum; funds"
+  },
+  {
+    "char": "顺",
+    "pronunciation": "shùn",
+    "definition": "obey, submit to, go along with"
+  },
+  {
+    "char": "须",
+    "pronunciation": "xū",
+    "definition": "must, have to, necessary"
+  },
+  {
+    "char": "顾",
+    "pronunciation": "gù",
+    "definition": "look back; look at; look after"
+  },
+  {
+    "char": "顿",
+    "pronunciation": "dùn",
+    "definition": "pause, stop; bow, kowtow; arrange"
+  },
+  {
+    "char": "颗",
+    "pronunciation": "kē",
+    "definition": "grain, kernel"
+  },
+  {
+    "char": "题",
+    "pronunciation": "tí",
+    "definition": "forehead; title, headline; theme"
+  },
+  {
+    "char": "飞",
+    "pronunciation": "fēi",
+    "definition": "fly; go quickly; dart; high"
+  },
+  {
+    "char": "食",
+    "pronunciation": "shí",
+    "definition": "eat; meal; food; KangXi radical number 184"
+  },
+  {
+    "char": "餐",
+    "pronunciation": "cān",
+    "definition": "eat, dine; meal; food"
+  },
+  {
+    "char": "饭",
+    "pronunciation": "fàn",
+    "definition": "cooked rice; food, meal"
+  },
+  {
+    "char": "饿",
+    "pronunciation": "è",
+    "definition": "hungry; greedy for; hunger"
+  },
+  {
+    "char": "首",
+    "pronunciation": "shǒu",
+    "definition": "head; first; leader, chief; a poem"
+  },
+  {
+    "char": "马",
+    "pronunciation": "mǎ",
+    "definition": "horse; surname; KangXi radical 187"
+  },
+  {
+    "char": "骄",
+    "pronunciation": "jiāo",
+    "definition": "spirited horse; haughty"
+  },
+  {
+    "char": "验",
+    "pronunciation": "yàn",
+    "definition": "test, examine, inspect; verify"
+  },
+  {
+    "char": "骗",
+    "pronunciation": "piàn",
+    "definition": "swindle, cheat out of, defraud"
+  },
+  {
+    "char": "高",
+    "pronunciation": "gāo",
+    "definition": "high, tall; lofty, elevated"
+  },
+  {
+    "char": "鬼",
+    "pronunciation": "guǐ",
+    "definition": "ghost; spirit of dead; devil"
+  },
+  {
+    "char": "魂",
+    "pronunciation": "hún",
+    "definition": "soul, spirit"
+  },
+  {
+    "char": "鱼",
+    "pronunciation": "yú",
+    "definition": "fish; surname; KangXi radical 195"
+  },
+  {
+    "char": "鸟",
+    "pronunciation": "niǎo",
+    "definition": "bird; KangXi radical 196"
+  },
+  {
+    "char": "鸡",
+    "pronunciation": "jī",
+    "definition": "chicken"
+  },
+  {
+    "char": "麻",
+    "pronunciation": "má",
+    "definition": "hemp, jute, flax; sesame"
+  },
+  {
+    "char": "黑",
+    "pronunciation": "hēi",
+    "definition": "black; dark; evil, sinister"
+  }
+]
