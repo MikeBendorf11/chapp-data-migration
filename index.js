@@ -184,7 +184,7 @@ unico.forEach(function(v){
 
 //fs.writeFileSync('./unicode-subtlex', JSON.parse(result, null, 2))
 */
-
+/*
 //FROM STROKE ALL TO STROKE 1500
 var fileS = fs.readFileSync('./strokes-all.json')
 var stroke = JSON.parse(fileS)
@@ -200,3 +200,23 @@ for(stk in stroke){
 }
 
 fs.writeFileSync('./strokes-subtlex-1500',JSON.stringify(result, null, 2))
+*/
+
+//add stroke data to unicode-subtlex-1500
+var fileU = fs.readFileSync('./unicode-subtlex-1500')
+var unicode = JSON.parse(fileU)
+var fileS = fs.readFileSync('./strokes-subtlex-1500')
+var subtlex = JSON.parse(fileS)
+
+result = []
+unicode.forEach((v,i)=>{
+  result.push({
+    char: v.char,
+    pronunciation: v.pronunciation,
+    definition: v.definition,
+    strokes: subtlex[v.char].strokes,
+    medians: subtlex[v.char].medians
+  })
+})
+
+fs.writeFileSync('./unicode-subtlex-strokes-1500', JSON.stringify(result, null, 2))
