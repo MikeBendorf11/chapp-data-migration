@@ -210,13 +210,50 @@ var subtlex = JSON.parse(fileS)
 
 result = []
 unicode.forEach((v,i)=>{
-  result.push({
-    char: v.char,
-    pronunciation: v.pronunciation,
-    definition: v.definition,
-    strokes: subtlex[v.char].strokes,
-    medians: subtlex[v.char].medians
-  })
+  subtlex[v.char].pronunciation = v.pronunciation
+  subtlex[v.char].definition = v.definition
+
+  fs.writeFileSync(`./chars/${v.char}.json`,JSON.stringify(subtlex[v.char]))
+  
+  // result.push({
+  //   char: v.char,
+  //   pronunciation: v.pronunciation,
+  //   definition: v.definition,
+  //   strokes: subtlex[v.char].strokes,
+  //   medians: subtlex[v.char].medians
+  // })
 })
 
-fs.writeFileSync('./unicode-subtlex-strokes-1500', JSON.stringify(result, null, 2))
+//fs.writeFileSync('./unicode-subtlex-strokes-1500', JSON.stringify(result, null, 2))
+
+/*
+var unit = new Unit(
+  {
+    id: 12,
+    learnedId: 22,
+    level: 1,
+    consult: true,
+    
+    char:{ 
+      hanzi: '就是', //char
+      pinyin: 'jiùshi', //pronunciation
+      literal: 'just, yes', //definitions.single[0]
+      figurative: 'truly', ////definitions.single[1]
+    },
+    short:{
+      hanzi: ["就要"," 成就", ""], //combinations.short
+      pinyin: ["","",""],
+      //literal: can be derived from unit.root.literal
+      figurative: [ 'will', 'achieve', ''], //definitions.short
+    },
+    long:{
+      hanzi: ["#,因为就要下雨了" ,
+             "这不是什么大不了的成就这不是什么大不了的成就",""], //comb.long
+      pinyin: ["","",""],
+      //literal: can be derived from unit.root.literal
+      figurative: ["","",""], //definitions.long
+    }
+  }
+)
+
+*/
