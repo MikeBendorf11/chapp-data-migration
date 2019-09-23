@@ -170,20 +170,49 @@ rl.on('close', function(){
 //UNICODE SUBTLEX 1500 TOO SLOW
 /*
 var fileU = fs.readFileSync('./unicode-json-all.txt')
-var fileS = fs.readFileSync('./subtlex-chars-only')
+var fileS = fs.readFileSync('./subtlex-1500')
 
 var unico = JSON.parse(fileU)
-var arrS = [fileS.toString().split(',')]
+var arrS = fileS.toString().split(',')
 var subtlSet = new Set(arrS)
 var result = []
 
 unico.forEach(function(v){
-  console.log(v)
-  //if(subtlSet.has(v.char)) result.push(v)
+  //console.log(v)
+  if(subtlSet.has(v.char)) result.push({
+    char: v.char,
+    pronunciation: v.pronunciation,
+    definition: v.definition
+  })
 })
 
-//fs.writeFileSync('./unicode-subtlex', JSON.parse(result, null, 2))
+fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(result, null, 2))*/
+
+//GET CHAR WITH MULTIPLE PINYIN FROM UNICODE
+/*
+var fileU = fs.readFileSync('./unicode-subtlex-1500')
+var unico = JSON.parse(fileU)
+var combined = []
+count = 0
+unico.forEach((e, i) => {
+  if (e.pronunciation.includes(','))
+    combined.push(e.char)
+});
+
+fs.writeFileSync('./chars-multiple-pinyin', JSON.stringify(combined))
 */
+
+var fileM = fs.readFileSync('./mychars.json')
+var mychars = JSON.parse(fileM)
+var fileUch = fs.readFileSync('./chars-multiple-pinyin')
+var ucharlist = JSON.parse(fileUch)
+
+mychars.forEach((v,i)=>{
+  if(v.learnedId){
+
+  }
+})
+
 /*
 //FROM STROKE ALL TO STROKE 1500
 var fileS = fs.readFileSync('./strokes-all.json')
@@ -201,7 +230,7 @@ for(stk in stroke){
 
 fs.writeFileSync('./strokes-subtlex-1500',JSON.stringify(result, null, 2))
 */
-
+/*
 //add stroke data to unicode-subtlex-1500
 var fileU = fs.readFileSync('./unicode-subtlex-1500')
 var unicode = JSON.parse(fileU)
@@ -222,7 +251,7 @@ unicode.forEach((v,i)=>{
   //   strokes: subtlex[v.char].strokes,
   //   medians: subtlex[v.char].medians
   // })
-})
+})*/
 
 //fs.writeFileSync('./unicode-subtlex-strokes-1500', JSON.stringify(result, null, 2))
 
