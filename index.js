@@ -13,7 +13,7 @@ for (let i = 0, k = 0; i < units.length; i++ , k++) {
   var unit = { char: {}, short: {}, long: {} }
   newUnits.push(unit)
 
-  //unlearned chars: combs, defs, learnedId, level, consult set to undefined 
+  //unlearned chars: combs, defs, learnedId, level, consult set to undefined
   if (typeof(units[i].learnedId) === 'undefined') {
     newUnits[k].id = units[i].id
     newUnits[k].learnedId = undefined
@@ -111,7 +111,7 @@ var id = pronunciation = definition = ''
 rl.on('line', function(line) {
  var arr = line.split('	')
  var code = arr[0].split('+')[1]
- var charFromCode = code ? String.fromCodePoint(`0x${code}`) : 0x9C8B 
+ var charFromCode = code ? String.fromCodePoint(`0x${code}`) : 0x9C8B
  //console.log(charFromCode)
  if(subtlex.includes(charFromCode)){
   if( arr[1]=='kDefinition' && arr[2]){
@@ -129,12 +129,12 @@ rl.on('line', function(line) {
     })
     //console.log(unicodeDB[unicodeDB.length-1])
     id = pronunciation = definition = ''
-   } 
-   if(arr[1]=='kXHC1983' 
-      && arr[2]   
+   }
+   if(arr[1]=='kXHC1983'
+      && arr[2]
       && arr[0].split('+')[1] == unicodeDB[unicodeDB.length-1].id){
-  
-      var pron =arr[2].indexOf(' '>1)? arr[2].split(' ') : [arr[2]] 
+
+      var pron =arr[2].indexOf(' '>1)? arr[2].split(' ') : [arr[2]]
       pron.forEach(function(v,i){pron[i] = pron[i].split(':')[1] })
       unicodeDB[unicodeDB.length-1].pronunciation = pron.toString()
     }
@@ -155,7 +155,7 @@ let rl = readline.createInterface({
  var lineC = 0;
  var result = []
 rl.on('line', function(line){
-  
+
   var arr = line.split('	')
   result.push(arr[0])
   lineC++
@@ -215,11 +215,11 @@ var maxPronun = ['','','','','','','']
 allU.forEach((v,i)=>{
   if(mlt.has(v.char)){
     v.pronunciation.split(',').forEach((val,idx)=>{
-      maxPronun[idx]=val 
+      maxPronun[idx]=val
     })
     final += v.char+','
           + maxPronun + ','
-          + v.definition.split(',').join(' /').split(';').join(' /') 
+          + v.definition.split(',').join(' /').split(';').join(' /')
           + '\n'
   }
   maxPronun = ['','','','','','','']
@@ -228,24 +228,43 @@ allU.forEach((v,i)=>{
 1==2
 fs.writeFileSync('./table-multiple-pinyin.csv', final)
 */
-//UNICODE-SUBTLEX-1500-MOSTCOMMON - PINYIN HANZI
+//PINYIN REDUCTION UNICODE-SUBTLEX-1500-REVIEWED 
+var fileOld = fs.readFileSync('./unicode-subtlex-1500')
+var oldSubtlx = JSON.parse(fileOld)
+var result = []
+var reviewed = {}
 let rl = readline.createInterface({
   input: fs.createReadStream('./table-multiple-pinyin-reviewed.csv')
  });
-var reviewed = []
+
 rl.on('line',function(line){
   var arr = line.split(',')
   var char = arr[0]
   var pinyin, literal
-  arr.slice(1,9).forEach(v=>{
-    if(v.includes('*')) pinyin = v
+  arr.slice(1,8).forEach(v=>{
+    if(v.includes('*')) pinyin = v.split('*')[1]
   })
-  arr.slice(9,arr.length).forEach(v2=>{
-    if(v2.includes('*')) literal = v2
+  arr.slice(8,arr.length).forEach(v2=>{
+    if(v2.includes('*')) literal = v2.split('*')[1]
   })
-  reviewed.push({char, pinyin, literal})
+  reviewed[char]= {pinyin, literal}
 })
-1==2
+rl.on('close',()=>{
+  //console.log(reviewed['上'])
+  oldSubtlx.forEach((v,i)=>{
+    if(reviewed[v.char]){
+      // result.push({
+      //   hanzi: v.char,
+      //   pinyin: reviewed[v.char].pinyin.trim(),
+      //   literal: reviewed[v.char].literal.trim()
+      // })
+      reviewed[v.char].pinyin == undefined || reviewed[v.char].literal == undefined ?
+      result.push(v.char) : null
+    }
+  })
+  //fs.writeFileSync('./pinyin-reduction/unicode-subtlex-1500-reviewed', JSON.stringify(result, null, 2))
+  fs.writeFileSync('./pinyin-reduction/special-lesson-chars', JSON.stringify(result))
+})
 
 /*
 //FROM STROKE ALL TO STROKE 1500
@@ -277,7 +296,7 @@ unicode.forEach((v,i)=>{
   subtlex[v.char].definition = v.definition
 
   fs.writeFileSync(`./chars/${v.char}.json`,JSON.stringify(subtlex[v.char]))
-  
+
   // result.push({
   //   char: v.char,
   //   pronunciation: v.pronunciation,
@@ -296,8 +315,8 @@ var unit = new Unit(
     learnedId: 22,
     level: 1,
     consult: true,
-    
-    char:{ 
+
+    char:{
       hanzi: '就是', //char
       pinyin: 'jiùshi', //pronunciation
       literal: 'just, yes', //definitions.single[0]

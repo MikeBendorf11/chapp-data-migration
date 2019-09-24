@@ -1,0 +1,752 @@
+[
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "literal": "one"
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "literal": "seven"
+  },
+  {
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "literal": "ten thousand"
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "literal": "top"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "literal": "no"
+  },
+  {
+    "hanzi": "与",
+    "pinyin": "yǔ",
+    "literal": "and"
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "literal": "numerary adjunct"
+  },
+  {
+    "hanzi": "中",
+    "pinyin": "zhōng",
+    "literal": "center"
+  },
+  {
+    "hanzi": "为",
+    "pinyin": "wéi",
+    "literal": "do"
+  },
+  {
+    "hanzi": "么",
+    "pinyin": "me",
+    "literal": "interrogative particle"
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "literal": "completed action"
+  },
+  {
+    "hanzi": "亲",
+    "pinyin": "qīn",
+    "literal": "relatives"
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "literal": "from"
+  },
+  {
+    "hanzi": "令",
+    "pinyin": "lìng",
+    "literal": "command"
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "literal": "meeting"
+  },
+  {
+    "hanzi": "传",
+    "pinyin": "chuán",
+    "literal": "transmit"
+  },
+  {
+    "hanzi": "作",
+    "pinyin": "zuò",
+    "literal": "compose"
+  },
+  {
+    "hanzi": "便",
+    "pinyin": "biàn",
+    "literal": "convenience"
+  },
+  {
+    "hanzi": "俩",
+    "pinyin": "liǎ",
+    "literal": "pair"
+  },
+  {
+    "hanzi": "倒",
+    "pinyin": "dǎo",
+    "literal": "fall over"
+  },
+  {
+    "hanzi": "假",
+    "pinyin": "jiǎ",
+    "literal": "falsehood"
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "literal": "eight"
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "literal": "number six"
+  },
+  {
+    "hanzi": "其",
+    "pinyin": "qí",
+    "literal": "his"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "literal": "write"
+  },
+  {
+    "hanzi": "冲",
+    "pinyin": "chōng",
+    "literal": "rinse"
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "literal": "how many"
+  },
+  {
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "literal": "divide"
+  },
+  {
+    "hanzi": "别",
+    "pinyin": "bié",
+    "literal": "separate"
+  },
+  {
+    "hanzi": "区",
+    "pinyin": "qū",
+    "literal": "area"
+  },
+  {
+    "hanzi": "单",
+    "pinyin": "dān",
+    "literal": "single"
+  },
+  {
+    "hanzi": "卡",
+    "pinyin": "kǎ",
+    "literal": "card"
+  },
+  {
+    "hanzi": "发",
+    "pinyin": "fā",
+    "literal": "issue"
+  },
+  {
+    "hanzi": "句",
+    "pinyin": "jù",
+    "literal": "sentence"
+  },
+  {
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "literal": "only"
+  },
+  {
+    "hanzi": "可",
+    "pinyin": "kě",
+    "literal": "can"
+  },
+  {
+    "hanzi": "台",
+    "pinyin": "tái",
+    "literal": "platform"
+  },
+  {
+    "hanzi": "号",
+    "pinyin": "hào",
+    "literal": "symbol"
+  },
+  {
+    "hanzi": "同",
+    "pinyin": "tóng",
+    "literal": "same"
+  },
+  {
+    "hanzi": "吐",
+    "pinyin": "tù",
+    "literal": "vomit"
+  },
+  {
+    "hanzi": "吓",
+    "pinyin": "xià",
+    "literal": "scare"
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "literal": "final interrogative particle"
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "literal": "emphatic final particle"
+  },
+  {
+    "hanzi": "吵",
+    "pinyin": "chǎo",
+    "literal": "argue"
+  },
+  {
+    "hanzi": "呀",
+    "pinyin": "ya",
+    "literal": "surprise"
+  },
+  {
+    "hanzi": "呆",
+    "pinyin": "dāi",
+    "literal": "simpleton"
+  },
+  {
+    "hanzi": "员",
+    "pinyin": "yuán",
+    "literal": "member"
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "literal": "interrogative"
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "literal": "peace"
+  },
+  {
+    "hanzi": "哇",
+    "pinyin": "wa",
+    "literal": "cry of an infant"
+  },
+  {
+    "hanzi": "哈",
+    "pinyin": "hā",
+    "literal": "sound of laughter"
+  },
+  {
+    "hanzi": "哦",
+    "pinyin": "ó",
+    "literal": "oh? really? is that so?"
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "literal": "which? where? how?"
+  },
+  {
+    "hanzi": "啊",
+    "pinyin": "á",
+    "literal": "exclamation"
+  },
+  {
+    "hanzi": "啦",
+    "pinyin": "lā",
+    "literal": "assertion"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "literal": "drink"
+  },
+  {
+    "hanzi": "嗨",
+    "pinyin": "hāi",
+    "literal": "an exclamation"
+  },
+  {
+    "hanzi": "嗯",
+    "pinyin": "ǹ",
+    "literal": "final particle"
+  },
+  {
+    "hanzi": "嘘",
+    "pinyin": "xū",
+    "literal": "be quiet"
+  },
+  {
+    "hanzi": "嘿",
+    "pinyin": "hēi",
+    "literal": "hi"
+  },
+  {
+    "hanzi": "圈",
+    "pinyin": "quān",
+    "literal": "to circle"
+  },
+  {
+    "hanzi": "地",
+    "pinyin": "dì",
+    "literal": "earth"
+  },
+  {
+    "hanzi": "场",
+    "pinyin": "chǎng",
+    "literal": "field"
+  },
+  {
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "literal": "rotten"
+  },
+  {
+    "hanzi": "堆",
+    "pinyin": "duī",
+    "literal": "pile"
+  },
+  {
+    "hanzi": "处",
+    "pinyin": "chù",
+    "literal": "place"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "literal": "big"
+  },
+  {
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "literal": "head"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "literal": "good"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "literal": "home"
+  },
+  {
+    "hanzi": "将",
+    "pinyin": "jiāng",
+    "literal": "will"
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "literal": "few"
+  },
+  {
+    "hanzi": "尽",
+    "pinyin": "jìn",
+    "literal": "exhaust"
+  },
+  {
+    "hanzi": "差",
+    "pinyin": "chā",
+    "literal": "to differ"
+  },
+  {
+    "hanzi": "已",
+    "pinyin": "yǐ",
+    "literal": "already"
+  },
+  {
+    "hanzi": "干",
+    "pinyin": "gàn",
+    "literal": "do"
+  },
+  {
+    "hanzi": "并",
+    "pinyin": "bìng",
+    "literal": "combine"
+  },
+  {
+    "hanzi": "底",
+    "pinyin": "dǐ",
+    "literal": "bottom"
+  },
+  {
+    "hanzi": "度",
+    "pinyin": "dù",
+    "literal": "degree"
+  },
+  {
+    "hanzi": "弄",
+    "pinyin": "nòng",
+    "literal": "play"
+  },
+  {
+    "hanzi": "弹",
+    "pinyin": "dàn",
+    "literal": "pellet"
+  },
+  {
+    "hanzi": "强",
+    "pinyin": "qiáng",
+    "literal": "strong"
+  },
+  {
+    "hanzi": "当",
+    "pinyin": "dāng",
+    "literal": "undertake"
+  },
+  {
+    "hanzi": "往",
+    "pinyin": "wǎng",
+    "literal": "past"
+  },
+  {
+    "hanzi": "待",
+    "pinyin": "dài",
+    "literal": "treat"
+  },
+  {
+    "hanzi": "得",
+    "pinyin": "dé",
+    "literal": "obtain"
+  },
+  {
+    "hanzi": "忘",
+    "pinyin": "wàng",
+    "literal": "forget"
+  },
+  {
+    "hanzi": "戏",
+    "pinyin": "xì",
+    "literal": "theatrical play"
+  },
+  {
+    "hanzi": "抢",
+    "pinyin": "qiǎng",
+    "literal": "rob"
+  },
+  {
+    "hanzi": "拉",
+    "pinyin": "lā",
+    "literal": "pull"
+  },
+  {
+    "hanzi": "指",
+    "pinyin": "zhǐ",
+    "literal": "finger"
+  },
+  {
+    "hanzi": "排",
+    "pinyin": "pái",
+    "literal": "row"
+  },
+  {
+    "hanzi": "提",
+    "pinyin": "tí",
+    "literal": "raise"
+  },
+  {
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "literal": "teach"
+  },
+  {
+    "hanzi": "数",
+    "pinyin": "shù",
+    "literal": "number"
+  },
+  {
+    "hanzi": "无",
+    "pinyin": "wú",
+    "literal": "not"
+  },
+  {
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "literal": "still further"
+  },
+  {
+    "hanzi": "曾",
+    "pinyin": "céng",
+    "literal": "sign of past"
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "literal": "have"
+  },
+  {
+    "hanzi": "朝",
+    "pinyin": "cháo",
+    "literal": "dynasty"
+  },
+  {
+    "hanzi": "查",
+    "pinyin": "chá",
+    "literal": "investigate"
+  },
+  {
+    "hanzi": "正",
+    "pinyin": "zhèng",
+    "literal": "proper"
+  },
+  {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "literal": "not"
+  },
+  {
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "literal": "wash"
+  },
+  {
+    "hanzi": "派",
+    "pinyin": "pài",
+    "literal": "sect"
+  },
+  {
+    "hanzi": "混",
+    "pinyin": "hùn",
+    "literal": "to mix"
+  },
+  {
+    "hanzi": "片",
+    "pinyin": "piàn",
+    "literal": "slice"
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "literal": "cat"
+  },
+  {
+    "hanzi": "王",
+    "pinyin": "wáng",
+    "literal": "king"
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "literal": "possessive"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "literal": "look"
+  },
+  {
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "literal": "take action"
+  },
+  {
+    "hanzi": "种",
+    "pinyin": "zhǒng",
+    "literal": "breed / type / category"
+  },
+  {
+    "hanzi": "空",
+    "pinyin": "kōng",
+    "literal": "empty"
+  },
+  {
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "literal": "tired"
+  },
+  {
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "literal": "red"
+  },
+  {
+    "hanzi": "约",
+    "pinyin": "yuē",
+    "literal": "schedule for a meeting"
+  },
+  {
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "literal": "give"
+  },
+  {
+    "hanzi": "背",
+    "pinyin": "bèi",
+    "literal": "back side"
+  },
+  {
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "literal": "foot"
+  },
+  {
+    "hanzi": "臭",
+    "pinyin": "chòu",
+    "literal": "stink"
+  },
+  {
+    "hanzi": "节",
+    "pinyin": "jié",
+    "literal": "knot"
+  },
+  {
+    "hanzi": "藏",
+    "pinyin": "cáng",
+    "literal": "hide"
+  },
+  {
+    "hanzi": "血",
+    "pinyin": "xuè",
+    "literal": "blood"
+  },
+  {
+    "hanzi": "行",
+    "pinyin": "xíng",
+    "literal": "walk"
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yào",
+    "literal": "want / ask for"
+  },
+  {
+    "hanzi": "见",
+    "pinyin": "jiàn",
+    "literal": "see"
+  },
+  {
+    "hanzi": "语",
+    "pinyin": "yǔ",
+    "literal": "language"
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "literal": "speak"
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "literal": "read"
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shuí",
+    "literal": "who? whom?"
+  },
+  {
+    "hanzi": "赚",
+    "pinyin": "zhuàn",
+    "literal": "earn"
+  },
+  {
+    "hanzi": "跑",
+    "pinyin": "páo",
+    "literal": "run"
+  },
+  {
+    "hanzi": "车",
+    "pinyin": "chē",
+    "literal": "vehicle"
+  },
+  {
+    "hanzi": "转",
+    "pinyin": "zhuàn",
+    "literal": "turn"
+  },
+  {
+    "hanzi": "边",
+    "pinyin": "biān",
+    "literal": "edge"
+  },
+  {
+    "hanzi": "过",
+    "pinyin": "guò",
+    "literal": "pass"
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "hái",
+    "literal": "still"
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "literal": "this"
+  },
+  {
+    "hanzi": "通",
+    "pinyin": "tōng",
+    "literal": "pass through"
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "literal": "that"
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "literal": "all"
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "literal": "inside of"
+  },
+  {
+    "hanzi": "重",
+    "pinyin": "zhòng",
+    "literal": "heavy"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "literal": "long"
+  },
+  {
+    "hanzi": "间",
+    "pinyin": "jiān",
+    "literal": "space"
+  },
+  {
+    "hanzi": "阿",
+    "pinyin": "ā",
+    "literal": "name prefix"
+  },
+  {
+    "hanzi": "难",
+    "pinyin": "nán",
+    "literal": "difficult"
+  },
+  {
+    "hanzi": "顿",
+    "pinyin": "dùn",
+    "literal": "pause"
+  },
+  {
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "literal": "bird"
+  }
+]
