@@ -228,13 +228,13 @@ allU.forEach((v,i)=>{
 1==2
 fs.writeFileSync('./table-multiple-pinyin.csv', final)
 */
-//PINYIN REDUCTION UNICODE-SUBTLEX-1500-REVIEWED 
+//PINYIN REDUCTION UNICODE-SUBTLEX-1500-REVIEWED
 var fileOld = fs.readFileSync('./unicode-subtlex-1500')
 var oldSubtlx = JSON.parse(fileOld)
 var result = []
 var reviewed = {}
 let rl = readline.createInterface({
-  input: fs.createReadStream('./table-multiple-pinyin-reviewed.csv')
+  input: fs.createReadStream('./pinyin-reduction/table-multiple-pinyin-reviewed.csv')
  });
 
 rl.on('line',function(line){
