@@ -204,7 +204,7 @@ fs.writeFileSync('./chars-multiple-pinyin', JSON.stringify(combined))
 */
 
 //TABLE MULTIPLE PINYIN
-var fileMlt = fs.readFileSync('./chars-multiple-pinyin')
+/*var fileMlt = fs.readFileSync('./chars-multiple-pinyin')
 var mlt = new Set(JSON.parse(fileMlt))
 var fileAllU = fs.readFileSync('./unicode-subtlex-1500')
 var allU = JSON.parse(fileAllU)
@@ -227,6 +227,25 @@ allU.forEach((v,i)=>{
 
 1==2
 fs.writeFileSync('./table-multiple-pinyin.csv', final)
+*/
+//UNICODE-SUBTLEX-1500-MOSTCOMMON - PINYIN HANZI
+let rl = readline.createInterface({
+  input: fs.createReadStream('./table-multiple-pinyin-reviewed.csv')
+ });
+var reviewed = []
+rl.on('line',function(line){
+  var arr = line.split(',')
+  var char = arr[0]
+  var pinyin, literal
+  arr.slice(1,9).forEach(v=>{
+    if(v.includes('*')) pinyin = v
+  })
+  arr.slice(9,arr.length).forEach(v2=>{
+    if(v2.includes('*')) literal = v2
+  })
+  reviewed.push({char, pinyin, literal})
+})
+1==2
 
 /*
 //FROM STROKE ALL TO STROKE 1500
