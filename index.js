@@ -195,23 +195,38 @@ var unico = JSON.parse(fileU)
 var combined = []
 count = 0
 unico.forEach((e, i) => {
-  if (e.pronunciation.includes(','))
+  if (e.pronunciation.split(',').length>5)
+    //console.log(e.pronunciation)
     combined.push(e.char)
 });
 
 fs.writeFileSync('./chars-multiple-pinyin', JSON.stringify(combined))
 */
 
-var fileM = fs.readFileSync('./mychars.json')
-var mychars = JSON.parse(fileM)
-var fileUch = fs.readFileSync('./chars-multiple-pinyin')
-var ucharlist = JSON.parse(fileUch)
+//TABLE MULTIPLE PINYIN
+var fileMlt = fs.readFileSync('./chars-multiple-pinyin')
+var mlt = new Set(JSON.parse(fileMlt))
+var fileAllU = fs.readFileSync('./unicode-subtlex-1500')
+var allU = JSON.parse(fileAllU)
 
-mychars.forEach((v,i)=>{
-  if(v.learnedId){
+var final =  ''
+var maxPronun = ['','','','','','','']
 
+allU.forEach((v,i)=>{
+  if(mlt.has(v.char)){
+    v.pronunciation.split(',').forEach((val,idx)=>{
+      maxPronun[idx]=val 
+    })
+    final += v.char+','
+          + maxPronun + ','
+          + v.definition.split(',').join(' /').split(';').join(' /') 
+          + '\n'
   }
+  maxPronun = ['','','','','','','']
 })
+
+1==2
+fs.writeFileSync('./table-multiple-pinyin.csv', final)
 
 /*
 //FROM STROKE ALL TO STROKE 1500
