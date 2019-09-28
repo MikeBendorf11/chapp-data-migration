@@ -3956,10 +3956,10 @@
     },
     "short": {
       "hanzi": [
-        "请(问, 坐, 进)"
+        ""
       ],
       "figurative": [
-        "may (ask, sit, enter)"
+        ""
       ]
     },
     "long": {
@@ -4478,14 +4478,16 @@
     },
     "short": {
       "hanzi": [
-        "行人(路)",
+        "行人",
         "内行/行家",
-        "行为"
+        "行为",
+        "行人路"
       ],
       "figurative": [
-        "Pedestrian, sidewalk",
+        "Pedestrian",
         "expert",
-        "behavior"
+        "behavior",
+        "sidewalk"
       ]
     },
     "long": {
@@ -7018,7 +7020,7 @@
     },
     "short": {
       "hanzi": [
-        "大/小号"
+        "大号/小号"
       ],
       "figurative": [
         "clothes size"
@@ -7254,7 +7256,7 @@
         "死活",
         "活力",
         "过活",
-        "活(不)下去",
+        "",
         "快活",
         "活该"
       ],
@@ -7263,7 +7265,7 @@
         "no matter what",
         "vitality",
         "make a living",
-        "(impossible) make a living",
+        "",
         "cheerful",
         "get what's deserved"
       ]
