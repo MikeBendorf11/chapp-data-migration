@@ -3987,13 +3987,13 @@
       "hanzi": [
         "怎么回事",
         "回应 / 回信",
-        "(两)回事",
+        "回事",
         "回车"
       ],
       "figurative": [
         "what's the matter",
         "Respond, reply",
-        "(2 unrelated) things",
+        " things",
         "return key"
       ]
     },
@@ -4524,10 +4524,10 @@
     },
     "long": {
       "hanzi": [
-        "(男,女,小)朋友"
+        ""
       ],
       "figurative": [
-        "(boy, girl, child) friend"
+        ""
       ]
     },
     "id": 171,
@@ -4969,7 +4969,7 @@
     },
     "long": {
       "hanzi": [
-        "话(又)说回来",
+        "话又说回来",
         "来回来去"
       ],
       "figurative": [
@@ -5428,15 +5428,11 @@
     "short": {
       "hanzi": [
         "所以",
-        "(一)无所",
-        "(一无)所(有,周知,见,能,为)",
         "无所事事",
         "所有"
       ],
       "figurative": [
         "therefore",
-        "&nbsp; nothing at all",
-        "(at all without) what one already(...)",
         "laying around, slacking",
         "all"
       ]
@@ -6379,10 +6375,10 @@
     },
     "long": {
       "hanzi": [
-        "他真有两手(一手)"
+        "他真有两手"
       ],
       "figurative": [
-        "He really has two hands (one hand)"
+        "He really handy"
       ]
     },
     "id": 258,
@@ -7356,10 +7352,10 @@
     },
     "short": {
       "hanzi": [
-        "看, 说, 买, 听, 做(得到)"
+        ""
       ],
       "figurative": [
-        "able"
+        ""
       ]
     },
     "long": {
@@ -8525,12 +8521,10 @@
     },
     "short": {
       "hanzi": [
-        "(小,大)于",
         "&nbsp;等于",
         "于是"
       ],
       "figurative": [
-        "smaller, greater than",
         "equal, equivalent",
         "then"
       ]
@@ -9073,12 +9067,10 @@
     "long": {
       "hanzi": [
         "为时已晚 / 太晚了",
-        "(昨,今)晚",
         "晚做总比不做好"
       ],
       "figurative": [
         "it is too late",
-        "last night, tonight",
         "better late than never"
       ]
     },
@@ -11637,11 +11629,11 @@
     "long": {
       "hanzi": [
         "半工半读",
-        "(上,下)半"
+        ""
       ],
       "figurative": [
         "Part-time work, part-time study",
-        "(first, second) half"
+        ""
       ]
     },
     "id": 615,
