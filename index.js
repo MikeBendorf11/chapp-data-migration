@@ -63,29 +63,55 @@ units.forEach((unit)=>{
     })
   }
   else if(unit.learnedId && unit.char.hanzi.length>1){
-
+    
+    //add multiple char unit to single
     unit.char.hanzi.split('').forEach(ch=>{
     if(!single[ch]){
       //in case I add new char out of subtlex from now on
         single[ch] = {} 
       } else {
         var position = Object.keys(single[ch]).length
-        single[ch][position] = unit.char.hanzi
+        single[ch][position] = {}
+        unit.char.hanzi.split('').forEach(c=>{
+          if(ch != c){
+          single[ch][position][c] = single[c]
+          } else single[ch][position][c] = {}
+        })
+        
       }
     })
+
+    //add combs to single
     if(unit.short.hanzi.length > 0){
       unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
       unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
   
-      unit.short.hanzi.forEach((short, idx)=>{
+      unit.short.hanzi.forEach((short)=>{
         if(short){
-          single[unit.char.hanzi][idx] = {}
-          short.split('').forEach((char)=>{
-            if(single[char] && char!=unit.char.hanzi)
-              single[unit.char.hanzi][idx][char] = single[char]
-            else 
-              single[unit.char.hanzi][idx][char]= {}                   
-          })        
+          //calc position for each char of this short comb and initiate
+          var positions = {}
+          var chars = short.split('')
+          var circularComb = {} 
+          //calc comb positions forEach single and populate circComb
+          chars.forEach((char)=>{
+            positions[char] = Object.keys(single[char]).length
+            single[char][positions[char]] = {}
+            if(single[char]){
+              circularComb[char] = single[char]
+            }
+            else { //new context char outside of subtlex 1500
+              single[char]= {}       
+              circularComb[char] = single[char]            
+            }
+          })
+          //asign to specific single position, ignore root as circular
+          chars.forEach(char=>{
+            var circCombCopy = circularComb
+            Object.keys(circCombCopy).forEach(key=>{
+              if(key==char) circCombCopy[key] = {}
+            })
+            single[char][positions[char]] = circCombCopy
+          })
         }
       })
     }
