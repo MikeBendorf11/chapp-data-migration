@@ -30,9 +30,8 @@ units.forEach((unit)=>{
 })
 
 function addSingle(chars){
-  var ignore = ' ,，、：!！?？.。“”/enw29'
   if(typeof(chars)==='string'){
-    ignore.split('').forEach(i=>chars = chars.split(i).join(''))
+    chars = cleanInput(chars)
     if(chars){
       chars.split('').forEach(c=>single[c] = {})
     }else return
@@ -44,7 +43,26 @@ function addSingle(chars){
   } 
 }
 
-//add short to singles
+function cleanInput(str){
+  var ignore = ' ,，、：!！?？.。“”/enw29'
+  ignore.split('').forEach(i=>str = str.split(i).join(''))
+  return str
+}
+
+function cleanComb(comb, char){
+  comb.forEach((c,i)=>{ //check / split and add to arr
+    if(c.includes(char)){
+      var partials = c.split(char)
+      comb[i] = partials[0].trim()
+      partials.forEach((p, i)=>{
+        if(i!=0) comb.push(p.trim())
+      })
+    } 
+  })
+  return comb;
+}
+
+//add single unit short combs 
 units.forEach((unit)=>{
   if(unit.short.hanzi && unit.learnedId && unit.char.hanzi.length==1){
     unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
@@ -81,7 +99,7 @@ units.forEach((unit)=>{
       }
     })
 
-    //add combs to single
+    //add multiple char unit short combs
     if(unit.short.hanzi.length > 0){
       unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
       unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
@@ -120,16 +138,8 @@ units.forEach((unit)=>{
 
 1==2
 fs.writeFileSync('./tree.json', CircularJSON.stringify({single, short, long}, null, 2))
+fs.writeFileSync('./tree.json.min', CircularJSON.stringify(single))
 
-function cleanComb(comb, char){
-  comb.forEach((c,i)=>{ //check / split and add to arr
-    if(c.includes(char)){
-      var partials = c.split(char)
-      comb[i] = partials[0].trim()
-      partials.forEach((p, i)=>{
-        if(i!=0) comb.push(p.trim())
-      })
-    } 
-  })
-  return comb;
-}
+// var testF = fs.readFileSync('./tree.json')
+// var parsedCircular = CircularJSON.parse(testF)
+// 1==2
