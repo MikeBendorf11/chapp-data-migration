@@ -64,38 +64,41 @@ function cleanComb(comb, char){
 
 //add single unit short combs 
 units.forEach((unit)=>{
+  console.log(single['面'])
   if(unit.short.hanzi && unit.learnedId && unit.char.hanzi.length==1){
     unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
     unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
 
+    var result = {}
     unit.short.hanzi.forEach((short, idx)=>{
       if(short){
-        single[unit.char.hanzi][idx] = {}
+        //single[unit.char.hanzi][idx] = {}
         short.split('').forEach((char)=>{
           if(single[char] && char!=unit.char.hanzi)
-            single[unit.char.hanzi][idx][char] = single[char]
+            result[char] = single[char]
           else 
-            single[unit.char.hanzi][idx][char]= {}                   
-        })        
+            result[char]= {}                   
+        })
+        single[unit.char.hanzi][short] = result
       }
     })
   }
+  //add multiple char unit to single
   else if(unit.learnedId && unit.char.hanzi.length>1){
-    
-    //add multiple char unit to single
     unit.char.hanzi.split('').forEach(ch=>{
-    if(!single[ch]){
+      var result = {}
+      if(!single[ch]){
       //in case I add new char out of subtlex from now on
         single[ch] = {} 
       } else {
-        var position = Object.keys(single[ch]).length
-        single[ch][position] = {}
+        //var position = Object.keys(single[ch]).length
+        //single[ch][position] = {}
         unit.char.hanzi.split('').forEach(c=>{
           if(ch != c){
-          single[ch][position][c] = single[c]
-          } else single[ch][position][c] = {}
+          result[c] = single[c]
+          } else result[c] = {}
         })
-        
+        single[ch][unit.char.hanzi] = result
       }
     })
 
@@ -107,13 +110,13 @@ units.forEach((unit)=>{
       unit.short.hanzi.forEach((short)=>{
         if(short){
           //calc position for each char of this short comb and initiate
-          var positions = {}
+          //var positions = {}
           var chars = short.split('')
           var circularComb = {} 
           //calc comb positions forEach single and populate circComb
           chars.forEach((char)=>{
-            positions[char] = Object.keys(single[char]).length
-            single[char][positions[char]] = {}
+            //positions[char] = Object.keys(single[char]).length
+            single[char][short] = {}
             if(single[char]){
               circularComb[char] = single[char]
             }
@@ -128,7 +131,7 @@ units.forEach((unit)=>{
             Object.keys(circCombCopy).forEach(key=>{
               if(key==char) circCombCopy[key] = {}
             })
-            single[char][positions[char]] = circCombCopy
+            single[char][short] = circCombCopy
           })
         }
       })
