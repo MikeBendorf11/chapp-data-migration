@@ -1,6 +1,7 @@
 var fs = require('fs')
 const readline = require('readline');
 var  CircularJSON = require('circular-json')
+var FlattedJSON = require('flatted/cjs')
 
 //minify json to remove ['']
 // var fileChNw = fs.readFileSync('./units-new-struct.json')
@@ -18,9 +19,7 @@ var units = JSON.parse(
   //.split('?').join('')
 )
 
-var single = {}
-var short = {}
-var long={}
+var tree = {}
 
 //define singles
 units.forEach((unit)=>{
@@ -33,7 +32,7 @@ function addSingle(chars){
   if(typeof(chars)==='string'){
     chars = cleanInput(chars)
     if(chars){
-      chars.split('').forEach(c=>single[c] = {})
+      chars.split('').forEach(c=>tree[c] = {})
     }else return
   } 
   else if(typeof(chars)==="object"){
@@ -62,87 +61,81 @@ function cleanComb(comb, char){
   return comb;
 }
 
-//add single unit short combs 
+//add single short combs 
 units.forEach((unit)=>{
-  console.log(single['面'])
   if(unit.short.hanzi && unit.learnedId && unit.char.hanzi.length==1){
     unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
     unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
 
-    var result = {}
     unit.short.hanzi.forEach((short, idx)=>{
+      var result = {}
       if(short){
-        //single[unit.char.hanzi][idx] = {}
         short.split('').forEach((char)=>{
-          if(single[char] && char!=unit.char.hanzi)
-            result[char] = single[char]
-          else 
-            result[char]= {}                   
+            result[char] = tree[char]               
         })
-        single[unit.char.hanzi][short] = result
+        tree[unit.char.hanzi][short] = result
       }
     })
   }
-  //add multiple char unit to single
+  //add multiple char unit 
   else if(unit.learnedId && unit.char.hanzi.length>1){
+    var result = {}
     unit.char.hanzi.split('').forEach(ch=>{
-      var result = {}
-      if(!single[ch]){
-      //in case I add new char out of subtlex from now on
-        single[ch] = {} 
+      if(tree[ch]){
+        result[ch] = tree[ch]
+        tree[ch][unit.char.hanzi] = result
       } else {
-        //var position = Object.keys(single[ch]).length
-        //single[ch][position] = {}
-        unit.char.hanzi.split('').forEach(c=>{
-          if(ch != c){
-          result[c] = single[c]
-          } else result[c] = {}
-        })
-        single[ch][unit.char.hanzi] = result
+         //in case I add new char out of subtlex from now on
+         tree[ch] = {} 
       }
     })
-
-    //add multiple char unit short combs
     if(unit.short.hanzi.length > 0){
       unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
       unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
   
       unit.short.hanzi.forEach((short)=>{
         if(short){
-          //calc position for each char of this short comb and initiate
-          //var positions = {}
-          var chars = short.split('')
-          var circularComb = {} 
-          //calc comb positions forEach single and populate circComb
-          chars.forEach((char)=>{
-            //positions[char] = Object.keys(single[char]).length
-            single[char][short] = {}
-            if(single[char]){
-              circularComb[char] = single[char]
+          var result = {} 
+
+          short.split('').forEach((char)=>{
+            tree[char][short] = {}
+            if(tree[char]){
+              result[char] = tree[char]
+              tree[char][short] = result
             }
             else { //new context char outside of subtlex 1500
-              single[char]= {}       
-              circularComb[char] = single[char]            
+              tree[char]= {}       
+              result[char] = tree[char]            
             }
-          })
-          //asign to specific single position, ignore root as circular
-          chars.forEach(char=>{
-            var circCombCopy = circularComb
-            Object.keys(circCombCopy).forEach(key=>{
-              if(key==char) circCombCopy[key] = {}
-            })
-            single[char][short] = circCombCopy
           })
         }
       })
     }
   }
-})
+  if(unit.long.hanzi){
+    unit.long.hanzi.forEach(lng=>{
+      if(lng.length < 6)
+        console.log(lng)
+    })
+  }
+}
+  //add multiple char unit short combs
+  /** skip 他 我 她 你
+   * find groups of 2 within 3, 3 within 4 (recursive till ?)
+    * list these groups under their parent group
+    * if a comb doesn't have a group
+      * list it under the single
+    * should sentences be keys? nop!?
+    */
+  
+)
 
 1==2
-fs.writeFileSync('./tree.json', CircularJSON.stringify({single, short, long}, null, 2))
-fs.writeFileSync('./tree.json.min', CircularJSON.stringify(single))
+fs.writeFileSync('./tree.json', CircularJSON.stringify(tree, null, 2))
+fs.writeFileSync('./tree.json.min', CircularJSON.stringify(tree))
+fs.writeFileSync('./tree-flatted.json', FlattedJSON.stringify(tree))
 
-// var testF = fs.readFileSync('./tree.json')
-// var parsedCircular = CircularJSON.parse(testF)
-// 1==2
+var testF = fs.readFileSync('./tree-flatted.json')
+var parsedCircular = FlattedJSON.parse(testF)
+1==2
+

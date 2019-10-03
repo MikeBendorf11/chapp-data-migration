@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "circular-json": "^0.5.9"
+    "circular-json": "^0.5.9",
+    "flatted": "^2.0.1"
   }
 }
