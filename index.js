@@ -77,8 +77,8 @@ units.forEach((unit)=>{
       }
     })
   }
-  //add multiple char unit 
-  else if(unit.learnedId && unit.char.hanzi.length>1){
+  //add double char unit 
+  else if(unit.learnedId && unit.char.hanzi.length==2){
     var result = {}
     unit.char.hanzi.split('').forEach(ch=>{
       if(tree[ch]){
@@ -94,7 +94,7 @@ units.forEach((unit)=>{
       unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
   
       unit.short.hanzi.forEach((short)=>{
-        if(short){
+        if(short && short.length==2){
           var result = {} 
 
           short.split('').forEach((char)=>{
@@ -112,11 +112,8 @@ units.forEach((unit)=>{
       })
     }
   }
-  if(unit.long.hanzi){
-    unit.long.hanzi.forEach(lng=>{
-      if(lng.length < 6)
-        console.log(lng)
-    })
+  if(unit.char.hanzi.length > 3){
+    console.log(unit.char.hanzi)
   }
 }
   //add multiple char unit short combs
@@ -127,6 +124,7 @@ units.forEach((unit)=>{
       * list it under the single
     * should sentences be keys? nop!?
     */
+  //triple char and so
   
 )
 
