@@ -18,6 +18,15 @@ var units = JSON.parse(
   .split('#').join('')
   //.split('?').join('')
 )
+/**
+ * s : {
+ *  as: {
+ *    asdf : {
+ *        asdfg: {}
+ *      } 
+ *   }
+ * }
+ */
 
 var tree = {}
 
@@ -78,7 +87,7 @@ units.forEach((unit)=>{
     })
   }
   //add double char unit 
-  else if(unit.learnedId && unit.char.hanzi.length==2){
+  else if(unit.learnedId && unit.char.hanzi.length>1){
     var result = {}
     unit.char.hanzi.split('').forEach(ch=>{
       if(tree[ch]){
@@ -112,9 +121,6 @@ units.forEach((unit)=>{
       })
     }
   }
-  if(unit.char.hanzi.length > 3){
-    console.log(unit.char.hanzi)
-  }
 }
   //add multiple char unit short combs
   /** skip 他 我 她 你
@@ -127,6 +133,55 @@ units.forEach((unit)=>{
   //triple char and so
   
 )
+
+
+
+function splitExact(string, limit){
+  var groups = []
+  for(var i=0, j=limit; j<=string.length; i++, j++){
+    groups.push(string.substring(i,j))
+  }
+  return groups
+}
+
+//send branches longer than one main to root
+var tree2 = {}
+Object.keys(tree).forEach(key=>{
+  tree2[key] = tree[key]
+  var subtree = Object.keys(tree[key])
+  if(subtree.length>0){ 
+    subtree.forEach(comb=>{
+      tree2[comb] = tree[key][comb]
+    })
+  }
+})
+
+//check length 3 split into 2, add to tree2[] if match
+Object.keys(tree2).forEach(key=>{
+  if(key.length>2){
+    splitExact(key, 2).forEach(group=>{
+      if(tree2[group]) {
+        tree2[group][key] = tree2[key]
+        console.log(key, group)
+      }
+    })
+  }
+})
+
+
+/*extract doubles or triples from str */
+var str = "等到你过生日再那天打开"
+
+processSentence(str)
+function processSentence(str){
+  for(var i=1; i<5; i++){
+    splitExact(str, i).forEach(gr=>{
+      if(tree2[gr]) console.log(gr)
+    })
+  }
+}
+
+
 
 1==2
 fs.writeFileSync('./tree.json', CircularJSON.stringify(tree, null, 2))
