@@ -1,33 +1,26 @@
+/**
+ * Uses the new JS struct
+ * Indexes every char and its combinations
+ * Lists them with back references and separately
+ * Tested as a method to find combs in sentence and relationship trees
+ * Single ch defs come from unicode, multiple ch defs from my db
+ */
 var fs = require('fs')
 const readline = require('readline');
 var  CircularJSON = require('circular-json')
 var FlattedJSON = require('flatted/cjs')
-
-//minify json to remove ['']
-// var fileChNw = fs.readFileSync('./units-new-struct.json')
-// var units = JSON.stringify(JSON.parse(fileChNw))
-// 1==2
-// fs.writeFileSync('./units-new-struct.json.min',units)
 
 //clean some issues from plain text
 var fileChNw = fs.readFileSync('./units-new-struct.json')
 var units = JSON.parse(
   fileChNw.toString()
   .split('&nbsp;').join('') //remove nbsp
-  .split(/[(].{1,10}[)]/gm).join('')
-  .split('#').join('')
+  .split(/[(].{1,10}[)]/gm).join('') //parenthesis info
+  .split('#').join('') //consult 
   //.split('?').join('')
 )
-/**
- * s : {
- *  as: {
- *    asdf : {
- *        asdfg: {}
- *      } 
- *   }
- * }
- */
 
+//first parse, all singles and multiples within
 var tree = {}
 
 //define singles
@@ -50,7 +43,7 @@ function addSingle(chars){
     } else return
   } 
 }
-
+//chinese sentences have more weird chars
 function cleanInput(str){
   var ignore = ' ,，、：!！?？.。“”/enw29'
   ignore.split('').forEach(i=>str = str.split(i).join(''))
@@ -121,20 +114,7 @@ units.forEach((unit)=>{
       })
     }
   }
-}
-  //add multiple char unit short combs
-  /** skip 他 我 她 你
-   * find groups of 2 within 3, 3 within 4 (recursive till ?)
-    * list these groups under their parent group
-    * if a comb doesn't have a group
-      * list it under the single
-    * should sentences be keys? nop!?
-    */
-  //triple char and so
-  
-)
-
-
+})
 
 function splitExact(string, limit){
   var groups = []
@@ -161,8 +141,10 @@ Object.keys(tree2).forEach(key=>{
   if(key.length>2){
     splitExact(key, 2).forEach(group=>{
       if(tree2[group]) {
-        tree2[group][key] = tree2[key]
-        console.log(key, group)
+        tree2[key][group] = tree2[group]
+        delete tree2[key][group[0]]
+        delete tree2[key][group[1]]
+        // console.log(key, group)
       }
     })
   }
