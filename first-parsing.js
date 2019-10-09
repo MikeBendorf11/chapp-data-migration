@@ -97,14 +97,14 @@ fs.writeFile('./new-db-struct.json', JSON.stringify(newUnits, null, 2), function
 /**
  * remove &nbsp from anywhere
  */
-/*
+
 //UNICODE TO JSON WITH CHARS, 2ND PASS
 var fileC = fs.readFileSync("subtlex-1500");
 var subtlex = fileC.toString().replace(/,/g,"");
 var unicodeDB = []
 
 let rl = readline.createInterface({
- input: fs.createReadStream('unicode.txt')
+ input: fs.createReadStream('./extra/unicode.txt')
 });
 
 var id = pronunciation = definition = ''
@@ -144,7 +144,7 @@ rl.on('line', function(line) {
 rl.on('close', function(){
   //console.log(unicodeDB)
   fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(unicodeDB,null,2))
-})*/
+})
 
 
 //1500 SUBTLEX, JUST CHARS
@@ -228,6 +228,7 @@ allU.forEach((v,i)=>{
 1==2
 fs.writeFileSync('./table-multiple-pinyin.csv', final)
 */
+/*
 //PINYIN REDUCTION UNICODE-SUBTLEX-1500-REVIEWED
 var fileOld = fs.readFileSync('./unicode-subtlex-1500')
 var oldSubtlx = JSON.parse(fileOld)
@@ -265,7 +266,7 @@ rl.on('close',()=>{
   //fs.writeFileSync('./pinyin-reduction/unicode-subtlex-1500-reviewed', JSON.stringify(result, null, 2))
   fs.writeFileSync('./pinyin-reduction/special-lesson-chars', JSON.stringify(result))
 })
-
+*/
 /*
 //FROM STROKE ALL TO STROKE 1500
 var fileS = fs.readFileSync('./strokes-all.json')

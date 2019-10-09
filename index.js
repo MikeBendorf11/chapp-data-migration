@@ -1,7 +1,9 @@
 /**
  * Uses the new JS struct
  * Indexes every char and its combinations
- * Lists them with back references and separately
+    * 1 char point to 2 and 3
+    * 2 char points to 1 and 3
+    * 3 or more char point to 1 and 2 char 
  * Tested as a method to find combs in sentence and relationship trees
  * Single ch defs come from unicode, multiple ch defs from my db
  */
@@ -10,8 +12,21 @@ const readline = require('readline');
 var  CircularJSON = require('circular-json')
 var FlattedJSON = require('flatted/cjs')
 
-//clean some issues from plain text
 var fileChNw = fs.readFileSync('./units-new-struct.json')
+// var fileChNw = JSON.stringify([{"char":{"hanzi":"怎么","pinyin":"zěnme","figurative":"how","literal":"how,interrogative"},"short":{"hanzi":["怎么样","不怎么"],"figurative":["how about","not quite"]},"long":{"hanzi":["你昨天怎么没来?","我不怎么想去"],"figurative":["why","not quite feel going"]},"id":57,"learnedId":57,"level":1,"consult":false}])
+var unicode = {}
+JSON.parse(fs.readFileSync('./pinyin-reduction/unicode-subtlex-double-pinyin-reviewed')
+.toString()).forEach(part=>{
+  unicode[part.hanzi] = {pinyin: part.pinyin, literal: part.literal}
+})
+
+JSON.parse(fs.readFileSync('./unicode-subtlex-1500')
+.toString()).forEach(part=>{
+  if(!unicode[part.char])
+    unicode[part.char] = {pinyin: part.pronunciation, literal: part.definition}
+})
+
+//clean some issues from plain text
 var units = JSON.parse(
   fileChNw.toString()
   .split('&nbsp;').join('') //remove nbsp
@@ -28,13 +43,20 @@ units.forEach((unit)=>{
   addSingle(unit.char.hanzi)
   addSingle(unit.short.hanzi)
   addSingle(unit.long.hanzi)
+  // for(var key of unicode){
+  //   var translation = 
+  //   tree[key] = 
+  // }
 })
 
 function addSingle(chars){
   if(typeof(chars)==='string'){
     chars = cleanInput(chars)
     if(chars){
-      chars.split('').forEach(c=>tree[c] = {})
+      chars.split('').forEach(c=>tree[c] = {
+        pinyin: unicode[c]['pinyin'], 
+        literal: unicode[c]['literal']
+      })
     }else return
   } 
   else if(typeof(chars)==="object"){
@@ -69,7 +91,7 @@ units.forEach((unit)=>{
     unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
     unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
 
-    unit.short.hanzi.forEach((short, idx)=>{
+    unit.short.hanzi.forEach((short)=>{
       var result = {}
       if(short){
         short.split('').forEach((char)=>{
@@ -91,12 +113,13 @@ units.forEach((unit)=>{
          tree[ch] = {} 
       }
     })
+    //double char short combs need to point to either unit.char[0] or 1
     if(unit.short.hanzi.length > 0){
       unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
       unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
   
       unit.short.hanzi.forEach((short)=>{
-        if(short && short.length==2){
+        if(short){
           var result = {} 
 
           short.split('').forEach((char)=>{
@@ -136,12 +159,13 @@ Object.keys(tree).forEach(key=>{
   }
 })
 
-//check length 3 split into 2, add to tree2[] if match
+//check length 3 split into 2, point 3 to 2 and 2 to 3
 Object.keys(tree2).forEach(key=>{
   if(key.length>2){
     splitExact(key, 2).forEach(group=>{
       if(tree2[group]) {
         tree2[key][group] = tree2[group]
+        tree2[group][key] = tree2[key]
         delete tree2[key][group[0]]
         delete tree2[key][group[1]]
         // console.log(key, group)
