@@ -3,7 +3,7 @@
  * Indexes every char and its combinations
     * 1 char point to 2 and 3
     * 2 char points to 1 and 3
-    * 3 or more char point to 1 and 2 char 
+    * 3 or more char point to 1 and 2 char
  * Tested as a method to find combs in sentence and relationship trees
  * Single ch defs come from unicode, multiple ch defs from my db
  */
@@ -31,7 +31,7 @@ var units = JSON.parse(
   fileChNw.toString()
   .split('&nbsp;').join('') //remove nbsp
   .split(/[(].{1,10}[)]/gm).join('') //parenthesis info
-  .split('#').join('') //consult 
+  .split('#').join('') //consult
   //.split('?').join('')
 )
 
@@ -43,27 +43,37 @@ units.forEach((unit)=>{
   addSingle(unit.char.hanzi)
   addSingle(unit.short.hanzi)
   addSingle(unit.long.hanzi)
-  // for(var key of unicode){
-  //   var translation = 
-  //   tree[key] = 
-  // }
+  // tree[unit.char.hanzi]['pronunciation'] = unicode[unit.char.hanzi]['pronunciation']
+  // tree[unit.char.hanzi]['definition'] = unicode[unit.char.hanzi]['definition']
 })
+
+for(key in tree){
+  if(unicode[key]){
+    //parse unicode pronunciation
+    var literal = unicode[key]['literal']
+    if(literal.includes(',',';'))
+      literal = literal.split(';').join(',').split(',').map(key=>{if(key.includes(' '))return})
+    tree[key]['pinyin'] = unicode[key]['pinyin']
+    var literal = unicode[key]['literal']
+    tree[key]['literal'] = unicode[key]['literal']
+  } else { //chars outside 1500 grab my pinyin and pronun, or include in subtlex?
+
+  }
+
+}
 
 function addSingle(chars){
   if(typeof(chars)==='string'){
     chars = cleanInput(chars)
     if(chars){
-      chars.split('').forEach(c=>tree[c] = {
-        pinyin: unicode[c]['pinyin'], 
-        literal: unicode[c]['literal']
-      })
+      chars.split('').forEach(c=>tree[c] = {})
     }else return
-  } 
+  }
   else if(typeof(chars)==="object"){
     if(chars.length>0){
       chars.forEach(c=>addSingle(c))
     } else return
-  } 
+  }
 }
 //chinese sentences have more weird chars
 function cleanInput(str){
@@ -80,12 +90,12 @@ function cleanComb(comb, char){
       partials.forEach((p, i)=>{
         if(i!=0) comb.push(p.trim())
       })
-    } 
+    }
   })
   return comb;
 }
 
-//add single short combs 
+//add single short combs
 units.forEach((unit)=>{
   if(unit.short.hanzi && unit.learnedId && unit.char.hanzi.length==1){
     unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
@@ -95,13 +105,13 @@ units.forEach((unit)=>{
       var result = {}
       if(short){
         short.split('').forEach((char)=>{
-            result[char] = tree[char]               
+            result[char] = tree[char]
         })
         tree[unit.char.hanzi][short] = result
       }
     })
   }
-  //add double char unit 
+  //add double char unit
   else if(unit.learnedId && unit.char.hanzi.length>1){
     var result = {}
     unit.char.hanzi.split('').forEach(ch=>{
@@ -110,17 +120,17 @@ units.forEach((unit)=>{
         tree[ch][unit.char.hanzi] = result
       } else {
          //in case I add new char out of subtlex from now on
-         tree[ch] = {} 
+         tree[ch] = {}
       }
     })
     //double char short combs need to point to either unit.char[0] or 1
     if(unit.short.hanzi.length > 0){
       unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
       unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
-  
+
       unit.short.hanzi.forEach((short)=>{
         if(short){
-          var result = {} 
+          var result = {}
 
           short.split('').forEach((char)=>{
             tree[char][short] = {}
@@ -129,8 +139,8 @@ units.forEach((unit)=>{
               tree[char][short] = result
             }
             else { //new context char outside of subtlex 1500
-              tree[char]= {}       
-              result[char] = tree[char]            
+              tree[char]= {}
+              result[char] = tree[char]
             }
           })
         }
@@ -152,7 +162,7 @@ var tree2 = {}
 Object.keys(tree).forEach(key=>{
   tree2[key] = tree[key]
   var subtree = Object.keys(tree[key])
-  if(subtree.length>0){ 
+  if(subtree.length>0){
     subtree.forEach(comb=>{
       tree2[comb] = tree[key][comb]
     })
