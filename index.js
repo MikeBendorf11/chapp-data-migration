@@ -14,6 +14,8 @@ var FlattedJSON = require('flatted/cjs')
 
 var fileChNw = fs.readFileSync('./units-new-struct.json')
 // var fileChNw = JSON.stringify([{"char":{"hanzi":"怎么","pinyin":"zěnme","figurative":"how","literal":"how,interrogative"},"short":{"hanzi":["怎么样","不怎么"],"figurative":["how about","not quite"]},"long":{"hanzi":["你昨天怎么没来?","我不怎么想去"],"figurative":["why","not quite feel going"]},"id":57,"learnedId":57,"level":1,"consult":false}])
+
+//unicode 1500 indexed by char
 var unicode = {}
 JSON.parse(fs.readFileSync('./pinyin-reduction/unicode-subtlex-double-pinyin-reviewed')
 .toString()).forEach(part=>{
@@ -43,21 +45,30 @@ units.forEach((unit)=>{
   addSingle(unit.char.hanzi)
   addSingle(unit.short.hanzi)
   addSingle(unit.long.hanzi)
-  // tree[unit.char.hanzi]['pronunciation'] = unicode[unit.char.hanzi]['pronunciation']
-  // tree[unit.char.hanzi]['definition'] = unicode[unit.char.hanzi]['definition']
 })
 
 for(key in tree){
   if(unicode[key]){
     //parse unicode pronunciation
     var literal = unicode[key]['literal']
-    if(literal.includes(',',';'))
-      literal = literal.split(';').join(',').split(',').map(key=>{if(key.includes(' '))return})
-    tree[key]['pinyin'] = unicode[key]['pinyin']
-    var literal = unicode[key]['literal']
-    tree[key]['literal'] = unicode[key]['literal']
-  } else { //chars outside 1500 grab my pinyin and pronun, or include in subtlex?
+    if(literal.includes('breed'))
+      1==2
+    if(literal.includes(',') || literal.includes(';')){
+      let result = []
 
+      literal = literal.split('; ').join(',') //semicolons
+      .split(', ').join(',') //spaces after commas
+      .split(/[(].{1,90}[)]/gm).join('') //parenthesys
+      literal.split(',').forEach(x=>{
+        if(!x.includes(' '))result.push(x)
+      })
+      if(result.length>0) literal = result.toString()
+      else literal = literal.split(',')[0]
+    }
+    tree[key]['pinyin'] = unicode[key]['pinyin']
+    tree[key]['literal'] = literal
+  } else { //chars outside 1500 grab my pinyin and pronun, or include in subtlex?
+    
   }
 
 }
