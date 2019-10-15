@@ -98,55 +98,116 @@ fs.writeFile('./new-db-struct.json', JSON.stringify(newUnits, null, 2), function
  * remove &nbsp from anywhere
  */
 
-//UNICODE TO JSON WITH CHARS, 2ND PASS
-var fileC = fs.readFileSync("subtlex-1500");
-var subtlex = fileC.toString().replace(/,/g,"");
-var unicodeDB = []
+// //UNICODE TO JSON WITH CHARS, 2ND PASS
+// var fileC = fs.readFileSync("subtlex-1500");
+// var subtlex = fileC.toString().replace(/,/g,"");
+// var unicodeDB = []
+
+// let rl = readline.createInterface({
+//  input: fs.createReadStream('./extra/unicode.txt')
+// });
+
+// var id = pronunciation = definition = ''
+// rl.on('line', function(line) {
+//  var arr = line.split('	')
+//  var code = arr[0].split('+')[1]
+//  var charFromCode = code ? String.fromCodePoint(`0x${code}`) : 0x9C8B
+//  //console.log(charFromCode)
+//  if(subtlex.includes(charFromCode)){
+//   if( arr[1]=='kDefinition' && arr[2]){
+//     var cantIdx = arr[2].indexOf('(C') //cantonses def
+//     definition = cantIdx > 0 ? arr[2].substring(0,cantIdx) : arr[2]
+//     id = arr[0]
+//    }
+//    if(arr[1]=='kMandarin' && arr[2] && id==arr[0]){
+//     id= arr[0].split('+')[1]
+//     pronunciation = arr[2]
+//     unicodeDB.push({
+//       char: String.fromCodePoint(`0x${id}`),
+//       pronunciation: pronunciation,
+//       definition: definition
+//     })
+//     //console.log(unicodeDB[unicodeDB.length-1])
+//     id = pronunciation = definition = ''
+//    }
+//    if(arr[1]=='kXHC1983'
+//       && arr[2]
+//       && arr[0].split('+')[1] == unicodeDB[unicodeDB.length-1].id){
+
+//       var pron =arr[2].indexOf(' '>1)? arr[2].split(' ') : [arr[2]]
+//       pron.forEach(function(v,i){pron[i] = pron[i].split(':')[1] })
+//       unicodeDB[unicodeDB.length-1].pronunciation = pron.toString()
+//     }
+//  }
+// });
+
+// rl.on('close', function(){
+//   //console.log(unicodeDB)
+//   fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(unicodeDB,null,2))
+// })
+
+//UNICODE indexed by chars to files
+var fileStr = fs.readFileSync("./extra/strokes-all.json");
+var strChars = JSON.parse(fileStr.toString())
+//var subtlex = fileC.toString().replace(/,/g,"");
+var unicodeDB = {}
+var count = 0
+var id = pronunciation = definition = prevId = ''
 
 let rl = readline.createInterface({
- input: fs.createReadStream('./extra/unicode.txt')
+  input: fs.createReadStream('./extra/unicode.txt')
 });
 
-var id = pronunciation = definition = ''
-rl.on('line', function(line) {
- var arr = line.split('	')
- var code = arr[0].split('+')[1]
- var charFromCode = code ? String.fromCodePoint(`0x${code}`) : 0x9C8B
- //console.log(charFromCode)
- if(subtlex.includes(charFromCode)){
-  if( arr[1]=='kDefinition' && arr[2]){
-    var cantIdx = arr[2].indexOf('(C') //cantonses def
-    definition = cantIdx > 0 ? arr[2].substring(0,cantIdx) : arr[2]
+
+rl.on('line', function (line) {
+  var arr = line.split('	')
+  var code = arr[0].split('+')[1]
+  var charFromCode = code ? String.fromCodePoint(`0x${code}`) : 0x9C8B
+
+  if (arr[1] == 'kDefinition' && arr[2]) {
+    var cantIdx = arr[2].indexOf('(Cant.)') //cantonses def
+    definition = cantIdx > 0 ? arr[2].substring(0, cantIdx).trim() : arr[2].trim()
+    if (definition.includes('(')) definition = definition.replace(/\([^()]*\)/g, '').trim()
+    if(definition.includes('simplified form'))
+      definition = definition.substring(0, definition.indexOf('simplified form'))
+    if(definition.includes('KangXi')) 
+      definition = definition.substring(0, definition.indexOf('KangXi'))
+    if(definition.includes('rad.')) 
+      definition = definition.substring(0, definition.indexOf('rad.'))
+    if(definition.includes('“') || definition.includes('”')){
+        definition = definition.replace('“', '')
+        definition = definition.replace('”', '')
+    }
+    if (definition.includes('same as' && definition.includes(','))){
+      definition = definition.split(',').filter(k=>{if(!k.includes('same as'))return k}).toString().trim()
+    } 
     id = arr[0]
-   }
-   if(arr[1]=='kMandarin' && arr[2] && id==arr[0]){
-    id= arr[0].split('+')[1]
+  }
+  if (arr[1] == 'kMandarin' && arr[2] && id == arr[0]) {
+    id = arr[0].split('+')[1]
+    prevId = id
     pronunciation = arr[2]
-    unicodeDB.push({
-      char: String.fromCodePoint(`0x${id}`),
+    unicodeDB[charFromCode] = {
       pronunciation: pronunciation,
       definition: definition
-    })
-    //console.log(unicodeDB[unicodeDB.length-1])
-    id = pronunciation = definition = ''
-   }
-   if(arr[1]=='kXHC1983'
-      && arr[2]
-      && arr[0].split('+')[1] == unicodeDB[unicodeDB.length-1].id){
-
-      var pron =arr[2].indexOf(' '>1)? arr[2].split(' ') : [arr[2]]
-      pron.forEach(function(v,i){pron[i] = pron[i].split(':')[1] })
-      unicodeDB[unicodeDB.length-1].pronunciation = pron.toString()
     }
- }
+    id = pronunciation = definition = ''
+  }
+
+  if (arr[1] == 'kXHC1983'
+    && arr[2]
+    && arr[0].split('+')[1] == prevId) {
+    var pron = arr[2].indexOf(' ' > 1) ? arr[2].split(' ') : [arr[2]]
+    pron.forEach(function (v, i) { pron[i] = pron[i].split(':')[1] })
+    unicodeDB[charFromCode].pronunciation = pron.toString()
+  }
 });
 
-rl.on('close', function(){
-  //console.log(unicodeDB)
-  fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(unicodeDB,null,2))
+rl.on('close', function () {
+  Object.keys(strChars).forEach(char=>{
+    if(!unicodeDB[char]) console.log(char)
+  })
 })
-
-
 //1500 SUBTLEX, JUST CHARS
 /*
 let rl = readline.createInterface({
