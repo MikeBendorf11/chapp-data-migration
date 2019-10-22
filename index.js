@@ -13,7 +13,7 @@ var  CircularJSON = require('circular-json')
 var FlattedJSON = require('flatted/cjs')
 
 var fileChNw = fs.readFileSync('./units-new-struct.json')
-// var fileChNw = JSON.stringify([{"char":{"hanzi":"怎么","pinyin":"zěnme","figurative":"how","literal":"how,interrogative"},"short":{"hanzi":["怎么样","不怎么"],"figurative":["how about","not quite"]},"long":{"hanzi":["你昨天怎么没来?","我不怎么想去"],"figurative":["why","not quite feel going"]},"id":57,"learnedId":57,"level":1,"consult":false}])
+//var fileChNw = JSON.stringify([{"char":{"hanzi":"怎么","pinyin":"zěnme","figurative":"how","literal":"how,interrogative"},"short":{"hanzi":["怎么样","不怎么"],"figurative":["how about","not quite"]},"long":{"hanzi":["你昨天怎么没来?","我不怎么想去"],"figurative":["why","not quite feel going"]},"id":57,"learnedId":57,"level":1,"consult":false}])
 
 //unicode 1500 indexed by char
 var unicode = {}
@@ -196,17 +196,17 @@ Object.keys(tree2).forEach(key=>{
 })
 
 
-/*extract doubles or triples from str */
-var str = "等到你过生日再那天打开"
+// /*extract doubles or triples from str */
+// var str = "等到你过生日再那天打开"
 
-processSentence(str)
-function processSentence(str){
-  for(var i=1; i<5; i++){
-    splitExact(str, i).forEach(gr=>{
-      if(tree2[gr]) console.log(gr)
-    })
-  }
-}
+// processSentence(str)
+// function processSentence(str){
+//   for(var i=1; i<5; i++){
+//     splitExact(str, i).forEach(gr=>{
+//       if(tree2[gr]) console.log(gr)
+//     })
+//   }
+// }
 
 
 
