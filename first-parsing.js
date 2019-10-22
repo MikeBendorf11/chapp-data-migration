@@ -151,7 +151,6 @@ var fileStr = fs.readFileSync("./extra/strokes-all.json");
 var strChars = JSON.parse(fileStr.toString())
 //var subtlex = fileC.toString().replace(/,/g,"");
 var unicodeDB = {}
-var count = 0
 var id = pronunciation = definition = prevId = ''
 
 let rl = readline.createInterface({
@@ -205,7 +204,9 @@ rl.on('line', function (line) {
 
 rl.on('close', function () {
   Object.keys(strChars).forEach(char=>{
-    if(!unicodeDB[char]) console.log(char)
+    if(unicodeDB[char]){
+      fs.writeFileSync('unicode-9000/'+char+'.json', JSON.stringify(unicodeDB[char]))
+    }  
   })
 })
 //1500 SUBTLEX, JUST CHARS
