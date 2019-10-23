@@ -5,28 +5,17 @@
     * 2 char points to 1 and 3
     * 3 or more char point to 1 and 2 char
  * Tested as a method to find combs in sentence and relationship trees
- * Single ch defs come from unicode, multiple ch defs from my db
  */
 var fs = require('fs')
+
 const readline = require('readline');
 var  CircularJSON = require('circular-json')
 var FlattedJSON = require('flatted/cjs')
 
-var fileChNw = fs.readFileSync('./units-new-struct.json')
+var fileChNw = fs.readFileSync('./results/new-db-1500.json')
 //var fileChNw = JSON.stringify([{"char":{"hanzi":"怎么","pinyin":"zěnme","figurative":"how","literal":"how,interrogative"},"short":{"hanzi":["怎么样","不怎么"],"figurative":["how about","not quite"]},"long":{"hanzi":["你昨天怎么没来?","我不怎么想去"],"figurative":["why","not quite feel going"]},"id":57,"learnedId":57,"level":1,"consult":false}])
 
-//unicode 1500 indexed by char
-var unicode = {}
-JSON.parse(fs.readFileSync('./pinyin-reduction/unicode-subtlex-double-pinyin-reviewed')
-.toString()).forEach(part=>{
-  unicode[part.hanzi] = {pinyin: part.pinyin, literal: part.literal}
-})
 
-JSON.parse(fs.readFileSync('./unicode-subtlex-1500')
-.toString()).forEach(part=>{
-  if(!unicode[part.char])
-    unicode[part.char] = {pinyin: part.pronunciation, literal: part.definition}
-})
 
 //clean some issues from plain text
 var units = JSON.parse(
@@ -47,31 +36,6 @@ units.forEach((unit)=>{
   addSingle(unit.long.hanzi)
 })
 
-for(key in tree){
-  if(unicode[key]){
-    //parse unicode pronunciation
-    var literal = unicode[key]['literal']
-    if(literal.includes('breed'))
-      1==2
-    if(literal.includes(',') || literal.includes(';')){
-      let result = []
-
-      literal = literal.split('; ').join(',') //semicolons
-      .split(', ').join(',') //spaces after commas
-      .split(/[(].{1,90}[)]/gm).join('') //parenthesys
-      literal.split(',').forEach(x=>{
-        if(!x.includes(' '))result.push(x)
-      })
-      if(result.length>0) literal = result.toString()
-      else literal = literal.split(',')[0]
-    }
-    tree[key]['pinyin'] = unicode[key]['pinyin']
-    tree[key]['literal'] = literal
-  } else { //chars outside 1500 grab my pinyin and pronun, or include in subtlex?
-    
-  }
-
-}
 
 function addSingle(chars){
   if(typeof(chars)==='string'){
@@ -93,7 +57,7 @@ function cleanInput(str){
   return str
 }
 
-function cleanComb(comb, char){
+function splitComb(comb, char){
   comb.forEach((c,i)=>{ //check / split and add to arr
     if(c.includes(char)){
       var partials = c.split(char)
@@ -105,14 +69,21 @@ function cleanComb(comb, char){
   })
   return comb;
 }
-
+function cleanComb(arr){
+  arr.forEach((v,i)=>{
+    arr[i] = v.split(' ').join('')
+  })
+  return arr
+}
 //add single short combs
 units.forEach((unit)=>{
-  if(unit.short.hanzi && unit.learnedId && unit.char.hanzi.length==1){
-    unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
-    unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
+  if(unit.short.hanzi && unit.short.hanzi.length>1 && unit.lesson.order && unit.char.hanzi.length==1){
+    unit.short.hanzi = splitComb(unit.short.hanzi, '/')
+    unit.short.hanzi = splitComb(unit.short.hanzi, ',')
+    unit.short.hanzi = cleanComb(unit.short.hanzi)
 
-    unit.short.hanzi.forEach((short)=>{
+    unit.short.hanzi.forEach((short, i)=>{
+      
       var result = {}
       if(short){
         short.split('').forEach((char)=>{
@@ -123,7 +94,7 @@ units.forEach((unit)=>{
     })
   }
   //add double char unit
-  else if(unit.learnedId && unit.char.hanzi.length>1){
+  else if(unit.lesson.order && unit.char.hanzi.length>1){
     var result = {}
     unit.char.hanzi.split('').forEach(ch=>{
       if(tree[ch]){
@@ -136,8 +107,9 @@ units.forEach((unit)=>{
     })
     //double char short combs need to point to either unit.char[0] or 1
     if(unit.short.hanzi.length > 0){
-      unit.short.hanzi = cleanComb(unit.short.hanzi, '/')
-      unit.short.hanzi = cleanComb(unit.short.hanzi, ',')
+      unit.short.hanzi = splitComb(unit.short.hanzi, '/')
+      unit.short.hanzi = splitComb(unit.short.hanzi, ',')
+      unit.short.hanzi = cleanComb(unit.short.hanzi)
 
       unit.short.hanzi.forEach((short)=>{
         if(short){
@@ -196,17 +168,17 @@ Object.keys(tree2).forEach(key=>{
 })
 
 
-// /*extract doubles or triples from str */
-// var str = "等到你过生日再那天打开"
-
-// processSentence(str)
-// function processSentence(str){
-//   for(var i=1; i<5; i++){
-//     splitExact(str, i).forEach(gr=>{
-//       if(tree2[gr]) console.log(gr)
-//     })
+// units.forEach(unit=>{
+//   var lesson = !unit.lesson.order ? null : {
+//     order: unit.lesson.order,
+//     level: unit.level,
+//     consult: unit.consult
 //   }
-// }
+//   tree2[unit.char.hanzi]['lesson'] = lesson
+//   tree2[unit.char.hanzi]['relevance'] = unit.id
+//   tree2[unit.char.hanzi]['meaning'] = unit.char.figurative
+
+// })
 
 
 
