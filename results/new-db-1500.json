@@ -5062,7 +5062,7 @@
         "当(1,4)时",
         "当(1)地",
         "正当(1,4)",
-        "当(1)心",
+        "当 (1)心",
         "然而",
         "自然"
       ],
@@ -15989,7 +15989,7 @@
       "relevance": 754
     },
     "char": {
-      "ch": "犯"
+      "hanzi": "犯"
     },
     "short": {},
     "long": {}
@@ -15999,7 +15999,7 @@
       "relevance": 755
     },
     "char": {
-      "ch": "扔"
+      "hanzi": "扔"
     },
     "short": {},
     "long": {}
@@ -16009,7 +16009,7 @@
       "relevance": 756
     },
     "char": {
-      "ch": "祝"
+      "hanzi": "祝"
     },
     "short": {},
     "long": {}
@@ -16019,7 +16019,7 @@
       "relevance": 757
     },
     "char": {
-      "ch": "能力"
+      "hanzi": "能力"
     },
     "short": {},
     "long": {}
@@ -16029,7 +16029,7 @@
       "relevance": 758
     },
     "char": {
-      "ch": "完美"
+      "hanzi": "完美"
     },
     "short": {},
     "long": {}
@@ -16039,7 +16039,7 @@
       "relevance": 759
     },
     "char": {
-      "ch": "克"
+      "hanzi": "克"
     },
     "short": {},
     "long": {}
@@ -16049,7 +16049,7 @@
       "relevance": 760
     },
     "char": {
-      "ch": "口"
+      "hanzi": "口"
     },
     "short": {},
     "long": {}
@@ -16059,7 +16059,7 @@
       "relevance": 761
     },
     "char": {
-      "ch": "目标"
+      "hanzi": "目标"
     },
     "short": {},
     "long": {}
@@ -16069,7 +16069,7 @@
       "relevance": 762
     },
     "char": {
-      "ch": "耶"
+      "hanzi": "耶"
     },
     "short": {},
     "long": {}
@@ -16079,7 +16079,7 @@
       "relevance": 763
     },
     "char": {
-      "ch": "日"
+      "hanzi": "日"
     },
     "short": {},
     "long": {}
@@ -16089,7 +16089,7 @@
       "relevance": 764
     },
     "char": {
-      "ch": "有关"
+      "hanzi": "有关"
     },
     "short": {},
     "long": {}
@@ -16099,7 +16099,7 @@
       "relevance": 765
     },
     "char": {
-      "ch": "精神"
+      "hanzi": "精神"
     },
     "short": {},
     "long": {}
@@ -16109,7 +16109,7 @@
       "relevance": 766
     },
     "char": {
-      "ch": "另外"
+      "hanzi": "另外"
     },
     "short": {},
     "long": {}
@@ -16119,7 +16119,7 @@
       "relevance": 767
     },
     "char": {
-      "ch": "放松"
+      "hanzi": "放松"
     },
     "short": {},
     "long": {}
@@ -16129,7 +16129,7 @@
       "relevance": 768
     },
     "char": {
-      "ch": "丢"
+      "hanzi": "丢"
     },
     "short": {},
     "long": {}
@@ -16139,7 +16139,7 @@
       "relevance": 769
     },
     "char": {
-      "ch": "休息"
+      "hanzi": "休息"
     },
     "short": {},
     "long": {}
@@ -16149,7 +16149,7 @@
       "relevance": 770
     },
     "char": {
-      "ch": "每天"
+      "hanzi": "每天"
     },
     "short": {},
     "long": {}
@@ -16159,7 +16159,7 @@
       "relevance": 771
     },
     "char": {
-      "ch": "回答"
+      "hanzi": "回答"
     },
     "short": {},
     "long": {}
@@ -16169,7 +16169,7 @@
       "relevance": 772
     },
     "char": {
-      "ch": "凶手"
+      "hanzi": "凶手"
     },
     "short": {},
     "long": {}
@@ -16179,7 +16179,7 @@
       "relevance": 773
     },
     "char": {
-      "ch": "负责"
+      "hanzi": "负责"
     },
     "short": {},
     "long": {}
@@ -16189,7 +16189,7 @@
       "relevance": 774
     },
     "char": {
-      "ch": "命"
+      "hanzi": "命"
     },
     "short": {},
     "long": {}
@@ -16199,7 +16199,7 @@
       "relevance": 775
     },
     "char": {
-      "ch": "外"
+      "hanzi": "外"
     },
     "short": {},
     "long": {}
@@ -16209,7 +16209,7 @@
       "relevance": 776
     },
     "char": {
-      "ch": "碰"
+      "hanzi": "碰"
     },
     "short": {},
     "long": {}
@@ -16219,7 +16219,7 @@
       "relevance": 777
     },
     "char": {
-      "ch": "介意"
+      "hanzi": "介意"
     },
     "short": {},
     "long": {}
@@ -16229,7 +16229,7 @@
       "relevance": 778
     },
     "char": {
-      "ch": "梦"
+      "hanzi": "梦"
     },
     "short": {},
     "long": {}
@@ -16239,7 +16239,7 @@
       "relevance": 779
     },
     "char": {
-      "ch": "试试"
+      "hanzi": "试试"
     },
     "short": {},
     "long": {}
@@ -16249,7 +16249,7 @@
       "relevance": 780
     },
     "char": {
-      "ch": "那天"
+      "hanzi": "那天"
     },
     "short": {},
     "long": {}
@@ -16259,7 +16259,7 @@
       "relevance": 781
     },
     "char": {
-      "ch": "系统"
+      "hanzi": "系统"
     },
     "short": {},
     "long": {}
@@ -16269,7 +16269,7 @@
       "relevance": 782
     },
     "char": {
-      "ch": "睡觉"
+      "hanzi": "睡觉"
     },
     "short": {},
     "long": {}
@@ -16279,7 +16279,7 @@
       "relevance": 783
     },
     "char": {
-      "ch": "滚"
+      "hanzi": "滚"
     },
     "short": {},
     "long": {}
@@ -16289,7 +16289,7 @@
       "relevance": 784
     },
     "char": {
-      "ch": "谋杀"
+      "hanzi": "谋杀"
     },
     "short": {},
     "long": {}
@@ -16299,7 +16299,7 @@
       "relevance": 785
     },
     "char": {
-      "ch": "礼物"
+      "hanzi": "礼物"
     },
     "short": {},
     "long": {}
@@ -16309,7 +16309,7 @@
       "relevance": 786
     },
     "char": {
-      "ch": "那种"
+      "hanzi": "那种"
     },
     "short": {},
     "long": {}
@@ -16319,7 +16319,7 @@
       "relevance": 787
     },
     "char": {
-      "ch": "戴"
+      "hanzi": "戴"
     },
     "short": {},
     "long": {}
@@ -16329,7 +16329,7 @@
       "relevance": 788
     },
     "char": {
-      "ch": "各位"
+      "hanzi": "各位"
     },
     "short": {},
     "long": {}
@@ -16339,7 +16339,7 @@
       "relevance": 789
     },
     "char": {
-      "ch": "错误"
+      "hanzi": "错误"
     },
     "short": {},
     "long": {}
@@ -16349,7 +16349,7 @@
       "relevance": 790
     },
     "char": {
-      "ch": "子"
+      "hanzi": "子"
     },
     "short": {},
     "long": {}
@@ -16359,7 +16359,7 @@
       "relevance": 791
     },
     "char": {
-      "ch": "随便"
+      "hanzi": "随便"
     },
     "short": {},
     "long": {}
@@ -16369,7 +16369,7 @@
       "relevance": 792
     },
     "char": {
-      "ch": "头发"
+      "hanzi": "头发"
     },
     "short": {},
     "long": {}
@@ -16379,7 +16379,9 @@
       "relevance": 793
     },
     "char": {
-      "ch": "藏"
+      "hanzi": "藏",
+      "pinyin": "cáng",
+      "literal": "hide"
     },
     "short": {},
     "long": {}
@@ -16389,7 +16391,7 @@
       "relevance": 794
     },
     "char": {
-      "ch": "关心"
+      "hanzi": "关心"
     },
     "short": {},
     "long": {}
@@ -16399,7 +16401,9 @@
       "relevance": 795
     },
     "char": {
-      "ch": "底"
+      "hanzi": "底",
+      "pinyin": "dǐ",
+      "literal": "bottom"
     },
     "short": {},
     "long": {}
@@ -16409,7 +16413,7 @@
       "relevance": 796
     },
     "char": {
-      "ch": "干吗"
+      "hanzi": "干吗"
     },
     "short": {},
     "long": {}
@@ -16419,7 +16423,7 @@
       "relevance": 797
     },
     "char": {
-      "ch": "兴趣"
+      "hanzi": "兴趣"
     },
     "short": {},
     "long": {}
@@ -16429,7 +16433,7 @@
       "relevance": 798
     },
     "char": {
-      "ch": "情"
+      "hanzi": "情"
     },
     "short": {},
     "long": {}
@@ -16439,7 +16443,7 @@
       "relevance": 799
     },
     "char": {
-      "ch": "报告"
+      "hanzi": "报告"
     },
     "short": {},
     "long": {}
@@ -16449,7 +16453,7 @@
       "relevance": 800
     },
     "char": {
-      "ch": "从没"
+      "hanzi": "从没"
     },
     "short": {},
     "long": {}
@@ -16459,7 +16463,7 @@
       "relevance": 801
     },
     "char": {
-      "ch": "替"
+      "hanzi": "替"
     },
     "short": {},
     "long": {}
@@ -16469,7 +16473,7 @@
       "relevance": 802
     },
     "char": {
-      "ch": "面"
+      "hanzi": "面"
     },
     "short": {},
     "long": {}
@@ -16479,7 +16483,7 @@
       "relevance": 803
     },
     "char": {
-      "ch": "经历"
+      "hanzi": "经历"
     },
     "short": {},
     "long": {}
@@ -16489,7 +16493,9 @@
       "relevance": 804
     },
     "char": {
-      "ch": "六"
+      "hanzi": "六",
+      "pinyin": "liù",
+      "literal": "number six"
     },
     "short": {},
     "long": {}
@@ -16499,7 +16505,7 @@
       "relevance": 805
     },
     "char": {
-      "ch": "飞"
+      "hanzi": "飞"
     },
     "short": {},
     "long": {}
@@ -16509,7 +16515,7 @@
       "relevance": 806
     },
     "char": {
-      "ch": "老师"
+      "hanzi": "老师"
     },
     "short": {},
     "long": {}
@@ -16519,7 +16525,7 @@
       "relevance": 807
     },
     "char": {
-      "ch": "气"
+      "hanzi": "气"
     },
     "short": {},
     "long": {}
@@ -16529,7 +16535,7 @@
       "relevance": 808
     },
     "char": {
-      "ch": "不用"
+      "hanzi": "不用"
     },
     "short": {},
     "long": {}
@@ -16539,7 +16545,7 @@
       "relevance": 809
     },
     "char": {
-      "ch": "小孩"
+      "hanzi": "小孩"
     },
     "short": {},
     "long": {}
@@ -16549,7 +16555,7 @@
       "relevance": 810
     },
     "char": {
-      "ch": "人类"
+      "hanzi": "人类"
     },
     "short": {},
     "long": {}
@@ -16559,7 +16565,9 @@
       "relevance": 811
     },
     "char": {
-      "ch": "冲"
+      "hanzi": "冲",
+      "pinyin": "chōng",
+      "literal": "rinse"
     },
     "short": {},
     "long": {}
@@ -16569,7 +16577,7 @@
       "relevance": 812
     },
     "char": {
-      "ch": "自由"
+      "hanzi": "自由"
     },
     "short": {},
     "long": {}
@@ -16579,7 +16587,7 @@
       "relevance": 813
     },
     "char": {
-      "ch": "支持"
+      "hanzi": "支持"
     },
     "short": {},
     "long": {}
@@ -16589,7 +16597,7 @@
       "relevance": 814
     },
     "char": {
-      "ch": "星期"
+      "hanzi": "星期"
     },
     "short": {},
     "long": {}
@@ -16599,7 +16607,9 @@
       "relevance": 815
     },
     "char": {
-      "ch": "脚"
+      "hanzi": "脚",
+      "pinyin": "jiǎo",
+      "literal": "foot"
     },
     "short": {},
     "long": {}
@@ -16609,7 +16619,7 @@
       "relevance": 816
     },
     "char": {
-      "ch": "很快"
+      "hanzi": "很快"
     },
     "short": {},
     "long": {}
@@ -16619,7 +16629,7 @@
       "relevance": 817
     },
     "char": {
-      "ch": "毁"
+      "hanzi": "毁"
     },
     "short": {},
     "long": {}
@@ -16629,7 +16639,7 @@
       "relevance": 818
     },
     "char": {
-      "ch": "生气"
+      "hanzi": "生气"
     },
     "short": {},
     "long": {}
@@ -16639,7 +16649,7 @@
       "relevance": 819
     },
     "char": {
-      "ch": "建议"
+      "hanzi": "建议"
     },
     "short": {},
     "long": {}
@@ -16649,7 +16659,7 @@
       "relevance": 820
     },
     "char": {
-      "ch": "做到"
+      "hanzi": "做到"
     },
     "short": {},
     "long": {}
@@ -16659,7 +16669,7 @@
       "relevance": 821
     },
     "char": {
-      "ch": "套"
+      "hanzi": "套"
     },
     "short": {},
     "long": {}
@@ -16669,7 +16679,7 @@
       "relevance": 822
     },
     "char": {
-      "ch": "哭"
+      "hanzi": "哭"
     },
     "short": {},
     "long": {}
@@ -16679,7 +16689,7 @@
       "relevance": 823
     },
     "char": {
-      "ch": "屁股"
+      "hanzi": "屁股"
     },
     "short": {},
     "long": {}
@@ -16689,7 +16699,7 @@
       "relevance": 824
     },
     "char": {
-      "ch": "生日"
+      "hanzi": "生日"
     },
     "short": {},
     "long": {}
@@ -16699,7 +16709,7 @@
       "relevance": 825
     },
     "char": {
-      "ch": "晚安"
+      "hanzi": "晚安"
     },
     "short": {},
     "long": {}
@@ -16709,7 +16719,7 @@
       "relevance": 826
     },
     "char": {
-      "ch": "否则"
+      "hanzi": "否则"
     },
     "short": {},
     "long": {}
@@ -16719,7 +16729,7 @@
       "relevance": 827
     },
     "char": {
-      "ch": "画"
+      "hanzi": "画"
     },
     "short": {},
     "long": {}
@@ -16729,7 +16739,7 @@
       "relevance": 828
     },
     "char": {
-      "ch": "病"
+      "hanzi": "病"
     },
     "short": {},
     "long": {}
@@ -16739,7 +16749,7 @@
       "relevance": 829
     },
     "char": {
-      "ch": "线"
+      "hanzi": "线"
     },
     "short": {},
     "long": {}
@@ -16749,7 +16759,7 @@
       "relevance": 830
     },
     "char": {
-      "ch": "光"
+      "hanzi": "光"
     },
     "short": {},
     "long": {}
@@ -16759,7 +16769,7 @@
       "relevance": 831
     },
     "char": {
-      "ch": "安排"
+      "hanzi": "安排"
     },
     "short": {},
     "long": {}
@@ -16769,7 +16779,7 @@
       "relevance": 832
     },
     "char": {
-      "ch": "神"
+      "hanzi": "神"
     },
     "short": {},
     "long": {}
@@ -16779,7 +16789,7 @@
       "relevance": 833
     },
     "char": {
-      "ch": "年轻"
+      "hanzi": "年轻"
     },
     "short": {},
     "long": {}
@@ -16789,7 +16799,7 @@
       "relevance": 834
     },
     "char": {
-      "ch": "操"
+      "hanzi": "操"
     },
     "short": {},
     "long": {}
@@ -16799,7 +16809,7 @@
       "relevance": 835
     },
     "char": {
-      "ch": "下面"
+      "hanzi": "下面"
     },
     "short": {},
     "long": {}
@@ -16809,7 +16819,7 @@
       "relevance": 836
     },
     "char": {
-      "ch": "姑娘"
+      "hanzi": "姑娘"
     },
     "short": {},
     "long": {}
@@ -16819,7 +16829,7 @@
       "relevance": 837
     },
     "char": {
-      "ch": "道"
+      "hanzi": "道"
     },
     "short": {},
     "long": {}
@@ -16829,7 +16839,7 @@
       "relevance": 838
     },
     "char": {
-      "ch": "按"
+      "hanzi": "按"
     },
     "short": {},
     "long": {}
@@ -16839,7 +16849,7 @@
       "relevance": 839
     },
     "char": {
-      "ch": "钥匙"
+      "hanzi": "钥匙"
     },
     "short": {},
     "long": {}
@@ -16849,7 +16859,7 @@
       "relevance": 840
     },
     "char": {
-      "ch": "法官"
+      "hanzi": "法官"
     },
     "short": {},
     "long": {}
@@ -16859,7 +16869,7 @@
       "relevance": 841
     },
     "char": {
-      "ch": "包"
+      "hanzi": "包"
     },
     "short": {},
     "long": {}
@@ -16869,7 +16879,7 @@
       "relevance": 842
     },
     "char": {
-      "ch": "腿"
+      "hanzi": "腿"
     },
     "short": {},
     "long": {}
@@ -16879,7 +16889,7 @@
       "relevance": 843
     },
     "char": {
-      "ch": "自"
+      "hanzi": "自"
     },
     "short": {},
     "long": {}
@@ -16889,7 +16899,7 @@
       "relevance": 844
     },
     "char": {
-      "ch": "选手"
+      "hanzi": "选手"
     },
     "short": {},
     "long": {}
@@ -16899,7 +16909,7 @@
       "relevance": 845
     },
     "char": {
-      "ch": "信息"
+      "hanzi": "信息"
     },
     "short": {},
     "long": {}
@@ -16909,7 +16919,7 @@
       "relevance": 846
     },
     "char": {
-      "ch": "整"
+      "hanzi": "整"
     },
     "short": {},
     "long": {}
@@ -16919,7 +16929,7 @@
       "relevance": 847
     },
     "char": {
-      "ch": "投票"
+      "hanzi": "投票"
     },
     "short": {},
     "long": {}
@@ -16929,7 +16939,7 @@
       "relevance": 848
     },
     "char": {
-      "ch": "哥哥"
+      "hanzi": "哥哥"
     },
     "short": {},
     "long": {}
@@ -16939,7 +16949,7 @@
       "relevance": 849
     },
     "char": {
-      "ch": "手术"
+      "hanzi": "手术"
     },
     "short": {},
     "long": {}
@@ -16949,7 +16959,7 @@
       "relevance": 850
     },
     "char": {
-      "ch": "必要"
+      "hanzi": "必要"
     },
     "short": {},
     "long": {}
@@ -16959,7 +16969,7 @@
       "relevance": 851
     },
     "char": {
-      "ch": "身边"
+      "hanzi": "身边"
     },
     "short": {},
     "long": {}
@@ -16969,7 +16979,7 @@
       "relevance": 852
     },
     "char": {
-      "ch": "知"
+      "hanzi": "知"
     },
     "short": {},
     "long": {}
@@ -16979,7 +16989,7 @@
       "relevance": 853
     },
     "char": {
-      "ch": "任何人"
+      "hanzi": "任何人"
     },
     "short": {},
     "long": {}
@@ -16989,7 +16999,7 @@
       "relevance": 854
     },
     "char": {
-      "ch": "票"
+      "hanzi": "票"
     },
     "short": {},
     "long": {}
@@ -16999,7 +17009,7 @@
       "relevance": 855
     },
     "char": {
-      "ch": "撒谎"
+      "hanzi": "撒谎"
     },
     "short": {},
     "long": {}
@@ -17009,7 +17019,7 @@
       "relevance": 856
     },
     "char": {
-      "ch": "武器"
+      "hanzi": "武器"
     },
     "short": {},
     "long": {}
@@ -17019,7 +17029,7 @@
       "relevance": 857
     },
     "char": {
-      "ch": "痛苦"
+      "hanzi": "痛苦"
     },
     "short": {},
     "long": {}
@@ -17029,7 +17039,7 @@
       "relevance": 858
     },
     "char": {
-      "ch": "全部"
+      "hanzi": "全部"
     },
     "short": {},
     "long": {}
@@ -17039,7 +17049,7 @@
       "relevance": 859
     },
     "char": {
-      "ch": "手机"
+      "hanzi": "手机"
     },
     "short": {},
     "long": {}
@@ -17049,7 +17059,7 @@
       "relevance": 860
     },
     "char": {
-      "ch": "忘记"
+      "hanzi": "忘记"
     },
     "short": {},
     "long": {}
@@ -17059,7 +17069,7 @@
       "relevance": 861
     },
     "char": {
-      "ch": "存在"
+      "hanzi": "存在"
     },
     "short": {},
     "long": {}
@@ -17069,7 +17079,7 @@
       "relevance": 862
     },
     "char": {
-      "ch": "首先"
+      "hanzi": "首先"
     },
     "short": {},
     "long": {}
@@ -17079,7 +17089,7 @@
       "relevance": 863
     },
     "char": {
-      "ch": "组"
+      "hanzi": "组"
     },
     "short": {},
     "long": {}
@@ -17089,7 +17099,7 @@
       "relevance": 864
     },
     "char": {
-      "ch": "照"
+      "hanzi": "照"
     },
     "short": {},
     "long": {}
@@ -17099,7 +17109,7 @@
       "relevance": 865
     },
     "char": {
-      "ch": "交"
+      "hanzi": "交"
     },
     "short": {},
     "long": {}
@@ -17109,7 +17119,7 @@
       "relevance": 866
     },
     "char": {
-      "ch": "以及"
+      "hanzi": "以及"
     },
     "short": {},
     "long": {}
@@ -17119,7 +17129,7 @@
       "relevance": 867
     },
     "char": {
-      "ch": "十"
+      "hanzi": "十"
     },
     "short": {},
     "long": {}
@@ -17129,7 +17139,9 @@
       "relevance": 868
     },
     "char": {
-      "ch": "台"
+      "hanzi": "台",
+      "pinyin": "tái",
+      "literal": "platform"
     },
     "short": {},
     "long": {}
@@ -17139,7 +17151,7 @@
       "relevance": 869
     },
     "char": {
-      "ch": "搬"
+      "hanzi": "搬"
     },
     "short": {},
     "long": {}
@@ -17149,7 +17161,7 @@
       "relevance": 870
     },
     "char": {
-      "ch": "个人"
+      "hanzi": "个人"
     },
     "short": {},
     "long": {}
@@ -17159,7 +17171,7 @@
       "relevance": 871
     },
     "char": {
-      "ch": "代表"
+      "hanzi": "代表"
     },
     "short": {},
     "long": {}
@@ -17169,7 +17181,7 @@
       "relevance": 872
     },
     "char": {
-      "ch": "坚持"
+      "hanzi": "坚持"
     },
     "short": {},
     "long": {}
@@ -17179,7 +17191,7 @@
       "relevance": 873
     },
     "char": {
-      "ch": "意义"
+      "hanzi": "意义"
     },
     "short": {},
     "long": {}
@@ -17189,7 +17201,7 @@
       "relevance": 874
     },
     "char": {
-      "ch": "楼"
+      "hanzi": "楼"
     },
     "short": {},
     "long": {}
@@ -17199,7 +17211,7 @@
       "relevance": 875
     },
     "char": {
-      "ch": "承认"
+      "hanzi": "承认"
     },
     "short": {},
     "long": {}
@@ -17209,7 +17221,7 @@
       "relevance": 876
     },
     "char": {
-      "ch": "发誓"
+      "hanzi": "发誓"
     },
     "short": {},
     "long": {}
@@ -17219,7 +17231,7 @@
       "relevance": 877
     },
     "char": {
-      "ch": "理由"
+      "hanzi": "理由"
     },
     "short": {},
     "long": {}
@@ -17229,7 +17241,7 @@
       "relevance": 878
     },
     "char": {
-      "ch": "显然"
+      "hanzi": "显然"
     },
     "short": {},
     "long": {}
@@ -17239,7 +17251,7 @@
       "relevance": 879
     },
     "char": {
-      "ch": "局"
+      "hanzi": "局"
     },
     "short": {},
     "long": {}
@@ -17249,7 +17261,7 @@
       "relevance": 880
     },
     "char": {
-      "ch": "政府"
+      "hanzi": "政府"
     },
     "short": {},
     "long": {}
@@ -17259,7 +17271,7 @@
       "relevance": 881
     },
     "char": {
-      "ch": "这次"
+      "hanzi": "这次"
     },
     "short": {},
     "long": {}
@@ -17269,7 +17281,7 @@
       "relevance": 882
     },
     "char": {
-      "ch": "生意"
+      "hanzi": "生意"
     },
     "short": {},
     "long": {}
@@ -17279,7 +17291,7 @@
       "relevance": 883
     },
     "char": {
-      "ch": "眼"
+      "hanzi": "眼"
     },
     "short": {},
     "long": {}
@@ -17289,7 +17301,7 @@
       "relevance": 884
     },
     "char": {
-      "ch": "火"
+      "hanzi": "火"
     },
     "short": {},
     "long": {}
@@ -17299,7 +17311,7 @@
       "relevance": 885
     },
     "char": {
-      "ch": "遇到"
+      "hanzi": "遇到"
     },
     "short": {},
     "long": {}
@@ -17309,7 +17321,9 @@
       "relevance": 886
     },
     "char": {
-      "ch": "猫"
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "literal": "cat"
     },
     "short": {},
     "long": {}
@@ -17319,7 +17333,7 @@
       "relevance": 887
     },
     "char": {
-      "ch": "即使"
+      "hanzi": "即使"
     },
     "short": {},
     "long": {}
@@ -17329,7 +17343,7 @@
       "relevance": 888
     },
     "char": {
-      "ch": "记住"
+      "hanzi": "记住"
     },
     "short": {},
     "long": {}
@@ -17339,7 +17353,7 @@
       "relevance": 889
     },
     "char": {
-      "ch": "到处"
+      "hanzi": "到处"
     },
     "short": {},
     "long": {}
@@ -17349,7 +17363,7 @@
       "relevance": 890
     },
     "char": {
-      "ch": "幸运"
+      "hanzi": "幸运"
     },
     "short": {},
     "long": {}
@@ -17359,7 +17373,9 @@
       "relevance": 891
     },
     "char": {
-      "ch": "卡"
+      "hanzi": "卡",
+      "pinyin": "kǎ",
+      "literal": "card"
     },
     "short": {},
     "long": {}
@@ -17369,7 +17385,9 @@
       "relevance": 892
     },
     "char": {
-      "ch": "洗"
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "literal": "wash"
     },
     "short": {},
     "long": {}
@@ -17379,7 +17397,7 @@
       "relevance": 893
     },
     "char": {
-      "ch": "那时"
+      "hanzi": "那时"
     },
     "short": {},
     "long": {}
@@ -17389,7 +17407,7 @@
       "relevance": 894
     },
     "char": {
-      "ch": "干什么"
+      "hanzi": "干什么"
     },
     "short": {},
     "long": {}
@@ -17399,7 +17417,7 @@
       "relevance": 895
     },
     "char": {
-      "ch": "事儿"
+      "hanzi": "事儿"
     },
     "short": {},
     "long": {}
@@ -17409,7 +17427,9 @@
       "relevance": 896
     },
     "char": {
-      "ch": "混"
+      "hanzi": "混",
+      "pinyin": "hùn",
+      "literal": "to mix"
     },
     "short": {},
     "long": {}
@@ -17419,7 +17439,7 @@
       "relevance": 897
     },
     "char": {
-      "ch": "犯罪"
+      "hanzi": "犯罪"
     },
     "short": {},
     "long": {}
@@ -17429,7 +17449,7 @@
       "relevance": 898
     },
     "char": {
-      "ch": "挂"
+      "hanzi": "挂"
     },
     "short": {},
     "long": {}
@@ -17439,7 +17459,7 @@
       "relevance": 899
     },
     "char": {
-      "ch": "跳舞"
+      "hanzi": "跳舞"
     },
     "short": {},
     "long": {}
@@ -17449,7 +17469,7 @@
       "relevance": 900
     },
     "char": {
-      "ch": "白痴"
+      "hanzi": "白痴"
     },
     "short": {},
     "long": {}
@@ -17459,7 +17479,7 @@
       "relevance": 901
     },
     "char": {
-      "ch": "信任"
+      "hanzi": "信任"
     },
     "short": {},
     "long": {}
@@ -17469,7 +17489,7 @@
       "relevance": 902
     },
     "char": {
-      "ch": "新闻"
+      "hanzi": "新闻"
     },
     "short": {},
     "long": {}
@@ -17479,7 +17499,7 @@
       "relevance": 903
     },
     "char": {
-      "ch": "未来"
+      "hanzi": "未来"
     },
     "short": {},
     "long": {}
@@ -17489,7 +17509,7 @@
       "relevance": 904
     },
     "char": {
-      "ch": "道歉"
+      "hanzi": "道歉"
     },
     "short": {},
     "long": {}
@@ -17499,7 +17519,7 @@
       "relevance": 905
     },
     "char": {
-      "ch": "可怜"
+      "hanzi": "可怜"
     },
     "short": {},
     "long": {}
@@ -17509,7 +17529,7 @@
       "relevance": 906
     },
     "char": {
-      "ch": "实在"
+      "hanzi": "实在"
     },
     "short": {},
     "long": {}
@@ -17519,7 +17539,7 @@
       "relevance": 907
     },
     "char": {
-      "ch": "骗"
+      "hanzi": "骗"
     },
     "short": {},
     "long": {}
@@ -17529,7 +17549,7 @@
       "relevance": 908
     },
     "char": {
-      "ch": "加入"
+      "hanzi": "加入"
     },
     "short": {},
     "long": {}
@@ -17539,7 +17559,7 @@
       "relevance": 909
     },
     "char": {
-      "ch": "病人"
+      "hanzi": "病人"
     },
     "short": {},
     "long": {}
@@ -17549,7 +17569,7 @@
       "relevance": 910
     },
     "char": {
-      "ch": "案"
+      "hanzi": "案"
     },
     "short": {},
     "long": {}
@@ -17559,7 +17579,7 @@
       "relevance": 911
     },
     "char": {
-      "ch": "根"
+      "hanzi": "根"
     },
     "short": {},
     "long": {}
@@ -17569,7 +17589,9 @@
       "relevance": 912
     },
     "char": {
-      "ch": "吓"
+      "hanzi": "吓",
+      "pinyin": "xià",
+      "literal": "scare"
     },
     "short": {},
     "long": {}
@@ -17579,7 +17601,7 @@
       "relevance": 913
     },
     "char": {
-      "ch": "治疗"
+      "hanzi": "治疗"
     },
     "short": {},
     "long": {}
@@ -17589,7 +17611,7 @@
       "relevance": 914
     },
     "char": {
-      "ch": "原谅"
+      "hanzi": "原谅"
     },
     "short": {},
     "long": {}
@@ -17599,7 +17621,7 @@
       "relevance": 915
     },
     "char": {
-      "ch": "行为"
+      "hanzi": "行为"
     },
     "short": {},
     "long": {}
@@ -17609,7 +17631,7 @@
       "relevance": 916
     },
     "char": {
-      "ch": "比较"
+      "hanzi": "比较"
     },
     "short": {},
     "long": {}
@@ -17619,7 +17641,9 @@
       "relevance": 917
     },
     "char": {
-      "ch": "边"
+      "hanzi": "边",
+      "pinyin": "biān",
+      "literal": "edge"
     },
     "short": {},
     "long": {}
@@ -17629,7 +17653,7 @@
       "relevance": 918
     },
     "char": {
-      "ch": "双"
+      "hanzi": "双"
     },
     "short": {},
     "long": {}
@@ -17639,7 +17663,7 @@
       "relevance": 919
     },
     "char": {
-      "ch": "婚礼"
+      "hanzi": "婚礼"
     },
     "short": {},
     "long": {}
@@ -17649,7 +17673,7 @@
       "relevance": 920
     },
     "char": {
-      "ch": "弟弟"
+      "hanzi": "弟弟"
     },
     "short": {},
     "long": {}
@@ -17659,7 +17683,7 @@
       "relevance": 921
     },
     "char": {
-      "ch": "组织"
+      "hanzi": "组织"
     },
     "short": {},
     "long": {}
@@ -17669,7 +17693,7 @@
       "relevance": 922
     },
     "char": {
-      "ch": "想想"
+      "hanzi": "想想"
     },
     "short": {},
     "long": {}
@@ -17679,7 +17703,7 @@
       "relevance": 923
     },
     "char": {
-      "ch": "见面"
+      "hanzi": "见面"
     },
     "short": {},
     "long": {}
@@ -17689,7 +17713,7 @@
       "relevance": 924
     },
     "char": {
-      "ch": "经常"
+      "hanzi": "经常"
     },
     "short": {},
     "long": {}
@@ -17699,7 +17723,7 @@
       "relevance": 925
     },
     "char": {
-      "ch": "城市"
+      "hanzi": "城市"
     },
     "short": {},
     "long": {}
@@ -17709,7 +17733,7 @@
       "relevance": 926
     },
     "char": {
-      "ch": "老板"
+      "hanzi": "老板"
     },
     "short": {},
     "long": {}
@@ -17719,7 +17743,7 @@
       "relevance": 927
     },
     "char": {
-      "ch": "合作"
+      "hanzi": "合作"
     },
     "short": {},
     "long": {}
@@ -17729,7 +17753,7 @@
       "relevance": 928
     },
     "char": {
-      "ch": "来到"
+      "hanzi": "来到"
     },
     "short": {},
     "long": {}
@@ -17739,7 +17763,7 @@
       "relevance": 929
     },
     "char": {
-      "ch": "一会儿"
+      "hanzi": "一会儿"
     },
     "short": {},
     "long": {}
@@ -17749,7 +17773,7 @@
       "relevance": 930
     },
     "char": {
-      "ch": "乱"
+      "hanzi": "乱"
     },
     "short": {},
     "long": {}
@@ -17759,7 +17783,7 @@
       "relevance": 931
     },
     "char": {
-      "ch": "词"
+      "hanzi": "词"
     },
     "short": {},
     "long": {}
@@ -17769,7 +17793,7 @@
       "relevance": 932
     },
     "char": {
-      "ch": "尔"
+      "hanzi": "尔"
     },
     "short": {},
     "long": {}
@@ -17779,7 +17803,7 @@
       "relevance": 933
     },
     "char": {
-      "ch": "超"
+      "hanzi": "超"
     },
     "short": {},
     "long": {}
@@ -17789,7 +17813,7 @@
       "relevance": 934
     },
     "char": {
-      "ch": "差不多"
+      "hanzi": "差不多"
     },
     "short": {},
     "long": {}
@@ -17799,7 +17823,7 @@
       "relevance": 935
     },
     "char": {
-      "ch": "支"
+      "hanzi": "支"
     },
     "short": {},
     "long": {}
@@ -17809,7 +17833,7 @@
       "relevance": 936
     },
     "char": {
-      "ch": "老婆"
+      "hanzi": "老婆"
     },
     "short": {},
     "long": {}
@@ -17819,7 +17843,7 @@
       "relevance": 937
     },
     "char": {
-      "ch": "中心"
+      "hanzi": "中心"
     },
     "short": {},
     "long": {}
@@ -17829,7 +17853,7 @@
       "relevance": 938
     },
     "char": {
-      "ch": "可怕"
+      "hanzi": "可怕"
     },
     "short": {},
     "long": {}
@@ -17839,7 +17863,7 @@
       "relevance": 939
     },
     "char": {
-      "ch": "笔"
+      "hanzi": "笔"
     },
     "short": {},
     "long": {}
@@ -17849,7 +17873,7 @@
       "relevance": 940
     },
     "char": {
-      "ch": "满"
+      "hanzi": "满"
     },
     "short": {},
     "long": {}
@@ -17859,7 +17883,9 @@
       "relevance": 941
     },
     "char": {
-      "ch": "假"
+      "hanzi": "假",
+      "pinyin": "jiǎ",
+      "literal": "falsehood"
     },
     "short": {},
     "long": {}
@@ -17869,7 +17895,7 @@
       "relevance": 942
     },
     "char": {
-      "ch": "明显"
+      "hanzi": "明显"
     },
     "short": {},
     "long": {}
@@ -17879,7 +17905,7 @@
       "relevance": 943
     },
     "char": {
-      "ch": "研究"
+      "hanzi": "研究"
     },
     "short": {},
     "long": {}
@@ -17889,7 +17915,7 @@
       "relevance": 944
     },
     "char": {
-      "ch": "意识"
+      "hanzi": "意识"
     },
     "short": {},
     "long": {}
@@ -17899,7 +17925,7 @@
       "relevance": 945
     },
     "char": {
-      "ch": "附近"
+      "hanzi": "附近"
     },
     "short": {},
     "long": {}
@@ -17909,7 +17935,7 @@
       "relevance": 946
     },
     "char": {
-      "ch": "同性恋"
+      "hanzi": "同性恋"
     },
     "short": {},
     "long": {}
@@ -17919,7 +17945,7 @@
       "relevance": 947
     },
     "char": {
-      "ch": "打扰"
+      "hanzi": "打扰"
     },
     "short": {},
     "long": {}
@@ -17929,7 +17955,7 @@
       "relevance": 948
     },
     "char": {
-      "ch": "好运"
+      "hanzi": "好运"
     },
     "short": {},
     "long": {}
@@ -17939,7 +17965,7 @@
       "relevance": 949
     },
     "char": {
-      "ch": "线索"
+      "hanzi": "线索"
     },
     "short": {},
     "long": {}
@@ -17949,7 +17975,7 @@
       "relevance": 950
     },
     "char": {
-      "ch": "面前"
+      "hanzi": "面前"
     },
     "short": {},
     "long": {}
@@ -17959,7 +17985,7 @@
       "relevance": 951
     },
     "char": {
-      "ch": "消失"
+      "hanzi": "消失"
     },
     "short": {},
     "long": {}
@@ -17969,7 +17995,7 @@
       "relevance": 952
     },
     "char": {
-      "ch": "妹妹"
+      "hanzi": "妹妹"
     },
     "short": {},
     "long": {}
@@ -17979,7 +18005,7 @@
       "relevance": 953
     },
     "char": {
-      "ch": "正确"
+      "hanzi": "正确"
     },
     "short": {},
     "long": {}
@@ -17989,7 +18015,7 @@
       "relevance": 954
     },
     "char": {
-      "ch": "位置"
+      "hanzi": "位置"
     },
     "short": {},
     "long": {}
@@ -17999,7 +18025,7 @@
       "relevance": 955
     },
     "char": {
-      "ch": "答应"
+      "hanzi": "答应"
     },
     "short": {},
     "long": {}
@@ -18009,7 +18035,7 @@
       "relevance": 956
     },
     "char": {
-      "ch": "收"
+      "hanzi": "收"
     },
     "short": {},
     "long": {}
@@ -18019,7 +18045,7 @@
       "relevance": 957
     },
     "char": {
-      "ch": "砸"
+      "hanzi": "砸"
     },
     "short": {},
     "long": {}
@@ -18029,7 +18055,7 @@
       "relevance": 958
     },
     "char": {
-      "ch": "街"
+      "hanzi": "街"
     },
     "short": {},
     "long": {}
@@ -18039,7 +18065,7 @@
       "relevance": 959
     },
     "char": {
-      "ch": "电脑"
+      "hanzi": "电脑"
     },
     "short": {},
     "long": {}
@@ -18049,7 +18075,9 @@
       "relevance": 960
     },
     "char": {
-      "ch": "区"
+      "hanzi": "区",
+      "pinyin": "qū",
+      "literal": "area"
     },
     "short": {},
     "long": {}
@@ -18059,7 +18087,7 @@
       "relevance": 961
     },
     "char": {
-      "ch": "撞"
+      "hanzi": "撞"
     },
     "short": {},
     "long": {}
@@ -18069,7 +18097,7 @@
       "relevance": 962
     },
     "char": {
-      "ch": "借"
+      "hanzi": "借"
     },
     "short": {},
     "long": {}
@@ -18079,7 +18107,7 @@
       "relevance": 963
     },
     "char": {
-      "ch": "秒"
+      "hanzi": "秒"
     },
     "short": {},
     "long": {}
@@ -18089,7 +18117,7 @@
       "relevance": 964
     },
     "char": {
-      "ch": "似乎"
+      "hanzi": "似乎"
     },
     "short": {},
     "long": {}
@@ -18099,7 +18127,7 @@
       "relevance": 965
     },
     "char": {
-      "ch": "放下"
+      "hanzi": "放下"
     },
     "short": {},
     "long": {}
@@ -18109,7 +18137,7 @@
       "relevance": 966
     },
     "char": {
-      "ch": "力量"
+      "hanzi": "力量"
     },
     "short": {},
     "long": {}
@@ -18119,7 +18147,7 @@
       "relevance": 967
     },
     "char": {
-      "ch": "命令"
+      "hanzi": "命令"
     },
     "short": {},
     "long": {}
@@ -18129,7 +18157,7 @@
       "relevance": 968
     },
     "char": {
-      "ch": "同时"
+      "hanzi": "同时"
     },
     "short": {},
     "long": {}
@@ -18139,7 +18167,7 @@
       "relevance": 969
     },
     "char": {
-      "ch": "提供"
+      "hanzi": "提供"
     },
     "short": {},
     "long": {}
@@ -18149,7 +18177,7 @@
       "relevance": 970
     },
     "char": {
-      "ch": "威胁"
+      "hanzi": "威胁"
     },
     "short": {},
     "long": {}
@@ -18159,7 +18187,7 @@
       "relevance": 971
     },
     "char": {
-      "ch": "输"
+      "hanzi": "输"
     },
     "short": {},
     "long": {}
@@ -18169,7 +18197,7 @@
       "relevance": 972
     },
     "char": {
-      "ch": "号码"
+      "hanzi": "号码"
     },
     "short": {},
     "long": {}
@@ -18179,7 +18207,7 @@
       "relevance": 973
     },
     "char": {
-      "ch": "日子"
+      "hanzi": "日子"
     },
     "short": {},
     "long": {}
@@ -18189,7 +18217,7 @@
       "relevance": 974
     },
     "char": {
-      "ch": "座"
+      "hanzi": "座"
     },
     "short": {},
     "long": {}
@@ -18199,7 +18227,7 @@
       "relevance": 975
     },
     "char": {
-      "ch": "比如"
+      "hanzi": "比如"
     },
     "short": {},
     "long": {}
@@ -18209,7 +18237,7 @@
       "relevance": 976
     },
     "char": {
-      "ch": "哪个"
+      "hanzi": "哪个"
     },
     "short": {},
     "long": {}
@@ -18219,7 +18247,7 @@
       "relevance": 977
     },
     "char": {
-      "ch": "剩下"
+      "hanzi": "剩下"
     },
     "short": {},
     "long": {}
@@ -18229,7 +18257,7 @@
       "relevance": 978
     },
     "char": {
-      "ch": "严重"
+      "hanzi": "严重"
     },
     "short": {},
     "long": {}
@@ -18239,7 +18267,7 @@
       "relevance": 979
     },
     "char": {
-      "ch": "感"
+      "hanzi": "感"
     },
     "short": {},
     "long": {}
@@ -18249,7 +18277,7 @@
       "relevance": 980
     },
     "char": {
-      "ch": "享受"
+      "hanzi": "享受"
     },
     "short": {},
     "long": {}
@@ -18259,7 +18287,7 @@
       "relevance": 981
     },
     "char": {
-      "ch": "战争"
+      "hanzi": "战争"
     },
     "short": {},
     "long": {}
@@ -18269,7 +18297,7 @@
       "relevance": 982
     },
     "char": {
-      "ch": "恭喜"
+      "hanzi": "恭喜"
     },
     "short": {},
     "long": {}
@@ -18279,7 +18307,7 @@
       "relevance": 983
     },
     "char": {
-      "ch": "杀死"
+      "hanzi": "杀死"
     },
     "short": {},
     "long": {}
@@ -18289,7 +18317,9 @@
       "relevance": 984
     },
     "char": {
-      "ch": "其"
+      "hanzi": "其",
+      "pinyin": "qí",
+      "literal": "his"
     },
     "short": {},
     "long": {}
@@ -18299,7 +18329,7 @@
       "relevance": 985
     },
     "char": {
-      "ch": "影响"
+      "hanzi": "影响"
     },
     "short": {},
     "long": {}
@@ -18309,7 +18339,7 @@
       "relevance": 986
     },
     "char": {
-      "ch": "利用"
+      "hanzi": "利用"
     },
     "short": {},
     "long": {}
@@ -18319,7 +18349,7 @@
       "relevance": 987
     },
     "char": {
-      "ch": "恨"
+      "hanzi": "恨"
     },
     "short": {},
     "long": {}
@@ -18329,7 +18359,7 @@
       "relevance": 988
     },
     "char": {
-      "ch": "杀人"
+      "hanzi": "杀人"
     },
     "short": {},
     "long": {}
@@ -18339,7 +18369,7 @@
       "relevance": 989
     },
     "char": {
-      "ch": "脱"
+      "hanzi": "脱"
     },
     "short": {},
     "long": {}
@@ -18349,7 +18379,7 @@
       "relevance": 990
     },
     "char": {
-      "ch": "陪"
+      "hanzi": "陪"
     },
     "short": {},
     "long": {}
@@ -18359,7 +18389,7 @@
       "relevance": 991
     },
     "char": {
-      "ch": "失踪"
+      "hanzi": "失踪"
     },
     "short": {},
     "long": {}
@@ -18369,7 +18399,7 @@
       "relevance": 992
     },
     "char": {
-      "ch": "认真"
+      "hanzi": "认真"
     },
     "short": {},
     "long": {}
@@ -18379,7 +18409,7 @@
       "relevance": 993
     },
     "char": {
-      "ch": "真相"
+      "hanzi": "真相"
     },
     "short": {},
     "long": {}
@@ -18389,7 +18419,7 @@
       "relevance": 994
     },
     "char": {
-      "ch": "法律"
+      "hanzi": "法律"
     },
     "short": {},
     "long": {}
@@ -18399,7 +18429,7 @@
       "relevance": 995
     },
     "char": {
-      "ch": "训练"
+      "hanzi": "训练"
     },
     "short": {},
     "long": {}
@@ -18409,7 +18439,7 @@
       "relevance": 996
     },
     "char": {
-      "ch": "米"
+      "hanzi": "米"
     },
     "short": {},
     "long": {}
@@ -18419,7 +18449,7 @@
       "relevance": 997
     },
     "char": {
-      "ch": "值得"
+      "hanzi": "值得"
     },
     "short": {},
     "long": {}
@@ -18429,7 +18459,9 @@
       "relevance": 998
     },
     "char": {
-      "ch": "阿"
+      "hanzi": "阿",
+      "pinyin": "ā",
+      "literal": "name prefix"
     },
     "short": {},
     "long": {}
@@ -18439,7 +18471,7 @@
       "relevance": 999
     },
     "char": {
-      "ch": "主"
+      "hanzi": "主"
     },
     "short": {},
     "long": {}
@@ -18449,7 +18481,7 @@
       "relevance": 1000
     },
     "char": {
-      "ch": "有意思"
+      "hanzi": "有意思"
     },
     "short": {},
     "long": {}
@@ -18459,7 +18491,7 @@
       "relevance": 1001
     },
     "char": {
-      "ch": "热"
+      "hanzi": "热"
     },
     "short": {},
     "long": {}
@@ -18469,7 +18501,7 @@
       "relevance": 1002
     },
     "char": {
-      "ch": "使用"
+      "hanzi": "使用"
     },
     "short": {},
     "long": {}
@@ -18479,7 +18511,9 @@
       "relevance": 1003
     },
     "char": {
-      "ch": "差"
+      "hanzi": "差",
+      "pinyin": "chā",
+      "literal": "to differ"
     },
     "short": {},
     "long": {}
@@ -18489,7 +18523,7 @@
       "relevance": 1004
     },
     "char": {
-      "ch": "方面"
+      "hanzi": "方面"
     },
     "short": {},
     "long": {}
@@ -18499,7 +18533,7 @@
       "relevance": 1005
     },
     "char": {
-      "ch": "银行"
+      "hanzi": "银行"
     },
     "short": {},
     "long": {}
@@ -18509,7 +18543,7 @@
       "relevance": 1006
     },
     "char": {
-      "ch": "恐怖"
+      "hanzi": "恐怖"
     },
     "short": {},
     "long": {}
@@ -18519,7 +18553,9 @@
       "relevance": 1007
     },
     "char": {
-      "ch": "尽"
+      "hanzi": "尽",
+      "pinyin": "jìn",
+      "literal": "exhaust"
     },
     "short": {},
     "long": {}
@@ -18529,7 +18565,7 @@
       "relevance": 1008
     },
     "char": {
-      "ch": "原来"
+      "hanzi": "原来"
     },
     "short": {},
     "long": {}
@@ -18539,7 +18575,7 @@
       "relevance": 1009
     },
     "char": {
-      "ch": "警官"
+      "hanzi": "警官"
     },
     "short": {},
     "long": {}
@@ -18549,7 +18585,7 @@
       "relevance": 1010
     },
     "char": {
-      "ch": "性感"
+      "hanzi": "性感"
     },
     "short": {},
     "long": {}
@@ -18559,7 +18595,7 @@
       "relevance": 1011
     },
     "char": {
-      "ch": "自杀"
+      "hanzi": "自杀"
     },
     "short": {},
     "long": {}
@@ -18569,7 +18605,7 @@
       "relevance": 1012
     },
     "char": {
-      "ch": "酒吧"
+      "hanzi": "酒吧"
     },
     "short": {},
     "long": {}
@@ -18579,7 +18615,7 @@
       "relevance": 1013
     },
     "char": {
-      "ch": "讨论"
+      "hanzi": "讨论"
     },
     "short": {},
     "long": {}
@@ -18589,7 +18625,7 @@
       "relevance": 1014
     },
     "char": {
-      "ch": "同样"
+      "hanzi": "同样"
     },
     "short": {},
     "long": {}
@@ -18599,7 +18635,7 @@
       "relevance": 1015
     },
     "char": {
-      "ch": "身份"
+      "hanzi": "身份"
     },
     "short": {},
     "long": {}
@@ -18609,7 +18645,7 @@
       "relevance": 1016
     },
     "char": {
-      "ch": "说明"
+      "hanzi": "说明"
     },
     "short": {},
     "long": {}
@@ -18619,7 +18655,7 @@
       "relevance": 1017
     },
     "char": {
-      "ch": "什么样"
+      "hanzi": "什么样"
     },
     "short": {},
     "long": {}
@@ -18629,7 +18665,7 @@
       "relevance": 1018
     },
     "char": {
-      "ch": "安静"
+      "hanzi": "安静"
     },
     "short": {},
     "long": {}
@@ -18639,7 +18675,7 @@
       "relevance": 1019
     },
     "char": {
-      "ch": "岛"
+      "hanzi": "岛"
     },
     "short": {},
     "long": {}
@@ -18649,7 +18685,7 @@
       "relevance": 1020
     },
     "char": {
-      "ch": "模特"
+      "hanzi": "模特"
     },
     "short": {},
     "long": {}
@@ -18659,7 +18695,7 @@
       "relevance": 1021
     },
     "char": {
-      "ch": "多么"
+      "hanzi": "多么"
     },
     "short": {},
     "long": {}
@@ -18669,7 +18705,7 @@
       "relevance": 1022
     },
     "char": {
-      "ch": "足够"
+      "hanzi": "足够"
     },
     "short": {},
     "long": {}
@@ -18679,7 +18715,7 @@
       "relevance": 1023
     },
     "char": {
-      "ch": "饿"
+      "hanzi": "饿"
     },
     "short": {},
     "long": {}
@@ -18689,7 +18725,7 @@
       "relevance": 1024
     },
     "char": {
-      "ch": "学生"
+      "hanzi": "学生"
     },
     "short": {},
     "long": {}
@@ -18699,7 +18735,9 @@
       "relevance": 1025
     },
     "char": {
-      "ch": "红"
+      "hanzi": "红",
+      "pinyin": "hóng",
+      "literal": "red"
     },
     "short": {},
     "long": {}
@@ -18709,7 +18747,7 @@
       "relevance": 1026
     },
     "char": {
-      "ch": "鸡"
+      "hanzi": "鸡"
     },
     "short": {},
     "long": {}
@@ -18719,7 +18757,7 @@
       "relevance": 1027
     },
     "char": {
-      "ch": "养"
+      "hanzi": "养"
     },
     "short": {},
     "long": {}
@@ -18729,7 +18767,7 @@
       "relevance": 1028
     },
     "char": {
-      "ch": "下午"
+      "hanzi": "下午"
     },
     "short": {},
     "long": {}
@@ -18739,7 +18777,7 @@
       "relevance": 1029
     },
     "char": {
-      "ch": "仍然"
+      "hanzi": "仍然"
     },
     "short": {},
     "long": {}
@@ -18749,7 +18787,7 @@
       "relevance": 1030
     },
     "char": {
-      "ch": "一旦"
+      "hanzi": "一旦"
     },
     "short": {},
     "long": {}
@@ -18759,7 +18797,7 @@
       "relevance": 1031
     },
     "char": {
-      "ch": "追"
+      "hanzi": "追"
     },
     "short": {},
     "long": {}
@@ -18769,7 +18807,7 @@
       "relevance": 1032
     },
     "char": {
-      "ch": "动作"
+      "hanzi": "动作"
     },
     "short": {},
     "long": {}
@@ -18779,7 +18817,7 @@
       "relevance": 1033
     },
     "char": {
-      "ch": "谢"
+      "hanzi": "谢"
     },
     "short": {},
     "long": {}
@@ -18789,7 +18827,7 @@
       "relevance": 1034
     },
     "char": {
-      "ch": "意味着"
+      "hanzi": "意味着"
     },
     "short": {},
     "long": {}
@@ -18799,7 +18837,7 @@
       "relevance": 1035
     },
     "char": {
-      "ch": "受到"
+      "hanzi": "受到"
     },
     "short": {},
     "long": {}
@@ -18809,7 +18847,7 @@
       "relevance": 1036
     },
     "char": {
-      "ch": "群"
+      "hanzi": "群"
     },
     "short": {},
     "long": {}
@@ -18819,7 +18857,7 @@
       "relevance": 1037
     },
     "char": {
-      "ch": "之一"
+      "hanzi": "之一"
     },
     "short": {},
     "long": {}
@@ -18829,7 +18867,7 @@
       "relevance": 1038
     },
     "char": {
-      "ch": "因"
+      "hanzi": "因"
     },
     "short": {},
     "long": {}
@@ -18839,7 +18877,9 @@
       "relevance": 1039
     },
     "char": {
-      "ch": "约"
+      "hanzi": "约",
+      "pinyin": "yuē",
+      "literal": "schedule for a meeting"
     },
     "short": {},
     "long": {}
@@ -18849,7 +18889,7 @@
       "relevance": 1040
     },
     "char": {
-      "ch": "第三"
+      "hanzi": "第三"
     },
     "short": {},
     "long": {}
@@ -18859,7 +18899,7 @@
       "relevance": 1041
     },
     "char": {
-      "ch": "赶"
+      "hanzi": "赶"
     },
     "short": {},
     "long": {}
@@ -18869,7 +18909,7 @@
       "relevance": 1042
     },
     "char": {
-      "ch": "面对"
+      "hanzi": "面对"
     },
     "short": {},
     "long": {}
@@ -18879,7 +18919,7 @@
       "relevance": 1043
     },
     "char": {
-      "ch": "怀疑"
+      "hanzi": "怀疑"
     },
     "short": {},
     "long": {}
@@ -18889,7 +18929,7 @@
       "relevance": 1044
     },
     "char": {
-      "ch": "慢"
+      "hanzi": "慢"
     },
     "short": {},
     "long": {}
@@ -18899,7 +18939,7 @@
       "relevance": 1045
     },
     "char": {
-      "ch": "居然"
+      "hanzi": "居然"
     },
     "short": {},
     "long": {}
@@ -18909,7 +18949,7 @@
       "relevance": 1046
     },
     "char": {
-      "ch": "就要"
+      "hanzi": "就要"
     },
     "short": {},
     "long": {}
@@ -18919,7 +18959,7 @@
       "relevance": 1047
     },
     "char": {
-      "ch": "拒绝"
+      "hanzi": "拒绝"
     },
     "short": {},
     "long": {}
@@ -18929,7 +18969,7 @@
       "relevance": 1048
     },
     "char": {
-      "ch": "家人"
+      "hanzi": "家人"
     },
     "short": {},
     "long": {}
@@ -18939,7 +18979,7 @@
       "relevance": 1049
     },
     "char": {
-      "ch": "雷"
+      "hanzi": "雷"
     },
     "short": {},
     "long": {}
@@ -18949,7 +18989,7 @@
       "relevance": 1050
     },
     "char": {
-      "ch": "演员"
+      "hanzi": "演员"
     },
     "short": {},
     "long": {}
@@ -18959,7 +18999,7 @@
       "relevance": 1051
     },
     "char": {
-      "ch": "烧"
+      "hanzi": "烧"
     },
     "short": {},
     "long": {}
@@ -18969,7 +19009,7 @@
       "relevance": 1052
     },
     "char": {
-      "ch": "真实"
+      "hanzi": "真实"
     },
     "short": {},
     "long": {}
@@ -18979,7 +19019,7 @@
       "relevance": 1053
     },
     "char": {
-      "ch": "交易"
+      "hanzi": "交易"
     },
     "short": {},
     "long": {}
@@ -18989,7 +19029,7 @@
       "relevance": 1054
     },
     "char": {
-      "ch": "破"
+      "hanzi": "破"
     },
     "short": {},
     "long": {}
@@ -18999,7 +19039,7 @@
       "relevance": 1055
     },
     "char": {
-      "ch": "停止"
+      "hanzi": "停止"
     },
     "short": {},
     "long": {}
@@ -19009,7 +19049,7 @@
       "relevance": 1056
     },
     "char": {
-      "ch": "人生"
+      "hanzi": "人生"
     },
     "short": {},
     "long": {}
@@ -19019,7 +19059,7 @@
       "relevance": 1057
     },
     "char": {
-      "ch": "清"
+      "hanzi": "清"
     },
     "short": {},
     "long": {}
@@ -19029,7 +19069,7 @@
       "relevance": 1058
     },
     "char": {
-      "ch": "因此"
+      "hanzi": "因此"
     },
     "short": {},
     "long": {}
@@ -19039,7 +19079,7 @@
       "relevance": 1059
     },
     "char": {
-      "ch": "恶心"
+      "hanzi": "恶心"
     },
     "short": {},
     "long": {}
@@ -19049,7 +19089,7 @@
       "relevance": 1060
     },
     "char": {
-      "ch": "受伤"
+      "hanzi": "受伤"
     },
     "short": {},
     "long": {}
@@ -19059,7 +19099,7 @@
       "relevance": 1061
     },
     "char": {
-      "ch": "夜"
+      "hanzi": "夜"
     },
     "short": {},
     "long": {}
@@ -19069,7 +19109,7 @@
       "relevance": 1062
     },
     "char": {
-      "ch": "婊子"
+      "hanzi": "婊子"
     },
     "short": {},
     "long": {}
@@ -19079,7 +19119,7 @@
       "relevance": 1063
     },
     "char": {
-      "ch": "属于"
+      "hanzi": "属于"
     },
     "short": {},
     "long": {}
@@ -19089,7 +19129,7 @@
       "relevance": 1064
     },
     "char": {
-      "ch": "舞蹈"
+      "hanzi": "舞蹈"
     },
     "short": {},
     "long": {}
@@ -19099,7 +19139,7 @@
       "relevance": 1065
     },
     "char": {
-      "ch": "根据"
+      "hanzi": "根据"
     },
     "short": {},
     "long": {}
@@ -19109,7 +19149,7 @@
       "relevance": 1066
     },
     "char": {
-      "ch": "几乎"
+      "hanzi": "几乎"
     },
     "short": {},
     "long": {}
@@ -19119,7 +19159,7 @@
       "relevance": 1067
     },
     "char": {
-      "ch": "算是"
+      "hanzi": "算是"
     },
     "short": {},
     "long": {}
@@ -19129,7 +19169,7 @@
       "relevance": 1068
     },
     "char": {
-      "ch": "演"
+      "hanzi": "演"
     },
     "short": {},
     "long": {}
@@ -19139,7 +19179,7 @@
       "relevance": 1069
     },
     "char": {
-      "ch": "尼"
+      "hanzi": "尼"
     },
     "short": {},
     "long": {}
@@ -19149,7 +19189,7 @@
       "relevance": 1070
     },
     "char": {
-      "ch": "答案"
+      "hanzi": "答案"
     },
     "short": {},
     "long": {}
@@ -19159,7 +19199,7 @@
       "relevance": 1071
     },
     "char": {
-      "ch": "出色"
+      "hanzi": "出色"
     },
     "short": {},
     "long": {}
@@ -19169,7 +19209,7 @@
       "relevance": 1072
     },
     "char": {
-      "ch": "目前"
+      "hanzi": "目前"
     },
     "short": {},
     "long": {}
@@ -19179,7 +19219,7 @@
       "relevance": 1073
     },
     "char": {
-      "ch": "活动"
+      "hanzi": "活动"
     },
     "short": {},
     "long": {}
@@ -19189,7 +19229,7 @@
       "relevance": 1074
     },
     "char": {
-      "ch": "锁"
+      "hanzi": "锁"
     },
     "short": {},
     "long": {}
@@ -19199,7 +19239,7 @@
       "relevance": 1075
     },
     "char": {
-      "ch": "梦想"
+      "hanzi": "梦想"
     },
     "short": {},
     "long": {}
@@ -19209,7 +19249,7 @@
       "relevance": 1076
     },
     "char": {
-      "ch": "最终"
+      "hanzi": "最终"
     },
     "short": {},
     "long": {}
@@ -19219,7 +19259,7 @@
       "relevance": 1077
     },
     "char": {
-      "ch": "大人"
+      "hanzi": "大人"
     },
     "short": {},
     "long": {}
@@ -19229,7 +19269,7 @@
       "relevance": 1078
     },
     "char": {
-      "ch": "再次"
+      "hanzi": "再次"
     },
     "short": {},
     "long": {}
@@ -19239,7 +19279,7 @@
       "relevance": 1079
     },
     "char": {
-      "ch": "既然"
+      "hanzi": "既然"
     },
     "short": {},
     "long": {}
@@ -19249,7 +19289,7 @@
       "relevance": 1080
     },
     "char": {
-      "ch": "人员"
+      "hanzi": "人员"
     },
     "short": {},
     "long": {}
@@ -19259,7 +19299,7 @@
       "relevance": 1081
     },
     "char": {
-      "ch": "英雄"
+      "hanzi": "英雄"
     },
     "short": {},
     "long": {}
@@ -19269,7 +19309,7 @@
       "relevance": 1082
     },
     "char": {
-      "ch": "坐下"
+      "hanzi": "坐下"
     },
     "short": {},
     "long": {}
@@ -19279,7 +19319,7 @@
       "relevance": 1083
     },
     "char": {
-      "ch": "感受"
+      "hanzi": "感受"
     },
     "short": {},
     "long": {}
@@ -19289,7 +19329,7 @@
       "relevance": 1084
     },
     "char": {
-      "ch": "副"
+      "hanzi": "副"
     },
     "short": {},
     "long": {}
@@ -19299,7 +19339,7 @@
       "relevance": 1085
     },
     "char": {
-      "ch": "事件"
+      "hanzi": "事件"
     },
     "short": {},
     "long": {}
@@ -19309,7 +19349,7 @@
       "relevance": 1086
     },
     "char": {
-      "ch": "吻"
+      "hanzi": "吻"
     },
     "short": {},
     "long": {}
@@ -19319,7 +19359,7 @@
       "relevance": 1087
     },
     "char": {
-      "ch": "罪"
+      "hanzi": "罪"
     },
     "short": {},
     "long": {}
@@ -19329,7 +19369,7 @@
       "relevance": 1088
     },
     "char": {
-      "ch": "逃"
+      "hanzi": "逃"
     },
     "short": {},
     "long": {}
@@ -19339,7 +19379,7 @@
       "relevance": 1089
     },
     "char": {
-      "ch": "通知"
+      "hanzi": "通知"
     },
     "short": {},
     "long": {}
@@ -19349,7 +19389,7 @@
       "relevance": 1090
     },
     "char": {
-      "ch": "不得不"
+      "hanzi": "不得不"
     },
     "short": {},
     "long": {}
@@ -19359,7 +19399,7 @@
       "relevance": 1091
     },
     "char": {
-      "ch": "无论"
+      "hanzi": "无论"
     },
     "short": {},
     "long": {}
@@ -19369,7 +19409,7 @@
       "relevance": 1092
     },
     "char": {
-      "ch": "放开"
+      "hanzi": "放开"
     },
     "short": {},
     "long": {}
@@ -19379,7 +19419,7 @@
       "relevance": 1093
     },
     "char": {
-      "ch": "刀"
+      "hanzi": "刀"
     },
     "short": {},
     "long": {}
@@ -19389,7 +19429,7 @@
       "relevance": 1094
     },
     "char": {
-      "ch": "后来"
+      "hanzi": "后来"
     },
     "short": {},
     "long": {}
@@ -19399,7 +19439,7 @@
       "relevance": 1095
     },
     "char": {
-      "ch": "愿"
+      "hanzi": "愿"
     },
     "short": {},
     "long": {}
@@ -19409,7 +19449,7 @@
       "relevance": 1096
     },
     "char": {
-      "ch": "适合"
+      "hanzi": "适合"
     },
     "short": {},
     "long": {}
@@ -19419,7 +19459,7 @@
       "relevance": 1097
     },
     "char": {
-      "ch": "允许"
+      "hanzi": "允许"
     },
     "short": {},
     "long": {}
@@ -19429,7 +19469,7 @@
       "relevance": 1098
     },
     "char": {
-      "ch": "失望"
+      "hanzi": "失望"
     },
     "short": {},
     "long": {}
@@ -19439,7 +19479,7 @@
       "relevance": 1099
     },
     "char": {
-      "ch": "意见"
+      "hanzi": "意见"
     },
     "short": {},
     "long": {}
@@ -19449,7 +19489,7 @@
       "relevance": 1100
     },
     "char": {
-      "ch": "获得"
+      "hanzi": "获得"
     },
     "short": {},
     "long": {}
@@ -19459,7 +19499,7 @@
       "relevance": 1101
     },
     "char": {
-      "ch": "要是"
+      "hanzi": "要是"
     },
     "short": {},
     "long": {}
@@ -19469,7 +19509,7 @@
       "relevance": 1102
     },
     "char": {
-      "ch": "近"
+      "hanzi": "近"
     },
     "short": {},
     "long": {}
@@ -19479,7 +19519,9 @@
       "relevance": 1103
     },
     "char": {
-      "ch": "数"
+      "hanzi": "数",
+      "pinyin": "shù",
+      "literal": "number"
     },
     "short": {},
     "long": {}
@@ -19489,7 +19531,7 @@
       "relevance": 1104
     },
     "char": {
-      "ch": "公寓"
+      "hanzi": "公寓"
     },
     "short": {},
     "long": {}
@@ -19499,7 +19541,7 @@
       "relevance": 1105
     },
     "char": {
-      "ch": "文件"
+      "hanzi": "文件"
     },
     "short": {},
     "long": {}
@@ -19509,7 +19551,7 @@
       "relevance": 1106
     },
     "char": {
-      "ch": "只能"
+      "hanzi": "只能"
     },
     "short": {},
     "long": {}
@@ -19519,7 +19561,7 @@
       "relevance": 1107
     },
     "char": {
-      "ch": "白"
+      "hanzi": "白"
     },
     "short": {},
     "long": {}
@@ -19529,7 +19571,7 @@
       "relevance": 1108
     },
     "char": {
-      "ch": "寻找"
+      "hanzi": "寻找"
     },
     "short": {},
     "long": {}
@@ -19539,7 +19581,7 @@
       "relevance": 1109
     },
     "char": {
-      "ch": "攻击"
+      "hanzi": "攻击"
     },
     "short": {},
     "long": {}
@@ -19549,7 +19591,7 @@
       "relevance": 1110
     },
     "char": {
-      "ch": "烂"
+      "hanzi": "烂"
     },
     "short": {},
     "long": {}
@@ -19559,7 +19601,7 @@
       "relevance": 1111
     },
     "char": {
-      "ch": "不然"
+      "hanzi": "不然"
     },
     "short": {},
     "long": {}
@@ -19569,7 +19611,7 @@
       "relevance": 1112
     },
     "char": {
-      "ch": "邀请"
+      "hanzi": "邀请"
     },
     "short": {},
     "long": {}
@@ -19579,7 +19621,7 @@
       "relevance": 1113
     },
     "char": {
-      "ch": "尽管"
+      "hanzi": "尽管"
     },
     "short": {},
     "long": {}
@@ -19589,7 +19631,7 @@
       "relevance": 1114
     },
     "char": {
-      "ch": "姐姐"
+      "hanzi": "姐姐"
     },
     "short": {},
     "long": {}
@@ -19599,7 +19641,7 @@
       "relevance": 1115
     },
     "char": {
-      "ch": "浪费"
+      "hanzi": "浪费"
     },
     "short": {},
     "long": {}
@@ -19609,7 +19651,7 @@
       "relevance": 1116
     },
     "char": {
-      "ch": "多谢"
+      "hanzi": "多谢"
     },
     "short": {},
     "long": {}
@@ -19619,7 +19661,7 @@
       "relevance": 1117
     },
     "char": {
-      "ch": "女朋友"
+      "hanzi": "女朋友"
     },
     "short": {},
     "long": {}
@@ -19629,7 +19671,7 @@
       "relevance": 1118
     },
     "char": {
-      "ch": "动物"
+      "hanzi": "动物"
     },
     "short": {},
     "long": {}
@@ -19639,7 +19681,7 @@
       "relevance": 1119
     },
     "char": {
-      "ch": "一半"
+      "hanzi": "一半"
     },
     "short": {},
     "long": {}
@@ -19649,7 +19691,7 @@
       "relevance": 1120
     },
     "char": {
-      "ch": "某个"
+      "hanzi": "某个"
     },
     "short": {},
     "long": {}
@@ -19659,7 +19701,7 @@
       "relevance": 1121
     },
     "char": {
-      "ch": "躲"
+      "hanzi": "躲"
     },
     "short": {},
     "long": {}
@@ -19669,7 +19711,7 @@
       "relevance": 1122
     },
     "char": {
-      "ch": "为何"
+      "hanzi": "为何"
     },
     "short": {},
     "long": {}
@@ -19679,7 +19721,7 @@
       "relevance": 1123
     },
     "char": {
-      "ch": "要么"
+      "hanzi": "要么"
     },
     "short": {},
     "long": {}
@@ -19689,7 +19731,7 @@
       "relevance": 1124
     },
     "char": {
-      "ch": "逼"
+      "hanzi": "逼"
     },
     "short": {},
     "long": {}
@@ -19699,7 +19741,7 @@
       "relevance": 1125
     },
     "char": {
-      "ch": "欠"
+      "hanzi": "欠"
     },
     "short": {},
     "long": {}
@@ -19709,7 +19751,7 @@
       "relevance": 1126
     },
     "char": {
-      "ch": "轮"
+      "hanzi": "轮"
     },
     "short": {},
     "long": {}
@@ -19719,7 +19761,7 @@
       "relevance": 1127
     },
     "char": {
-      "ch": "试图"
+      "hanzi": "试图"
     },
     "short": {},
     "long": {}
@@ -19729,7 +19771,7 @@
       "relevance": 1128
     },
     "char": {
-      "ch": "反应"
+      "hanzi": "反应"
     },
     "short": {},
     "long": {}
@@ -19739,7 +19781,7 @@
       "relevance": 1129
     },
     "char": {
-      "ch": "西"
+      "hanzi": "西"
     },
     "short": {},
     "long": {}
@@ -19749,7 +19791,7 @@
       "relevance": 1130
     },
     "char": {
-      "ch": "一边"
+      "hanzi": "一边"
     },
     "short": {},
     "long": {}
@@ -19759,7 +19801,7 @@
       "relevance": 1131
     },
     "char": {
-      "ch": "听见"
+      "hanzi": "听见"
     },
     "short": {},
     "long": {}
@@ -19769,7 +19811,7 @@
       "relevance": 1132
     },
     "char": {
-      "ch": "舒服"
+      "hanzi": "舒服"
     },
     "short": {},
     "long": {}
@@ -19779,7 +19821,7 @@
       "relevance": 1133
     },
     "char": {
-      "ch": "失败"
+      "hanzi": "失败"
     },
     "short": {},
     "long": {}
@@ -19789,7 +19831,9 @@
       "relevance": 1134
     },
     "char": {
-      "ch": "通"
+      "hanzi": "通",
+      "pinyin": "tōng",
+      "literal": "pass through"
     },
     "short": {},
     "long": {}
@@ -19799,7 +19843,7 @@
       "relevance": 1135
     },
     "char": {
-      "ch": "有时"
+      "hanzi": "有时"
     },
     "short": {},
     "long": {}
@@ -19809,7 +19853,7 @@
       "relevance": 1136
     },
     "char": {
-      "ch": "一般"
+      "hanzi": "一般"
     },
     "short": {},
     "long": {}
@@ -19819,7 +19863,7 @@
       "relevance": 1137
     },
     "char": {
-      "ch": "蛋"
+      "hanzi": "蛋"
     },
     "short": {},
     "long": {}
@@ -19829,7 +19873,7 @@
       "relevance": 1138
     },
     "char": {
-      "ch": "介绍"
+      "hanzi": "介绍"
     },
     "short": {},
     "long": {}
@@ -19839,7 +19883,7 @@
       "relevance": 1139
     },
     "char": {
-      "ch": "意外"
+      "hanzi": "意外"
     },
     "short": {},
     "long": {}
@@ -19849,7 +19893,7 @@
       "relevance": 1140
     },
     "char": {
-      "ch": "字"
+      "hanzi": "字"
     },
     "short": {},
     "long": {}
@@ -19859,7 +19903,7 @@
       "relevance": 1141
     },
     "char": {
-      "ch": "入"
+      "hanzi": "入"
     },
     "short": {},
     "long": {}
@@ -19869,7 +19913,7 @@
       "relevance": 1142
     },
     "char": {
-      "ch": "责任"
+      "hanzi": "责任"
     },
     "short": {},
     "long": {}
@@ -19879,7 +19923,7 @@
       "relevance": 1143
     },
     "char": {
-      "ch": "食物"
+      "hanzi": "食物"
     },
     "short": {},
     "long": {}
@@ -19889,7 +19933,7 @@
       "relevance": 1144
     },
     "char": {
-      "ch": "洛杉矶"
+      "hanzi": "洛杉矶"
     },
     "short": {},
     "long": {}
@@ -19899,7 +19943,7 @@
       "relevance": 1145
     },
     "char": {
-      "ch": "遗憾"
+      "hanzi": "遗憾"
     },
     "short": {},
     "long": {}
@@ -19909,7 +19953,7 @@
       "relevance": 1146
     },
     "char": {
-      "ch": "反正"
+      "hanzi": "反正"
     },
     "short": {},
     "long": {}
@@ -19919,7 +19963,7 @@
       "relevance": 1147
     },
     "char": {
-      "ch": "杀手"
+      "hanzi": "杀手"
     },
     "short": {},
     "long": {}
@@ -19929,7 +19973,7 @@
       "relevance": 1148
     },
     "char": {
-      "ch": "设计"
+      "hanzi": "设计"
     },
     "short": {},
     "long": {}
@@ -19939,7 +19983,7 @@
       "relevance": 1149
     },
     "char": {
-      "ch": "封"
+      "hanzi": "封"
     },
     "short": {},
     "long": {}
@@ -19949,7 +19993,7 @@
       "relevance": 1150
     },
     "char": {
-      "ch": "赢得"
+      "hanzi": "赢得"
     },
     "short": {},
     "long": {}
@@ -19959,7 +20003,7 @@
       "relevance": 1151
     },
     "char": {
-      "ch": "正是"
+      "hanzi": "正是"
     },
     "short": {},
     "long": {}
@@ -19969,7 +20013,7 @@
       "relevance": 1152
     },
     "char": {
-      "ch": "证人"
+      "hanzi": "证人"
     },
     "short": {},
     "long": {}
@@ -19979,7 +20023,7 @@
       "relevance": 1153
     },
     "char": {
-      "ch": "美丽"
+      "hanzi": "美丽"
     },
     "short": {},
     "long": {}
@@ -19989,7 +20033,7 @@
       "relevance": 1154
     },
     "char": {
-      "ch": "压力"
+      "hanzi": "压力"
     },
     "short": {},
     "long": {}
@@ -19999,7 +20043,7 @@
       "relevance": 1155
     },
     "char": {
-      "ch": "味道"
+      "hanzi": "味道"
     },
     "short": {},
     "long": {}
@@ -20009,7 +20053,7 @@
       "relevance": 1156
     },
     "char": {
-      "ch": "淘汰"
+      "hanzi": "淘汰"
     },
     "short": {},
     "long": {}
@@ -20019,7 +20063,7 @@
       "relevance": 1157
     },
     "char": {
-      "ch": "鱼"
+      "hanzi": "鱼"
     },
     "short": {},
     "long": {}
@@ -20029,7 +20073,7 @@
       "relevance": 1158
     },
     "char": {
-      "ch": "厉害"
+      "hanzi": "厉害"
     },
     "short": {},
     "long": {}
@@ -20039,7 +20083,7 @@
       "relevance": 1159
     },
     "char": {
-      "ch": "射"
+      "hanzi": "射"
     },
     "short": {},
     "long": {}
@@ -20049,7 +20093,7 @@
       "relevance": 1160
     },
     "char": {
-      "ch": "室"
+      "hanzi": "室"
     },
     "short": {},
     "long": {}
@@ -20059,7 +20103,7 @@
       "relevance": 1161
     },
     "char": {
-      "ch": "醉"
+      "hanzi": "醉"
     },
     "short": {},
     "long": {}
@@ -20069,7 +20113,7 @@
       "relevance": 1162
     },
     "char": {
-      "ch": "蠢"
+      "hanzi": "蠢"
     },
     "short": {},
     "long": {}
@@ -20079,7 +20123,7 @@
       "relevance": 1163
     },
     "char": {
-      "ch": "未"
+      "hanzi": "未"
     },
     "short": {},
     "long": {}
@@ -20089,7 +20133,7 @@
       "relevance": 1164
     },
     "char": {
-      "ch": "德"
+      "hanzi": "德"
     },
     "short": {},
     "long": {}
@@ -20099,7 +20143,7 @@
       "relevance": 1165
     },
     "char": {
-      "ch": "私人"
+      "hanzi": "私人"
     },
     "short": {},
     "long": {}
@@ -20109,7 +20153,7 @@
       "relevance": 1166
     },
     "char": {
-      "ch": "某"
+      "hanzi": "某"
     },
     "short": {},
     "long": {}
@@ -20119,7 +20163,7 @@
       "relevance": 1167
     },
     "char": {
-      "ch": "出发"
+      "hanzi": "出发"
     },
     "short": {},
     "long": {}
@@ -20129,7 +20173,7 @@
       "relevance": 1168
     },
     "char": {
-      "ch": "伟大"
+      "hanzi": "伟大"
     },
     "short": {},
     "long": {}
@@ -20139,7 +20183,7 @@
       "relevance": 1169
     },
     "char": {
-      "ch": "兴奋"
+      "hanzi": "兴奋"
     },
     "short": {},
     "long": {}
@@ -20149,7 +20193,7 @@
       "relevance": 1170
     },
     "char": {
-      "ch": "观众"
+      "hanzi": "观众"
     },
     "short": {},
     "long": {}
@@ -20159,7 +20203,9 @@
       "relevance": 1171
     },
     "char": {
-      "ch": "臭"
+      "hanzi": "臭",
+      "pinyin": "chòu",
+      "literal": "stink"
     },
     "short": {},
     "long": {}
@@ -20169,7 +20215,7 @@
       "relevance": 1172
     },
     "char": {
-      "ch": "达"
+      "hanzi": "达"
     },
     "short": {},
     "long": {}
@@ -20179,7 +20225,7 @@
       "relevance": 1173
     },
     "char": {
-      "ch": "自从"
+      "hanzi": "自从"
     },
     "short": {},
     "long": {}
@@ -20189,7 +20235,7 @@
       "relevance": 1174
     },
     "char": {
-      "ch": "钟"
+      "hanzi": "钟"
     },
     "short": {},
     "long": {}
@@ -20199,7 +20245,7 @@
       "relevance": 1175
     },
     "char": {
-      "ch": "子弹"
+      "hanzi": "子弹"
     },
     "short": {},
     "long": {}
@@ -20209,7 +20255,7 @@
       "relevance": 1176
     },
     "char": {
-      "ch": "垃圾"
+      "hanzi": "垃圾"
     },
     "short": {},
     "long": {}
@@ -20219,7 +20265,7 @@
       "relevance": 1177
     },
     "char": {
-      "ch": "叔叔"
+      "hanzi": "叔叔"
     },
     "short": {},
     "long": {}
@@ -20229,7 +20275,7 @@
       "relevance": 1178
     },
     "char": {
-      "ch": "男朋友"
+      "hanzi": "男朋友"
     },
     "short": {},
     "long": {}
@@ -20239,7 +20285,7 @@
       "relevance": 1179
     },
     "char": {
-      "ch": "疼"
+      "hanzi": "疼"
     },
     "short": {},
     "long": {}
@@ -20249,7 +20295,7 @@
       "relevance": 1180
     },
     "char": {
-      "ch": "毒品"
+      "hanzi": "毒品"
     },
     "short": {},
     "long": {}
@@ -20259,7 +20305,7 @@
       "relevance": 1181
     },
     "char": {
-      "ch": "签"
+      "hanzi": "签"
     },
     "short": {},
     "long": {}
@@ -20269,7 +20315,7 @@
       "relevance": 1182
     },
     "char": {
-      "ch": "不必"
+      "hanzi": "不必"
     },
     "short": {},
     "long": {}
@@ -20279,7 +20325,7 @@
       "relevance": 1183
     },
     "char": {
-      "ch": "反对"
+      "hanzi": "反对"
     },
     "short": {},
     "long": {}
@@ -20289,7 +20335,7 @@
       "relevance": 1184
     },
     "char": {
-      "ch": "颗"
+      "hanzi": "颗"
     },
     "short": {},
     "long": {}
@@ -20299,7 +20345,7 @@
       "relevance": 1185
     },
     "char": {
-      "ch": "停下"
+      "hanzi": "停下"
     },
     "short": {},
     "long": {}
@@ -20309,7 +20355,7 @@
       "relevance": 1186
     },
     "char": {
-      "ch": "肉"
+      "hanzi": "肉"
     },
     "short": {},
     "long": {}
@@ -20319,7 +20365,7 @@
       "relevance": 1187
     },
     "char": {
-      "ch": "测试"
+      "hanzi": "测试"
     },
     "short": {},
     "long": {}
@@ -20329,7 +20375,7 @@
       "relevance": 1188
     },
     "char": {
-      "ch": "精彩"
+      "hanzi": "精彩"
     },
     "short": {},
     "long": {}
@@ -20339,7 +20385,7 @@
       "relevance": 1189
     },
     "char": {
-      "ch": "金"
+      "hanzi": "金"
     },
     "short": {},
     "long": {}
@@ -20349,7 +20395,7 @@
       "relevance": 1190
     },
     "char": {
-      "ch": "感情"
+      "hanzi": "感情"
     },
     "short": {},
     "long": {}
@@ -20359,7 +20405,7 @@
       "relevance": 1191
     },
     "char": {
-      "ch": "有时候"
+      "hanzi": "有时候"
     },
     "short": {},
     "long": {}
@@ -20369,7 +20415,7 @@
       "relevance": 1192
     },
     "char": {
-      "ch": "袭击"
+      "hanzi": "袭击"
     },
     "short": {},
     "long": {}
@@ -20379,7 +20425,7 @@
       "relevance": 1193
     },
     "char": {
-      "ch": "演出"
+      "hanzi": "演出"
     },
     "short": {},
     "long": {}
@@ -20389,7 +20435,7 @@
       "relevance": 1194
     },
     "char": {
-      "ch": "一生"
+      "hanzi": "一生"
     },
     "short": {},
     "long": {}
@@ -20399,7 +20445,7 @@
       "relevance": 1195
     },
     "char": {
-      "ch": "不在乎"
+      "hanzi": "不在乎"
     },
     "short": {},
     "long": {}
@@ -20409,7 +20455,9 @@
       "relevance": 1196
     },
     "char": {
-      "ch": "朝"
+      "hanzi": "朝",
+      "pinyin": "cháo",
+      "literal": "dynasty"
     },
     "short": {},
     "long": {}
@@ -20419,7 +20467,7 @@
       "relevance": 1197
     },
     "char": {
-      "ch": "呼吸"
+      "hanzi": "呼吸"
     },
     "short": {},
     "long": {}
@@ -20429,7 +20477,7 @@
       "relevance": 1198
     },
     "char": {
-      "ch": "明星"
+      "hanzi": "明星"
     },
     "short": {},
     "long": {}
@@ -20439,7 +20487,7 @@
       "relevance": 1199
     },
     "char": {
-      "ch": "机"
+      "hanzi": "机"
     },
     "short": {},
     "long": {}
@@ -20449,7 +20497,7 @@
       "relevance": 1200
     },
     "char": {
-      "ch": "城"
+      "hanzi": "城"
     },
     "short": {},
     "long": {}
@@ -20459,7 +20507,7 @@
       "relevance": 1201
     },
     "char": {
-      "ch": "超级"
+      "hanzi": "超级"
     },
     "short": {},
     "long": {}
@@ -20469,7 +20517,7 @@
       "relevance": 1202
     },
     "char": {
-      "ch": "灵魂"
+      "hanzi": "灵魂"
     },
     "short": {},
     "long": {}
@@ -20479,7 +20527,7 @@
       "relevance": 1203
     },
     "char": {
-      "ch": "破坏"
+      "hanzi": "破坏"
     },
     "short": {},
     "long": {}
@@ -20489,7 +20537,7 @@
       "relevance": 1204
     },
     "char": {
-      "ch": "只不过"
+      "hanzi": "只不过"
     },
     "short": {},
     "long": {}
@@ -20499,7 +20547,7 @@
       "relevance": 1205
     },
     "char": {
-      "ch": "房"
+      "hanzi": "房"
     },
     "short": {},
     "long": {}
@@ -20509,7 +20557,7 @@
       "relevance": 1206
     },
     "char": {
-      "ch": "愉快"
+      "hanzi": "愉快"
     },
     "short": {},
     "long": {}
@@ -20519,7 +20567,7 @@
       "relevance": 1207
     },
     "char": {
-      "ch": "爆炸"
+      "hanzi": "爆炸"
     },
     "short": {},
     "long": {}
@@ -20529,7 +20577,7 @@
       "relevance": 1208
     },
     "char": {
-      "ch": "迟到"
+      "hanzi": "迟到"
     },
     "short": {},
     "long": {}
@@ -20539,7 +20587,7 @@
       "relevance": 1209
     },
     "char": {
-      "ch": "带走"
+      "hanzi": "带走"
     },
     "short": {},
     "long": {}
@@ -20549,7 +20597,7 @@
       "relevance": 1210
     },
     "char": {
-      "ch": "晚餐"
+      "hanzi": "晚餐"
     },
     "short": {},
     "long": {}
@@ -20559,7 +20607,7 @@
       "relevance": 1211
     },
     "char": {
-      "ch": "开玩笑"
+      "hanzi": "开玩笑"
     },
     "short": {},
     "long": {}
@@ -20569,7 +20617,7 @@
       "relevance": 1212
     },
     "char": {
-      "ch": "角色"
+      "hanzi": "角色"
     },
     "short": {},
     "long": {}
@@ -20579,7 +20627,7 @@
       "relevance": 1213
     },
     "char": {
-      "ch": "脑子"
+      "hanzi": "脑子"
     },
     "short": {},
     "long": {}
@@ -20589,7 +20637,7 @@
       "relevance": 1214
     },
     "char": {
-      "ch": "路上"
+      "hanzi": "路上"
     },
     "short": {},
     "long": {}
@@ -20599,7 +20647,7 @@
       "relevance": 1215
     },
     "char": {
-      "ch": "见鬼"
+      "hanzi": "见鬼"
     },
     "short": {},
     "long": {}
@@ -20609,7 +20657,7 @@
       "relevance": 1216
     },
     "char": {
-      "ch": "杂志"
+      "hanzi": "杂志"
     },
     "short": {},
     "long": {}
@@ -20619,7 +20667,7 @@
       "relevance": 1217
     },
     "char": {
-      "ch": "秀"
+      "hanzi": "秀"
     },
     "short": {},
     "long": {}
@@ -20629,7 +20677,7 @@
       "relevance": 1218
     },
     "char": {
-      "ch": "服务"
+      "hanzi": "服务"
     },
     "short": {},
     "long": {}
@@ -20639,7 +20687,7 @@
       "relevance": 1219
     },
     "char": {
-      "ch": "合适"
+      "hanzi": "合适"
     },
     "short": {},
     "long": {}
@@ -20649,7 +20697,7 @@
       "relevance": 1220
     },
     "char": {
-      "ch": "学习"
+      "hanzi": "学习"
     },
     "short": {},
     "long": {}
@@ -20659,7 +20707,9 @@
       "relevance": 1221
     },
     "char": {
-      "ch": "顿"
+      "hanzi": "顿",
+      "pinyin": "dùn",
+      "literal": "pause"
     },
     "short": {},
     "long": {}
@@ -20669,7 +20719,9 @@
       "relevance": 1222
     },
     "char": {
-      "ch": "便"
+      "hanzi": "便",
+      "pinyin": "biàn",
+      "literal": "convenience"
     },
     "short": {},
     "long": {}
@@ -20679,7 +20731,7 @@
       "relevance": 1223
     },
     "char": {
-      "ch": "包括"
+      "hanzi": "包括"
     },
     "short": {},
     "long": {}
@@ -20689,7 +20741,9 @@
       "relevance": 1224
     },
     "char": {
-      "ch": "累"
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "literal": "tired"
     },
     "short": {},
     "long": {}
@@ -20699,7 +20753,7 @@
       "relevance": 1225
     },
     "char": {
-      "ch": "汽车"
+      "hanzi": "汽车"
     },
     "short": {},
     "long": {}
@@ -20709,7 +20763,7 @@
       "relevance": 1226
     },
     "char": {
-      "ch": "时刻"
+      "hanzi": "时刻"
     },
     "short": {},
     "long": {}
@@ -20719,7 +20773,9 @@
       "relevance": 1227
     },
     "char": {
-      "ch": "单"
+      "hanzi": "单",
+      "pinyin": "dān",
+      "literal": "single"
     },
     "short": {},
     "long": {}
@@ -20729,7 +20785,7 @@
       "relevance": 1228
     },
     "char": {
-      "ch": "广告"
+      "hanzi": "广告"
     },
     "short": {},
     "long": {}
@@ -20739,7 +20795,7 @@
       "relevance": 1229
     },
     "char": {
-      "ch": "哥们"
+      "hanzi": "哥们"
     },
     "short": {},
     "long": {}
@@ -20749,7 +20805,7 @@
       "relevance": 1230
     },
     "char": {
-      "ch": "英国"
+      "hanzi": "英国"
     },
     "short": {},
     "long": {}
@@ -20759,7 +20815,7 @@
       "relevance": 1231
     },
     "char": {
-      "ch": "样"
+      "hanzi": "样"
     },
     "short": {},
     "long": {}
@@ -20769,7 +20825,7 @@
       "relevance": 1232
     },
     "char": {
-      "ch": "笨蛋"
+      "hanzi": "笨蛋"
     },
     "short": {},
     "long": {}
@@ -20779,7 +20835,7 @@
       "relevance": 1233
     },
     "char": {
-      "ch": "冷"
+      "hanzi": "冷"
     },
     "short": {},
     "long": {}
@@ -20789,7 +20845,7 @@
       "relevance": 1234
     },
     "char": {
-      "ch": "相当"
+      "hanzi": "相当"
     },
     "short": {},
     "long": {}
@@ -20799,7 +20855,7 @@
       "relevance": 1235
     },
     "char": {
-      "ch": "投"
+      "hanzi": "投"
     },
     "short": {},
     "long": {}
@@ -20809,7 +20865,7 @@
       "relevance": 1236
     },
     "char": {
-      "ch": "闻"
+      "hanzi": "闻"
     },
     "short": {},
     "long": {}
@@ -20819,7 +20875,7 @@
       "relevance": 1237
     },
     "char": {
-      "ch": "公平"
+      "hanzi": "公平"
     },
     "short": {},
     "long": {}
@@ -20829,7 +20885,7 @@
       "relevance": 1238
     },
     "char": {
-      "ch": "玩意"
+      "hanzi": "玩意"
     },
     "short": {},
     "long": {}
@@ -20839,7 +20895,7 @@
       "relevance": 1239
     },
     "char": {
-      "ch": "及"
+      "hanzi": "及"
     },
     "short": {},
     "long": {}
@@ -20849,7 +20905,7 @@
       "relevance": 1240
     },
     "char": {
-      "ch": "鞋"
+      "hanzi": "鞋"
     },
     "short": {},
     "long": {}
@@ -20859,7 +20915,7 @@
       "relevance": 1241
     },
     "char": {
-      "ch": "屁"
+      "hanzi": "屁"
     },
     "short": {},
     "long": {}
@@ -20869,7 +20925,7 @@
       "relevance": 1242
     },
     "char": {
-      "ch": "盯"
+      "hanzi": "盯"
     },
     "short": {},
     "long": {}
@@ -20879,7 +20935,7 @@
       "relevance": 1243
     },
     "char": {
-      "ch": "自然"
+      "hanzi": "自然"
     },
     "short": {},
     "long": {}
@@ -20889,7 +20945,9 @@
       "relevance": 1244
     },
     "char": {
-      "ch": "堆"
+      "hanzi": "堆",
+      "pinyin": "duī",
+      "literal": "pile"
     },
     "short": {},
     "long": {}
@@ -20899,7 +20957,7 @@
       "relevance": 1245
     },
     "char": {
-      "ch": "历史"
+      "hanzi": "历史"
     },
     "short": {},
     "long": {}
@@ -20909,7 +20967,7 @@
       "relevance": 1246
     },
     "char": {
-      "ch": "深"
+      "hanzi": "深"
     },
     "short": {},
     "long": {}
@@ -20919,7 +20977,7 @@
       "relevance": 1247
     },
     "char": {
-      "ch": "取"
+      "hanzi": "取"
     },
     "short": {},
     "long": {}
@@ -20929,7 +20987,7 @@
       "relevance": 1248
     },
     "char": {
-      "ch": "法庭"
+      "hanzi": "法庭"
     },
     "short": {},
     "long": {}
@@ -20939,7 +20997,7 @@
       "relevance": 1249
     },
     "char": {
-      "ch": "俱乐部"
+      "hanzi": "俱乐部"
     },
     "short": {},
     "long": {}
@@ -20949,7 +21007,7 @@
       "relevance": 1250
     },
     "char": {
-      "ch": "通常"
+      "hanzi": "通常"
     },
     "short": {},
     "long": {}
@@ -20959,7 +21017,7 @@
       "relevance": 1251
     },
     "char": {
-      "ch": "拯救"
+      "hanzi": "拯救"
     },
     "short": {},
     "long": {}
@@ -20969,7 +21027,7 @@
       "relevance": 1252
     },
     "char": {
-      "ch": "差点"
+      "hanzi": "差点"
     },
     "short": {},
     "long": {}
@@ -20979,7 +21037,7 @@
       "relevance": 1253
     },
     "char": {
-      "ch": "啤酒"
+      "hanzi": "啤酒"
     },
     "short": {},
     "long": {}
@@ -20989,7 +21047,7 @@
       "relevance": 1254
     },
     "char": {
-      "ch": "咬"
+      "hanzi": "咬"
     },
     "short": {},
     "long": {}
@@ -20999,7 +21057,7 @@
       "relevance": 1255
     },
     "char": {
-      "ch": "短"
+      "hanzi": "短"
     },
     "short": {},
     "long": {}
@@ -21009,7 +21067,7 @@
       "relevance": 1256
     },
     "char": {
-      "ch": "地球"
+      "hanzi": "地球"
     },
     "short": {},
     "long": {}
@@ -21019,7 +21077,7 @@
       "relevance": 1257
     },
     "char": {
-      "ch": "紧"
+      "hanzi": "紧"
     },
     "short": {},
     "long": {}
@@ -21029,7 +21087,7 @@
       "relevance": 1258
     },
     "char": {
-      "ch": "透"
+      "hanzi": "透"
     },
     "short": {},
     "long": {}
@@ -21039,7 +21097,7 @@
       "relevance": 1259
     },
     "char": {
-      "ch": "受害者"
+      "hanzi": "受害者"
     },
     "short": {},
     "long": {}
@@ -21049,7 +21107,7 @@
       "relevance": 1260
     },
     "char": {
-      "ch": "力"
+      "hanzi": "力"
     },
     "short": {},
     "long": {}
@@ -21059,7 +21117,7 @@
       "relevance": 1261
     },
     "char": {
-      "ch": "愚蠢"
+      "hanzi": "愚蠢"
     },
     "short": {},
     "long": {}
@@ -21069,7 +21127,7 @@
       "relevance": 1262
     },
     "char": {
-      "ch": "炸弹"
+      "hanzi": "炸弹"
     },
     "short": {},
     "long": {}
@@ -21079,7 +21137,7 @@
       "relevance": 1263
     },
     "char": {
-      "ch": "帅"
+      "hanzi": "帅"
     },
     "short": {},
     "long": {}
@@ -21089,7 +21147,7 @@
       "relevance": 1264
     },
     "char": {
-      "ch": "踢"
+      "hanzi": "踢"
     },
     "short": {},
     "long": {}
@@ -21099,7 +21157,7 @@
       "relevance": 1265
     },
     "char": {
-      "ch": "联邦"
+      "hanzi": "联邦"
     },
     "short": {},
     "long": {}
@@ -21109,7 +21167,7 @@
       "relevance": 1266
     },
     "char": {
-      "ch": "评委"
+      "hanzi": "评委"
     },
     "short": {},
     "long": {}
@@ -21119,7 +21177,7 @@
       "relevance": 1267
     },
     "char": {
-      "ch": "客气"
+      "hanzi": "客气"
     },
     "short": {},
     "long": {}
@@ -21129,7 +21187,7 @@
       "relevance": 1268
     },
     "char": {
-      "ch": "造成"
+      "hanzi": "造成"
     },
     "short": {},
     "long": {}
@@ -21139,7 +21197,7 @@
       "relevance": 1269
     },
     "char": {
-      "ch": "经过"
+      "hanzi": "经过"
     },
     "short": {},
     "long": {}
@@ -21149,7 +21207,7 @@
       "relevance": 1270
     },
     "char": {
-      "ch": "周末"
+      "hanzi": "周末"
     },
     "short": {},
     "long": {}
@@ -21159,7 +21217,7 @@
       "relevance": 1271
     },
     "char": {
-      "ch": "星"
+      "hanzi": "星"
     },
     "short": {},
     "long": {}
@@ -21169,7 +21227,7 @@
       "relevance": 1272
     },
     "char": {
-      "ch": "信号"
+      "hanzi": "信号"
     },
     "short": {},
     "long": {}
@@ -21179,7 +21237,7 @@
       "relevance": 1273
     },
     "char": {
-      "ch": "跟踪"
+      "hanzi": "跟踪"
     },
     "short": {},
     "long": {}
@@ -21189,7 +21247,7 @@
       "relevance": 1274
     },
     "char": {
-      "ch": "推"
+      "hanzi": "推"
     },
     "short": {},
     "long": {}
@@ -21199,7 +21257,7 @@
       "relevance": 1275
     },
     "char": {
-      "ch": "喝酒"
+      "hanzi": "喝酒"
     },
     "short": {},
     "long": {}
@@ -21209,7 +21267,7 @@
       "relevance": 1276
     },
     "char": {
-      "ch": "关键"
+      "hanzi": "关键"
     },
     "short": {},
     "long": {}
@@ -21219,7 +21277,7 @@
       "relevance": 1277
     },
     "char": {
-      "ch": "下次"
+      "hanzi": "下次"
     },
     "short": {},
     "long": {}
@@ -21229,7 +21287,7 @@
       "relevance": 1278
     },
     "char": {
-      "ch": "充满"
+      "hanzi": "充满"
     },
     "short": {},
     "long": {}
@@ -21239,7 +21297,7 @@
       "relevance": 1279
     },
     "char": {
-      "ch": "断"
+      "hanzi": "断"
     },
     "short": {},
     "long": {}
@@ -21249,7 +21307,7 @@
       "relevance": 1280
     },
     "char": {
-      "ch": "其它"
+      "hanzi": "其它"
     },
     "short": {},
     "long": {}
@@ -21259,7 +21317,7 @@
       "relevance": 1281
     },
     "char": {
-      "ch": "再说"
+      "hanzi": "再说"
     },
     "short": {},
     "long": {}
@@ -21269,7 +21327,9 @@
       "relevance": 1282
     },
     "char": {
-      "ch": "空"
+      "hanzi": "空",
+      "pinyin": "kōng",
+      "literal": "empty"
     },
     "short": {},
     "long": {}
@@ -21279,7 +21339,7 @@
       "relevance": 1283
     },
     "char": {
-      "ch": "抱"
+      "hanzi": "抱"
     },
     "short": {},
     "long": {}
@@ -21289,7 +21349,7 @@
       "relevance": 1284
     },
     "char": {
-      "ch": "究竟"
+      "hanzi": "究竟"
     },
     "short": {},
     "long": {}
@@ -21299,7 +21359,7 @@
       "relevance": 1285
     },
     "char": {
-      "ch": "美好"
+      "hanzi": "美好"
     },
     "short": {},
     "long": {}
@@ -21309,7 +21369,7 @@
       "relevance": 1286
     },
     "char": {
-      "ch": "班"
+      "hanzi": "班"
     },
     "short": {},
     "long": {}
@@ -21319,7 +21379,7 @@
       "relevance": 1287
     },
     "char": {
-      "ch": "架"
+      "hanzi": "架"
     },
     "short": {},
     "long": {}
@@ -21329,7 +21389,7 @@
       "relevance": 1288
     },
     "char": {
-      "ch": "圣"
+      "hanzi": "圣"
     },
     "short": {},
     "long": {}
@@ -21339,7 +21399,7 @@
       "relevance": 1289
     },
     "char": {
-      "ch": "恐怕"
+      "hanzi": "恐怕"
     },
     "short": {},
     "long": {}
@@ -21349,7 +21409,7 @@
       "relevance": 1290
     },
     "char": {
-      "ch": "准"
+      "hanzi": "准"
     },
     "short": {},
     "long": {}
@@ -21359,7 +21419,9 @@
       "relevance": 1291
     },
     "char": {
-      "ch": "抢"
+      "hanzi": "抢",
+      "pinyin": "qiǎng",
+      "literal": "rob"
     },
     "short": {},
     "long": {}
@@ -21369,7 +21431,7 @@
       "relevance": 1292
     },
     "char": {
-      "ch": "课"
+      "hanzi": "课"
     },
     "short": {},
     "long": {}
@@ -21379,7 +21441,7 @@
       "relevance": 1293
     },
     "char": {
-      "ch": "习惯"
+      "hanzi": "习惯"
     },
     "short": {},
     "long": {}
@@ -21389,7 +21451,7 @@
       "relevance": 1294
     },
     "char": {
-      "ch": "现实"
+      "hanzi": "现实"
     },
     "short": {},
     "long": {}
@@ -21399,7 +21461,7 @@
       "relevance": 1295
     },
     "char": {
-      "ch": "做出"
+      "hanzi": "做出"
     },
     "short": {},
     "long": {}
@@ -21409,7 +21471,7 @@
       "relevance": 1296
     },
     "char": {
-      "ch": "上班"
+      "hanzi": "上班"
     },
     "short": {},
     "long": {}
@@ -21419,7 +21481,7 @@
       "relevance": 1297
     },
     "char": {
-      "ch": "躺"
+      "hanzi": "躺"
     },
     "short": {},
     "long": {}
@@ -21429,7 +21491,7 @@
       "relevance": 1298
     },
     "char": {
-      "ch": "越来越"
+      "hanzi": "越来越"
     },
     "short": {},
     "long": {}
@@ -21439,7 +21501,7 @@
       "relevance": 1299
     },
     "char": {
-      "ch": "山"
+      "hanzi": "山"
     },
     "short": {},
     "long": {}
@@ -21449,7 +21511,7 @@
       "relevance": 1300
     },
     "char": {
-      "ch": "名单"
+      "hanzi": "名单"
     },
     "short": {},
     "long": {}
@@ -21459,7 +21521,7 @@
       "relevance": 1301
     },
     "char": {
-      "ch": "不幸"
+      "hanzi": "不幸"
     },
     "short": {},
     "long": {}
@@ -21469,7 +21531,7 @@
       "relevance": 1302
     },
     "char": {
-      "ch": "恢复"
+      "hanzi": "恢复"
     },
     "short": {},
     "long": {}
@@ -21479,7 +21541,7 @@
       "relevance": 1303
     },
     "char": {
-      "ch": "确认"
+      "hanzi": "确认"
     },
     "short": {},
     "long": {}
@@ -21489,7 +21551,7 @@
       "relevance": 1304
     },
     "char": {
-      "ch": "聚会"
+      "hanzi": "聚会"
     },
     "short": {},
     "long": {}
@@ -21499,7 +21561,7 @@
       "relevance": 1305
     },
     "char": {
-      "ch": "怀孕"
+      "hanzi": "怀孕"
     },
     "short": {},
     "long": {}
@@ -21509,7 +21571,7 @@
       "relevance": 1306
     },
     "char": {
-      "ch": "公园"
+      "hanzi": "公园"
     },
     "short": {},
     "long": {}
@@ -21519,7 +21581,7 @@
       "relevance": 1307
     },
     "char": {
-      "ch": "绑架"
+      "hanzi": "绑架"
     },
     "short": {},
     "long": {}
@@ -21529,7 +21591,7 @@
       "relevance": 1308
     },
     "char": {
-      "ch": "部落"
+      "hanzi": "部落"
     },
     "short": {},
     "long": {}
@@ -21539,7 +21601,7 @@
       "relevance": 1309
     },
     "char": {
-      "ch": "肯"
+      "hanzi": "肯"
     },
     "short": {},
     "long": {}
@@ -21549,7 +21611,7 @@
       "relevance": 1310
     },
     "char": {
-      "ch": "资料"
+      "hanzi": "资料"
     },
     "short": {},
     "long": {}
@@ -21559,7 +21621,7 @@
       "relevance": 1311
     },
     "char": {
-      "ch": "干净"
+      "hanzi": "干净"
     },
     "short": {},
     "long": {}
@@ -21569,7 +21631,7 @@
       "relevance": 1312
     },
     "char": {
-      "ch": "婚姻"
+      "hanzi": "婚姻"
     },
     "short": {},
     "long": {}
@@ -21579,7 +21641,7 @@
       "relevance": 1313
     },
     "char": {
-      "ch": "痛"
+      "hanzi": "痛"
     },
     "short": {},
     "long": {}
@@ -21589,7 +21651,9 @@
       "relevance": 1314
     },
     "char": {
-      "ch": "亲"
+      "hanzi": "亲",
+      "pinyin": "qīn",
+      "literal": "relatives"
     },
     "short": {},
     "long": {}
@@ -21599,7 +21663,7 @@
       "relevance": 1315
     },
     "char": {
-      "ch": "教堂"
+      "hanzi": "教堂"
     },
     "short": {},
     "long": {}
@@ -21609,7 +21673,7 @@
       "relevance": 1316
     },
     "char": {
-      "ch": "皮"
+      "hanzi": "皮"
     },
     "short": {},
     "long": {}
@@ -21619,7 +21683,9 @@
       "relevance": 1317
     },
     "char": {
-      "ch": "鸟"
+      "hanzi": "鸟",
+      "pinyin": "niǎo",
+      "literal": "bird"
     },
     "short": {},
     "long": {}
@@ -21629,7 +21695,7 @@
       "relevance": 1318
     },
     "char": {
-      "ch": "爽"
+      "hanzi": "爽"
     },
     "short": {},
     "long": {}
@@ -21639,7 +21705,7 @@
       "relevance": 1319
     },
     "char": {
-      "ch": "健康"
+      "hanzi": "健康"
     },
     "short": {},
     "long": {}
@@ -21649,7 +21715,7 @@
       "relevance": 1320
     },
     "char": {
-      "ch": "客户"
+      "hanzi": "客户"
     },
     "short": {},
     "long": {}
@@ -21659,7 +21725,9 @@
       "relevance": 1321
     },
     "char": {
-      "ch": "圈"
+      "hanzi": "圈",
+      "pinyin": "quān",
+      "literal": "to circle"
     },
     "short": {},
     "long": {}
@@ -21669,7 +21737,7 @@
       "relevance": 1322
     },
     "char": {
-      "ch": "脑袋"
+      "hanzi": "脑袋"
     },
     "short": {},
     "long": {}
@@ -21679,7 +21747,7 @@
       "relevance": 1323
     },
     "char": {
-      "ch": "不够"
+      "hanzi": "不够"
     },
     "short": {},
     "long": {}
@@ -21689,7 +21757,9 @@
       "relevance": 1324
     },
     "char": {
-      "ch": "嘘"
+      "hanzi": "嘘",
+      "pinyin": "xū",
+      "literal": "be quiet"
     },
     "short": {},
     "long": {}
@@ -21699,7 +21769,7 @@
       "relevance": 1325
     },
     "char": {
-      "ch": "前面"
+      "hanzi": "前面"
     },
     "short": {},
     "long": {}
@@ -21709,7 +21779,7 @@
       "relevance": 1326
     },
     "char": {
-      "ch": "分手"
+      "hanzi": "分手"
     },
     "short": {},
     "long": {}
@@ -21719,7 +21789,7 @@
       "relevance": 1327
     },
     "char": {
-      "ch": "方向"
+      "hanzi": "方向"
     },
     "short": {},
     "long": {}
@@ -21729,7 +21799,7 @@
       "relevance": 1328
     },
     "char": {
-      "ch": "心理"
+      "hanzi": "心理"
     },
     "short": {},
     "long": {}
@@ -21739,7 +21809,7 @@
       "relevance": 1329
     },
     "char": {
-      "ch": "幸福"
+      "hanzi": "幸福"
     },
     "short": {},
     "long": {}
@@ -21749,7 +21819,7 @@
       "relevance": 1330
     },
     "char": {
-      "ch": "树"
+      "hanzi": "树"
     },
     "short": {},
     "long": {}
@@ -21759,7 +21829,7 @@
       "relevance": 1331
     },
     "char": {
-      "ch": "救命"
+      "hanzi": "救命"
     },
     "short": {},
     "long": {}
@@ -21769,7 +21839,7 @@
       "relevance": 1332
     },
     "char": {
-      "ch": "接着"
+      "hanzi": "接着"
     },
     "short": {},
     "long": {}
@@ -21779,7 +21849,7 @@
       "relevance": 1333
     },
     "char": {
-      "ch": "项"
+      "hanzi": "项"
     },
     "short": {},
     "long": {}
@@ -21789,7 +21859,7 @@
       "relevance": 1334
     },
     "char": {
-      "ch": "疯子"
+      "hanzi": "疯子"
     },
     "short": {},
     "long": {}
@@ -21799,7 +21869,7 @@
       "relevance": 1335
     },
     "char": {
-      "ch": "赛"
+      "hanzi": "赛"
     },
     "short": {},
     "long": {}
@@ -21809,7 +21879,7 @@
       "relevance": 1336
     },
     "char": {
-      "ch": "将军"
+      "hanzi": "将军"
     },
     "short": {},
     "long": {}
@@ -21819,7 +21889,7 @@
       "relevance": 1337
     },
     "char": {
-      "ch": "技术"
+      "hanzi": "技术"
     },
     "short": {},
     "long": {}
@@ -21829,7 +21899,7 @@
       "relevance": 1338
     },
     "char": {
-      "ch": "吃饭"
+      "hanzi": "吃饭"
     },
     "short": {},
     "long": {}
@@ -21839,7 +21909,9 @@
       "relevance": 1339
     },
     "char": {
-      "ch": "传"
+      "hanzi": "传",
+      "pinyin": "chuán",
+      "literal": "transmit"
     },
     "short": {},
     "long": {}
@@ -21849,7 +21921,7 @@
       "relevance": 1340
     },
     "char": {
-      "ch": "困难"
+      "hanzi": "困难"
     },
     "short": {},
     "long": {}
@@ -21859,7 +21931,7 @@
       "relevance": 1341
     },
     "char": {
-      "ch": "不许"
+      "hanzi": "不许"
     },
     "short": {},
     "long": {}
@@ -21869,7 +21941,7 @@
       "relevance": 1342
     },
     "char": {
-      "ch": "某种"
+      "hanzi": "某种"
     },
     "short": {},
     "long": {}
@@ -21879,7 +21951,7 @@
       "relevance": 1343
     },
     "char": {
-      "ch": "记忆"
+      "hanzi": "记忆"
     },
     "short": {},
     "long": {}
@@ -21889,7 +21961,7 @@
       "relevance": 1344
     },
     "char": {
-      "ch": "乐队"
+      "hanzi": "乐队"
     },
     "short": {},
     "long": {}
@@ -21899,7 +21971,7 @@
       "relevance": 1345
     },
     "char": {
-      "ch": "紧急"
+      "hanzi": "紧急"
     },
     "short": {},
     "long": {}
@@ -21909,7 +21981,7 @@
       "relevance": 1346
     },
     "char": {
-      "ch": "高中"
+      "hanzi": "高中"
     },
     "short": {},
     "long": {}
@@ -21919,7 +21991,7 @@
       "relevance": 1347
     },
     "char": {
-      "ch": "听听"
+      "hanzi": "听听"
     },
     "short": {},
     "long": {}
@@ -21929,7 +22001,7 @@
       "relevance": 1348
     },
     "char": {
-      "ch": "正好"
+      "hanzi": "正好"
     },
     "short": {},
     "long": {}
@@ -21939,7 +22011,7 @@
       "relevance": 1349
     },
     "char": {
-      "ch": "州"
+      "hanzi": "州"
     },
     "short": {},
     "long": {}
@@ -21949,7 +22021,7 @@
       "relevance": 1350
     },
     "char": {
-      "ch": "毫无"
+      "hanzi": "毫无"
     },
     "short": {},
     "long": {}
@@ -21959,7 +22031,7 @@
       "relevance": 1351
     },
     "char": {
-      "ch": "提醒"
+      "hanzi": "提醒"
     },
     "short": {},
     "long": {}
@@ -21969,7 +22041,7 @@
       "relevance": 1352
     },
     "char": {
-      "ch": "旅行"
+      "hanzi": "旅行"
     },
     "short": {},
     "long": {}
@@ -21979,7 +22051,7 @@
       "relevance": 1353
     },
     "char": {
-      "ch": "惊喜"
+      "hanzi": "惊喜"
     },
     "short": {},
     "long": {}
@@ -21989,7 +22061,7 @@
       "relevance": 1354
     },
     "char": {
-      "ch": "拿走"
+      "hanzi": "拿走"
     },
     "short": {},
     "long": {}
@@ -21999,7 +22071,7 @@
       "relevance": 1355
     },
     "char": {
-      "ch": "接近"
+      "hanzi": "接近"
     },
     "short": {},
     "long": {}
@@ -22009,7 +22081,7 @@
       "relevance": 1356
     },
     "char": {
-      "ch": "逮捕"
+      "hanzi": "逮捕"
     },
     "short": {},
     "long": {}
@@ -22019,7 +22091,9 @@
       "relevance": 1357
     },
     "char": {
-      "ch": "吵"
+      "hanzi": "吵",
+      "pinyin": "chǎo",
+      "literal": "argue"
     },
     "short": {},
     "long": {}
@@ -22029,7 +22103,7 @@
       "relevance": 1358
     },
     "char": {
-      "ch": "旁边"
+      "hanzi": "旁边"
     },
     "short": {},
     "long": {}
@@ -22039,7 +22113,7 @@
       "relevance": 1359
     },
     "char": {
-      "ch": "激动"
+      "hanzi": "激动"
     },
     "short": {},
     "long": {}
@@ -22049,7 +22123,7 @@
       "relevance": 1360
     },
     "char": {
-      "ch": "骄傲"
+      "hanzi": "骄傲"
     },
     "short": {},
     "long": {}
@@ -22059,7 +22133,7 @@
       "relevance": 1361
     },
     "char": {
-      "ch": "而是"
+      "hanzi": "而是"
     },
     "short": {},
     "long": {}
@@ -22069,7 +22143,7 @@
       "relevance": 1362
     },
     "char": {
-      "ch": "利"
+      "hanzi": "利"
     },
     "short": {},
     "long": {}
@@ -22079,7 +22153,7 @@
       "relevance": 1363
     },
     "char": {
-      "ch": "牌"
+      "hanzi": "牌"
     },
     "short": {},
     "long": {}
@@ -22089,7 +22163,9 @@
       "relevance": 1364
     },
     "char": {
-      "ch": "八"
+      "hanzi": "八",
+      "pinyin": "bā",
+      "literal": "eight"
     },
     "short": {},
     "long": {}
@@ -22099,7 +22175,7 @@
       "relevance": 1365
     },
     "char": {
-      "ch": "成员"
+      "hanzi": "成员"
     },
     "short": {},
     "long": {}
@@ -22109,7 +22185,7 @@
       "relevance": 1366
     },
     "char": {
-      "ch": "监视"
+      "hanzi": "监视"
     },
     "short": {},
     "long": {}
@@ -22119,7 +22195,7 @@
       "relevance": 1367
     },
     "char": {
-      "ch": "女性"
+      "hanzi": "女性"
     },
     "short": {},
     "long": {}
@@ -22129,7 +22205,7 @@
       "relevance": 1368
     },
     "char": {
-      "ch": "权利"
+      "hanzi": "权利"
     },
     "short": {},
     "long": {}
@@ -22139,7 +22215,7 @@
       "relevance": 1369
     },
     "char": {
-      "ch": "说谎"
+      "hanzi": "说谎"
     },
     "short": {},
     "long": {}
@@ -22149,7 +22225,7 @@
       "relevance": 1370
     },
     "char": {
-      "ch": "圣诞"
+      "hanzi": "圣诞"
     },
     "short": {},
     "long": {}
@@ -22159,7 +22235,7 @@
       "relevance": 1371
     },
     "char": {
-      "ch": "黑人"
+      "hanzi": "黑人"
     },
     "short": {},
     "long": {}
@@ -22169,7 +22245,7 @@
       "relevance": 1372
     },
     "char": {
-      "ch": "警方"
+      "hanzi": "警方"
     },
     "short": {},
     "long": {}
@@ -22179,7 +22255,7 @@
       "relevance": 1373
     },
     "char": {
-      "ch": "法国"
+      "hanzi": "法国"
     },
     "short": {},
     "long": {}
@@ -22189,7 +22265,7 @@
       "relevance": 1374
     },
     "char": {
-      "ch": "毛"
+      "hanzi": "毛"
     },
     "short": {},
     "long": {}
@@ -22199,7 +22275,7 @@
       "relevance": 1375
     },
     "char": {
-      "ch": "错过"
+      "hanzi": "错过"
     },
     "short": {},
     "long": {}
@@ -22209,7 +22285,7 @@
       "relevance": 1376
     },
     "char": {
-      "ch": "警告"
+      "hanzi": "警告"
     },
     "short": {},
     "long": {}
@@ -22219,7 +22295,7 @@
       "relevance": 1377
     },
     "char": {
-      "ch": "老天"
+      "hanzi": "老天"
     },
     "short": {},
     "long": {}
@@ -22229,7 +22305,7 @@
       "relevance": 1378
     },
     "char": {
-      "ch": "吉"
+      "hanzi": "吉"
     },
     "short": {},
     "long": {}
@@ -22239,7 +22315,7 @@
       "relevance": 1379
     },
     "char": {
-      "ch": "惹"
+      "hanzi": "惹"
     },
     "short": {},
     "long": {}
@@ -22249,7 +22325,7 @@
       "relevance": 1380
     },
     "char": {
-      "ch": "酒店"
+      "hanzi": "酒店"
     },
     "short": {},
     "long": {}
@@ -22259,7 +22335,7 @@
       "relevance": 1381
     },
     "char": {
-      "ch": "抽"
+      "hanzi": "抽"
     },
     "short": {},
     "long": {}
@@ -22269,7 +22345,7 @@
       "relevance": 1382
     },
     "char": {
-      "ch": "之类"
+      "hanzi": "之类"
     },
     "short": {},
     "long": {}
@@ -22279,7 +22355,9 @@
       "relevance": 1383
     },
     "char": {
-      "ch": "王"
+      "hanzi": "王",
+      "pinyin": "wáng",
+      "literal": "king"
     },
     "short": {},
     "long": {}
@@ -22289,7 +22367,7 @@
       "relevance": 1384
     },
     "char": {
-      "ch": "冠军"
+      "hanzi": "冠军"
     },
     "short": {},
     "long": {}
@@ -22299,7 +22377,7 @@
       "relevance": 1385
     },
     "char": {
-      "ch": "尝试"
+      "hanzi": "尝试"
     },
     "short": {},
     "long": {}
@@ -22309,7 +22387,7 @@
       "relevance": 1386
     },
     "char": {
-      "ch": "教练"
+      "hanzi": "教练"
     },
     "short": {},
     "long": {}
@@ -22319,7 +22397,7 @@
       "relevance": 1387
     },
     "char": {
-      "ch": "常"
+      "hanzi": "常"
     },
     "short": {},
     "long": {}
@@ -22329,7 +22407,7 @@
       "relevance": 1388
     },
     "char": {
-      "ch": "对方"
+      "hanzi": "对方"
     },
     "short": {},
     "long": {}
@@ -22339,7 +22417,7 @@
       "relevance": 1389
     },
     "char": {
-      "ch": "随时"
+      "hanzi": "随时"
     },
     "short": {},
     "long": {}
@@ -22349,7 +22427,9 @@
       "relevance": 1390
     },
     "char": {
-      "ch": "弹"
+      "hanzi": "弹",
+      "pinyin": "dàn",
+      "literal": "pellet"
     },
     "short": {},
     "long": {}
@@ -22359,7 +22439,7 @@
       "relevance": 1391
     },
     "char": {
-      "ch": "敌人"
+      "hanzi": "敌人"
     },
     "short": {},
     "long": {}
@@ -22369,7 +22449,7 @@
       "relevance": 1392
     },
     "char": {
-      "ch": "搭档"
+      "hanzi": "搭档"
     },
     "short": {},
     "long": {}
@@ -22379,7 +22459,7 @@
       "relevance": 1393
     },
     "char": {
-      "ch": "从未"
+      "hanzi": "从未"
     },
     "short": {},
     "long": {}
@@ -22389,7 +22469,7 @@
       "relevance": 1394
     },
     "char": {
-      "ch": "帐"
+      "hanzi": "帐"
     },
     "short": {},
     "long": {}
@@ -22399,7 +22479,7 @@
       "relevance": 1395
     },
     "char": {
-      "ch": "谈话"
+      "hanzi": "谈话"
     },
     "short": {},
     "long": {}
@@ -22409,7 +22489,9 @@
       "relevance": 1396
     },
     "char": {
-      "ch": "度"
+      "hanzi": "度",
+      "pinyin": "dù",
+      "literal": "degree"
     },
     "short": {},
     "long": {}
@@ -22419,7 +22501,9 @@
       "relevance": 1397
     },
     "char": {
-      "ch": "背"
+      "hanzi": "背",
+      "pinyin": "bèi",
+      "literal": "back side"
     },
     "short": {},
     "long": {}
@@ -22429,7 +22513,9 @@
       "relevance": 1398
     },
     "char": {
-      "ch": "节"
+      "hanzi": "节",
+      "pinyin": "jié",
+      "literal": "knot"
     },
     "short": {},
     "long": {}
@@ -22439,7 +22525,9 @@
       "relevance": 1399
     },
     "char": {
-      "ch": "排"
+      "hanzi": "排",
+      "pinyin": "pái",
+      "literal": "row"
     },
     "short": {},
     "long": {}
@@ -22449,7 +22537,7 @@
       "relevance": 1400
     },
     "char": {
-      "ch": "约翰"
+      "hanzi": "约翰"
     },
     "short": {},
     "long": {}
@@ -22459,7 +22547,7 @@
       "relevance": 1401
     },
     "char": {
-      "ch": "许多"
+      "hanzi": "许多"
     },
     "short": {},
     "long": {}
@@ -22469,7 +22557,7 @@
       "relevance": 1402
     },
     "char": {
-      "ch": "人物"
+      "hanzi": "人物"
     },
     "short": {},
     "long": {}
@@ -22479,7 +22567,7 @@
       "relevance": 1403
     },
     "char": {
-      "ch": "头儿"
+      "hanzi": "头儿"
     },
     "short": {},
     "long": {}
@@ -22489,7 +22577,7 @@
       "relevance": 1404
     },
     "char": {
-      "ch": "叫做"
+      "hanzi": "叫做"
     },
     "short": {},
     "long": {}
@@ -22499,7 +22587,7 @@
       "relevance": 1405
     },
     "char": {
-      "ch": "猪"
+      "hanzi": "猪"
     },
     "short": {},
     "long": {}
@@ -22509,7 +22597,7 @@
       "relevance": 1406
     },
     "char": {
-      "ch": "感激"
+      "hanzi": "感激"
     },
     "short": {},
     "long": {}
@@ -22519,7 +22607,7 @@
       "relevance": 1407
     },
     "char": {
-      "ch": "随"
+      "hanzi": "随"
     },
     "short": {},
     "long": {}
@@ -22529,7 +22617,7 @@
       "relevance": 1408
     },
     "char": {
-      "ch": "中国"
+      "hanzi": "中国"
     },
     "short": {},
     "long": {}
@@ -22539,7 +22627,7 @@
       "relevance": 1409
     },
     "char": {
-      "ch": "牛"
+      "hanzi": "牛"
     },
     "short": {},
     "long": {}
@@ -22549,7 +22637,7 @@
       "relevance": 1410
     },
     "char": {
-      "ch": "瓶"
+      "hanzi": "瓶"
     },
     "short": {},
     "long": {}
@@ -22559,7 +22647,7 @@
       "relevance": 1411
     },
     "char": {
-      "ch": "蛋糕"
+      "hanzi": "蛋糕"
     },
     "short": {},
     "long": {}
@@ -22569,7 +22657,7 @@
       "relevance": 1412
     },
     "char": {
-      "ch": "吸"
+      "hanzi": "吸"
     },
     "short": {},
     "long": {}
@@ -22579,7 +22667,7 @@
       "relevance": 1413
     },
     "char": {
-      "ch": "顺利"
+      "hanzi": "顺利"
     },
     "short": {},
     "long": {}
@@ -22589,7 +22677,7 @@
       "relevance": 1414
     },
     "char": {
-      "ch": "死者"
+      "hanzi": "死者"
     },
     "short": {},
     "long": {}
@@ -22599,7 +22687,7 @@
       "relevance": 1415
     },
     "char": {
-      "ch": "傻瓜"
+      "hanzi": "傻瓜"
     },
     "short": {},
     "long": {}
@@ -22609,7 +22697,7 @@
       "relevance": 1416
     },
     "char": {
-      "ch": "英里"
+      "hanzi": "英里"
     },
     "short": {},
     "long": {}
@@ -22619,7 +22707,7 @@
       "relevance": 1417
     },
     "char": {
-      "ch": "嫁"
+      "hanzi": "嫁"
     },
     "short": {},
     "long": {}
@@ -22629,7 +22717,7 @@
       "relevance": 1418
     },
     "char": {
-      "ch": "挑战"
+      "hanzi": "挑战"
     },
     "short": {},
     "long": {}
@@ -22639,7 +22727,7 @@
       "relevance": 1419
     },
     "char": {
-      "ch": "死去"
+      "hanzi": "死去"
     },
     "short": {},
     "long": {}
@@ -22649,7 +22737,7 @@
       "relevance": 1420
     },
     "char": {
-      "ch": "上去"
+      "hanzi": "上去"
     },
     "short": {},
     "long": {}
@@ -22659,7 +22747,9 @@
       "relevance": 1421
     },
     "char": {
-      "ch": "七"
+      "hanzi": "七",
+      "pinyin": "qī",
+      "literal": "seven"
     },
     "short": {},
     "long": {}
@@ -22669,7 +22759,7 @@
       "relevance": 1422
     },
     "char": {
-      "ch": "职业"
+      "hanzi": "职业"
     },
     "short": {},
     "long": {}
@@ -22679,7 +22769,7 @@
       "relevance": 1423
     },
     "char": {
-      "ch": "菜"
+      "hanzi": "菜"
     },
     "short": {},
     "long": {}
@@ -22689,7 +22779,7 @@
       "relevance": 1424
     },
     "char": {
-      "ch": "改"
+      "hanzi": "改"
     },
     "short": {},
     "long": {}
@@ -22699,7 +22789,7 @@
       "relevance": 1425
     },
     "char": {
-      "ch": "地址"
+      "hanzi": "地址"
     },
     "short": {},
     "long": {}
@@ -22709,7 +22799,7 @@
       "relevance": 1426
     },
     "char": {
-      "ch": "意"
+      "hanzi": "意"
     },
     "short": {},
     "long": {}
@@ -22719,7 +22809,9 @@
       "relevance": 1427
     },
     "char": {
-      "ch": "赚"
+      "hanzi": "赚",
+      "pinyin": "zhuàn",
+      "literal": "earn"
     },
     "short": {},
     "long": {}
@@ -22729,7 +22821,7 @@
       "relevance": 1428
     },
     "char": {
-      "ch": "不少"
+      "hanzi": "不少"
     },
     "short": {},
     "long": {}
@@ -22739,7 +22831,7 @@
       "relevance": 1429
     },
     "char": {
-      "ch": "地狱"
+      "hanzi": "地狱"
     },
     "short": {},
     "long": {}
@@ -22749,7 +22841,7 @@
       "relevance": 1430
     },
     "char": {
-      "ch": "于是"
+      "hanzi": "于是"
     },
     "short": {},
     "long": {}
@@ -22759,7 +22851,7 @@
       "relevance": 1431
     },
     "char": {
-      "ch": "自我"
+      "hanzi": "自我"
     },
     "short": {},
     "long": {}
@@ -22769,7 +22861,7 @@
       "relevance": 1432
     },
     "char": {
-      "ch": "非"
+      "hanzi": "非"
     },
     "short": {},
     "long": {}
@@ -22779,7 +22871,7 @@
       "relevance": 1433
     },
     "char": {
-      "ch": "对付"
+      "hanzi": "对付"
     },
     "short": {},
     "long": {}
@@ -22789,7 +22881,7 @@
       "relevance": 1434
     },
     "char": {
-      "ch": "好事"
+      "hanzi": "好事"
     },
     "short": {},
     "long": {}
@@ -22799,7 +22891,7 @@
       "relevance": 1435
     },
     "char": {
-      "ch": "唔"
+      "hanzi": "唔"
     },
     "short": {},
     "long": {}
@@ -22809,7 +22901,7 @@
       "relevance": 1436
     },
     "char": {
-      "ch": "元"
+      "hanzi": "元"
     },
     "short": {},
     "long": {}
@@ -22819,7 +22911,7 @@
       "relevance": 1437
     },
     "char": {
-      "ch": "祈祷"
+      "hanzi": "祈祷"
     },
     "short": {},
     "long": {}
@@ -22829,7 +22921,7 @@
       "relevance": 1438
     },
     "char": {
-      "ch": "编"
+      "hanzi": "编"
     },
     "short": {},
     "long": {}
@@ -22839,7 +22931,7 @@
       "relevance": 1439
     },
     "char": {
-      "ch": "收拾"
+      "hanzi": "收拾"
     },
     "short": {},
     "long": {}
@@ -22849,7 +22941,7 @@
       "relevance": 1440
     },
     "char": {
-      "ch": "客人"
+      "hanzi": "客人"
     },
     "short": {},
     "long": {}
@@ -22859,7 +22951,7 @@
       "relevance": 1441
     },
     "char": {
-      "ch": "状态"
+      "hanzi": "状态"
     },
     "short": {},
     "long": {}
@@ -22869,7 +22961,7 @@
       "relevance": 1442
     },
     "char": {
-      "ch": "战"
+      "hanzi": "战"
     },
     "short": {},
     "long": {}
@@ -22879,7 +22971,7 @@
       "relevance": 1443
     },
     "char": {
-      "ch": "亚"
+      "hanzi": "亚"
     },
     "short": {},
     "long": {}
@@ -22889,7 +22981,7 @@
       "relevance": 1444
     },
     "char": {
-      "ch": "周围"
+      "hanzi": "周围"
     },
     "short": {},
     "long": {}
@@ -22899,7 +22991,7 @@
       "relevance": 1445
     },
     "char": {
-      "ch": "报道"
+      "hanzi": "报道"
     },
     "short": {},
     "long": {}
@@ -22909,7 +23001,9 @@
       "relevance": 1446
     },
     "char": {
-      "ch": "戏"
+      "hanzi": "戏",
+      "pinyin": "xì",
+      "literal": "theatrical play"
     },
     "short": {},
     "long": {}
@@ -22919,7 +23013,7 @@
       "relevance": 1447
     },
     "char": {
-      "ch": "参与"
+      "hanzi": "参与"
     },
     "short": {},
     "long": {}
@@ -22929,7 +23023,7 @@
       "relevance": 1448
     },
     "char": {
-      "ch": "运动"
+      "hanzi": "运动"
     },
     "short": {},
     "long": {}
@@ -22939,7 +23033,7 @@
       "relevance": 1449
     },
     "char": {
-      "ch": "彼此"
+      "hanzi": "彼此"
     },
     "short": {},
     "long": {}
@@ -22949,7 +23043,7 @@
       "relevance": 1450
     },
     "char": {
-      "ch": "荣幸"
+      "hanzi": "荣幸"
     },
     "short": {},
     "long": {}
@@ -22959,7 +23053,7 @@
       "relevance": 1451
     },
     "char": {
-      "ch": "会议"
+      "hanzi": "会议"
     },
     "short": {},
     "long": {}
@@ -22969,7 +23063,7 @@
       "relevance": 1452
     },
     "char": {
-      "ch": "到达"
+      "hanzi": "到达"
     },
     "short": {},
     "long": {}
@@ -22979,7 +23073,7 @@
       "relevance": 1453
     },
     "char": {
-      "ch": "爬"
+      "hanzi": "爬"
     },
     "short": {},
     "long": {}
@@ -22989,7 +23083,7 @@
       "relevance": 1454
     },
     "char": {
-      "ch": "赌"
+      "hanzi": "赌"
     },
     "short": {},
     "long": {}
@@ -22999,7 +23093,7 @@
       "relevance": 1455
     },
     "char": {
-      "ch": "显示"
+      "hanzi": "显示"
     },
     "short": {},
     "long": {}
@@ -23009,7 +23103,7 @@
       "relevance": 1456
     },
     "char": {
-      "ch": "队伍"
+      "hanzi": "队伍"
     },
     "short": {},
     "long": {}
@@ -23019,7 +23113,7 @@
       "relevance": 1457
     },
     "char": {
-      "ch": "立刻"
+      "hanzi": "立刻"
     },
     "short": {},
     "long": {}
@@ -23029,7 +23123,7 @@
       "relevance": 1458
     },
     "char": {
-      "ch": "绝不"
+      "hanzi": "绝不"
     },
     "short": {},
     "long": {}
@@ -23039,7 +23133,7 @@
       "relevance": 1459
     },
     "char": {
-      "ch": "舞台"
+      "hanzi": "舞台"
     },
     "short": {},
     "long": {}
@@ -23049,7 +23143,9 @@
       "relevance": 1460
     },
     "char": {
-      "ch": "吐"
+      "hanzi": "吐",
+      "pinyin": "tù",
+      "literal": "vomit"
     },
     "short": {},
     "long": {}
@@ -23059,7 +23155,7 @@
       "relevance": 1461
     },
     "char": {
-      "ch": "奶奶"
+      "hanzi": "奶奶"
     },
     "short": {},
     "long": {}
@@ -23069,7 +23165,7 @@
       "relevance": 1462
     },
     "char": {
-      "ch": "配"
+      "hanzi": "配"
     },
     "short": {},
     "long": {}
@@ -23079,7 +23175,7 @@
       "relevance": 1463
     },
     "char": {
-      "ch": "取消"
+      "hanzi": "取消"
     },
     "short": {},
     "long": {}
@@ -23089,7 +23185,7 @@
       "relevance": 1464
     },
     "char": {
-      "ch": "离婚"
+      "hanzi": "离婚"
     },
     "short": {},
     "long": {}
@@ -23099,7 +23195,7 @@
       "relevance": 1465
     },
     "char": {
-      "ch": "等待"
+      "hanzi": "等待"
     },
     "short": {},
     "long": {}
@@ -23109,7 +23205,7 @@
       "relevance": 1466
     },
     "char": {
-      "ch": "爱情"
+      "hanzi": "爱情"
     },
     "short": {},
     "long": {}
@@ -23119,7 +23215,7 @@
       "relevance": 1467
     },
     "char": {
-      "ch": "尽力"
+      "hanzi": "尽力"
     },
     "short": {},
     "long": {}
@@ -23129,7 +23225,7 @@
       "relevance": 1468
     },
     "char": {
-      "ch": "十分"
+      "hanzi": "十分"
     },
     "short": {},
     "long": {}
@@ -23139,7 +23235,7 @@
       "relevance": 1469
     },
     "char": {
-      "ch": "尊重"
+      "hanzi": "尊重"
     },
     "short": {},
     "long": {}
@@ -23149,7 +23245,7 @@
       "relevance": 1470
     },
     "char": {
-      "ch": "教授"
+      "hanzi": "教授"
     },
     "short": {},
     "long": {}
@@ -23159,7 +23255,7 @@
       "relevance": 1471
     },
     "char": {
-      "ch": "去年"
+      "hanzi": "去年"
     },
     "short": {},
     "long": {}
@@ -23169,7 +23265,9 @@
       "relevance": 1472
     },
     "char": {
-      "ch": "语"
+      "hanzi": "语",
+      "pinyin": "yǔ",
+      "literal": "language"
     },
     "short": {},
     "long": {}
@@ -23179,7 +23277,7 @@
       "relevance": 1473
     },
     "char": {
-      "ch": "超过"
+      "hanzi": "超过"
     },
     "short": {},
     "long": {}
@@ -23189,7 +23287,7 @@
       "relevance": 1474
     },
     "char": {
-      "ch": "丝"
+      "hanzi": "丝"
     },
     "short": {},
     "long": {}
@@ -23199,7 +23297,7 @@
       "relevance": 1475
     },
     "char": {
-      "ch": "开车"
+      "hanzi": "开车"
     },
     "short": {},
     "long": {}
@@ -23209,7 +23307,7 @@
       "relevance": 1476
     },
     "char": {
-      "ch": "仍"
+      "hanzi": "仍"
     },
     "short": {},
     "long": {}
@@ -23219,7 +23317,7 @@
       "relevance": 1477
     },
     "char": {
-      "ch": "寄"
+      "hanzi": "寄"
     },
     "short": {},
     "long": {}
@@ -23229,7 +23327,7 @@
       "relevance": 1478
     },
     "char": {
-      "ch": "器"
+      "hanzi": "器"
     },
     "short": {},
     "long": {}
@@ -23239,7 +23337,7 @@
       "relevance": 1479
     },
     "char": {
-      "ch": "聊"
+      "hanzi": "聊"
     },
     "short": {},
     "long": {}
@@ -23249,7 +23347,7 @@
       "relevance": 1480
     },
     "char": {
-      "ch": "指纹"
+      "hanzi": "指纹"
     },
     "short": {},
     "long": {}
@@ -23259,7 +23357,7 @@
       "relevance": 1481
     },
     "char": {
-      "ch": "庆祝"
+      "hanzi": "庆祝"
     },
     "short": {},
     "long": {}
@@ -23269,7 +23367,7 @@
       "relevance": 1482
     },
     "char": {
-      "ch": "住手"
+      "hanzi": "住手"
     },
     "short": {},
     "long": {}
@@ -23279,7 +23377,7 @@
       "relevance": 1483
     },
     "char": {
-      "ch": "娘"
+      "hanzi": "娘"
     },
     "short": {},
     "long": {}
@@ -23289,7 +23387,7 @@
       "relevance": 1484
     },
     "char": {
-      "ch": "偶像"
+      "hanzi": "偶像"
     },
     "short": {},
     "long": {}
@@ -23299,7 +23397,7 @@
       "relevance": 1485
     },
     "char": {
-      "ch": "同志"
+      "hanzi": "同志"
     },
     "short": {},
     "long": {}
@@ -23309,7 +23407,7 @@
       "relevance": 1486
     },
     "char": {
-      "ch": "裤子"
+      "hanzi": "裤子"
     },
     "short": {},
     "long": {}
@@ -23319,7 +23417,7 @@
       "relevance": 1487
     },
     "char": {
-      "ch": "军队"
+      "hanzi": "军队"
     },
     "short": {},
     "long": {}
@@ -23329,7 +23427,7 @@
       "relevance": 1488
     },
     "char": {
-      "ch": "假装"
+      "hanzi": "假装"
     },
     "short": {},
     "long": {}
@@ -23339,7 +23437,7 @@
       "relevance": 1489
     },
     "char": {
-      "ch": "想起"
+      "hanzi": "想起"
     },
     "short": {},
     "long": {}
@@ -23349,7 +23447,7 @@
       "relevance": 1490
     },
     "char": {
-      "ch": "侦探"
+      "hanzi": "侦探"
     },
     "short": {},
     "long": {}
@@ -23359,7 +23457,7 @@
       "relevance": 1491
     },
     "char": {
-      "ch": "狂"
+      "hanzi": "狂"
     },
     "short": {},
     "long": {}
@@ -23369,7 +23467,7 @@
       "relevance": 1492
     },
     "char": {
-      "ch": "拖"
+      "hanzi": "拖"
     },
     "short": {},
     "long": {}
@@ -23379,7 +23477,7 @@
       "relevance": 1493
     },
     "char": {
-      "ch": "实验室"
+      "hanzi": "实验室"
     },
     "short": {},
     "long": {}
@@ -23389,7 +23487,7 @@
       "relevance": 1494
     },
     "char": {
-      "ch": "顺便"
+      "hanzi": "顺便"
     },
     "short": {},
     "long": {}
@@ -23399,7 +23497,7 @@
       "relevance": 1495
     },
     "char": {
-      "ch": "吹"
+      "hanzi": "吹"
     },
     "short": {},
     "long": {}
@@ -23409,7 +23507,7 @@
       "relevance": 1496
     },
     "char": {
-      "ch": "害"
+      "hanzi": "害"
     },
     "short": {},
     "long": {}
@@ -23419,7 +23517,7 @@
       "relevance": 1497
     },
     "char": {
-      "ch": "或是"
+      "hanzi": "或是"
     },
     "short": {},
     "long": {}
@@ -23429,7 +23527,7 @@
       "relevance": 1498
     },
     "char": {
-      "ch": "修"
+      "hanzi": "修"
     },
     "short": {},
     "long": {}
@@ -23439,7 +23537,7 @@
       "relevance": 1499
     },
     "char": {
-      "ch": "在乎"
+      "hanzi": "在乎"
     },
     "short": {},
     "long": {}
@@ -23449,7 +23547,7 @@
       "relevance": 1500
     },
     "char": {
-      "ch": "无聊"
+      "hanzi": "无聊"
     },
     "short": {},
     "long": {}
@@ -23459,7 +23557,7 @@
       "relevance": 1501
     },
     "char": {
-      "ch": "状况"
+      "hanzi": "状况"
     },
     "short": {},
     "long": {}
@@ -23469,7 +23567,7 @@
       "relevance": 1502
     },
     "char": {
-      "ch": "目的"
+      "hanzi": "目的"
     },
     "short": {},
     "long": {}

@@ -52,7 +52,7 @@ const readline = require('readline');
 //   //console.log(unicodeDB)
 //   fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(unicodeDB,null,2))
 // })
-
+/*
 //UNICODE indexed by chars to files
 var fileStr = fs.readFileSync("./extra/strokes-all.json");
 var strChars = JSON.parse(fileStr.toString())
@@ -115,7 +115,7 @@ rl.on('close', function () {
       fs.writeFileSync('unicode-9000/'+char+'.json', JSON.stringify(unicodeDB[char]))
     }  
   })
-})
+})*/
 //1500 SUBTLEX, JUST CHARS
 /*
 let rl = readline.createInterface({
@@ -158,19 +158,20 @@ unico.forEach(function(v){
 fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(result, null, 2))*/
 
 //GET CHAR WITH MULTIPLE PINYIN FROM UNICODE
-/*
-var fileU = fs.readFileSync('./unicode-subtlex-1500')
-var unico = JSON.parse(fileU)
-var combined = []
-count = 0
-unico.forEach((e, i) => {
-  if (e.pronunciation.split(',').length>5)
-    //console.log(e.pronunciation)
-    combined.push(e.char)
-});
 
-fs.writeFileSync('./chars-multiple-pinyin', JSON.stringify(combined))
-*/
+// var fileU = fs.readFileSync('./unicode-subtlex-strokes-1500')
+// var unico = JSON.parse(fileU)
+// var combined = []
+// count = 0
+// unico.forEach((e, i) => {
+//   e.pronunciation.includes(' ')? console.log(e.char, e.pronunciation) : null
+//   if (e.pronunciation.split(',').length>5)
+//     //console.log(e.pronunciation)
+//     combined.push(e.char)
+// });
+// 1==2
+//fs.writeFileSync('./chars-multiple-pinyin', JSON.stringify(combined))
+
 
 //TABLE MULTIPLE PINYIN
 /*var fileMlt = fs.readFileSync('./chars-multiple-pinyin')

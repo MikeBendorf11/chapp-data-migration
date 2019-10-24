@@ -1,12 +1,19 @@
 var fs = require("fs");
 const readline = require('readline');
 
-
 //  WRITING FINAL RESULTS
-var file = fs.readFileSync("../units-old.json");
-var filestx15 = fs.readFileSync("../subtlex-1500")
+var file = fs.readFileSync("units-old.json");
+var filestx15 = fs.readFileSync("subtlex-1500")
 var units = JSON.parse(file);
 var newUnits = []
+
+//idx reviewed double pinyings by char
+var fileDou = fs.readFileSync('pinyin-reduction/unicode-subtlex-double-pinyin-reviewed')
+var doublePin = JSON.parse(fileDou)
+var doubPinIxd = {}
+doublePin.forEach(unit=>{
+  doubPinIxd[unit.hanzi] = {pinyin: unit.pinyin, literal: unit.literal}
+})
 
 //i is for json, k is for reactored newUnits
 for (let i = 0, k = 0; i < units.length; i++ , k++) {
@@ -93,14 +100,21 @@ var flag = false
 filestx15.toString().split(',').forEach((ch, i, a)=>{
   if(ch=='犯') flag = true
   if(flag){
-    newUnits.push({
-      lesson: {relevance: i+3},
-      char: {ch}, short: {}, long: {}
-    })
+    if(doubPinIxd[ch]){
+      newUnits.push({
+        lesson: {relevance: i+3},
+        char: {hanzi: ch, pinyin: doubPinIxd[ch].pinyin, literal: doubPinIxd[ch].literal  }, short: {}, long: {}
+      })
+    } else {
+      newUnits.push({
+        lesson: {relevance: i+3},
+        char: {hanzi: ch}, short: {}, long: {}
+      })
+    }
   }
 })
 
-fs.writeFile('new-db-1500.json', JSON.stringify(newUnits, null, 2), function (err) {
+fs.writeFile('results/new-db-1500.json', JSON.stringify(newUnits, null, 2), function (err) {
   if (err) console.log(err)
   console.log('Result saved!!')
 })

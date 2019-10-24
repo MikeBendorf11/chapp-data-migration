@@ -81,7 +81,7 @@ units.forEach((unit)=>{
     unit.short.hanzi = splitComb(unit.short.hanzi, '/')
     unit.short.hanzi = splitComb(unit.short.hanzi, ',')
     unit.short.hanzi = cleanComb(unit.short.hanzi)
-
+    unit.lesson.order? tree[unit.char.hanzi]['meaning'] = unit.char.literal : ''//call unicode api?
     unit.short.hanzi.forEach((short, i)=>{
       
       var result = {}
@@ -90,6 +90,7 @@ units.forEach((unit)=>{
             result[char] = tree[char]
         })
         tree[unit.char.hanzi][short] = result
+        tree[unit.char.hanzi][short]['meaning'] = unit.short.figurative[i]
       }
     })
   }
@@ -100,6 +101,7 @@ units.forEach((unit)=>{
       if(tree[ch]){
         result[ch] = tree[ch]
         tree[ch][unit.char.hanzi] = result
+        tree[ch][unit.char.hanzi]['meaning'] = unit.char.figurative
       } else {
          //in case I add new char out of subtlex from now on
          tree[ch] = {}
