@@ -81,7 +81,7 @@ units.forEach((unit)=>{
     unit.short.hanzi = splitComb(unit.short.hanzi, '/')
     unit.short.hanzi = splitComb(unit.short.hanzi, ',')
     unit.short.hanzi = cleanComb(unit.short.hanzi)
-    unit.lesson.order? tree[unit.char.hanzi]['meaning'] = unit.char.literal : ''//call unicode api?
+
     unit.short.hanzi.forEach((short, i)=>{
       
       var result = {}
@@ -90,7 +90,6 @@ units.forEach((unit)=>{
             result[char] = tree[char]
         })
         tree[unit.char.hanzi][short] = result
-        tree[unit.char.hanzi][short]['meaning'] = unit.short.figurative[i]
       }
     })
   }
@@ -101,7 +100,6 @@ units.forEach((unit)=>{
       if(tree[ch]){
         result[ch] = tree[ch]
         tree[ch][unit.char.hanzi] = result
-        tree[ch][unit.char.hanzi]['meaning'] = unit.char.figurative
       } else {
          //in case I add new char out of subtlex from now on
          tree[ch] = {}
@@ -169,18 +167,25 @@ Object.keys(tree2).forEach(key=>{
   }
 })
 
+//add sentences
+units.forEach(unit=>{
+  if(unit.long.hanzi && unit.long.hanzi.length > 0){
+    unit.long.hanzi.forEach(stc=>{
+      if(!tree2[stc]) tree2[stc] = {}
+      var lgt = stc.length
+      for(i=0; i< lgt; i++){
+        if(i==4) break
+        splitExact(stc, i).forEach(group=>{
+          if(tree2[group] && !tree2[group][stc] && group!=''){
+            tree2[group][stc] = tree2[stc]
+            tree2[stc][group] = tree2[group]
+          }
+        })
+      }
+    })
+  }
+})
 
-// units.forEach(unit=>{
-//   var lesson = !unit.lesson.order ? null : {
-//     order: unit.lesson.order,
-//     level: unit.level,
-//     consult: unit.consult
-//   }
-//   tree2[unit.char.hanzi]['lesson'] = lesson
-//   tree2[unit.char.hanzi]['relevance'] = unit.id
-//   tree2[unit.char.hanzi]['meaning'] = unit.char.figurative
-
-// })
 
 
 
