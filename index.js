@@ -170,7 +170,9 @@ Object.keys(tree2).forEach(key=>{
 //add sentences
 units.forEach(unit=>{
   if(unit.long.hanzi && unit.long.hanzi.length > 0){
+    unit.long.hanzi = splitComb(unit.long.hanzi, '/') //split / and add to comb
     unit.long.hanzi.forEach(stc=>{
+      if(stc.includes('(')) stc= stc.split(/[(].{1,10}[)]/gm).join('') //eliminate parenthesys
       if(!tree2[stc]) tree2[stc] = {}
       var lgt = stc.length
       for(i=0; i< lgt; i++){
