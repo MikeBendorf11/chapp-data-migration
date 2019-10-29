@@ -52,7 +52,7 @@ const readline = require('readline');
 //   //console.log(unicodeDB)
 //   fs.writeFileSync('./unicode-subtlex-1500', JSON.stringify(unicodeDB,null,2))
 // })
-/*
+
 //UNICODE indexed by chars to files
 var fileStr = fs.readFileSync("./extra/strokes-all.json");
 var strChars = JSON.parse(fileStr.toString())
@@ -64,6 +64,13 @@ let rl = readline.createInterface({
   input: fs.createReadStream('./extra/unicode.txt')
 });
 
+//idx reviewed double pinyings by char
+var fileDou = fs.readFileSync('pinyin-reduction/unicode-subtlex-double-pinyin-reviewed')
+var doublePin = JSON.parse(fileDou)
+var doubPinIxd = {}
+doublePin.forEach(unit=>{
+  doubPinIxd[unit.hanzi] = {pinyin: unit.pinyin, literal: unit.literal}
+})
 
 rl.on('line', function (line) {
   var arr = line.split('	')
@@ -112,10 +119,15 @@ rl.on('line', function (line) {
 rl.on('close', function () {
   Object.keys(strChars).forEach(char=>{
     if(unicodeDB[char]){
-      fs.writeFileSync('unicode-9000/'+char+'.json', JSON.stringify(unicodeDB[char]))
+      if(doubPinIxd[char]) {
+        unicodeDB[char].definition = doubPinIxd[char].literal
+        unicodeDB[char].pronunciation = doubPinIxd[char].pinyin
+        fs.writeFileSync('unicode-9000-idx-by-char/'+char+'.json', JSON.stringify(unicodeDB[char]))
+      }
+      // fs.writeFileSync('unicode-9000-idx-by-char/'+char+'.json', JSON.stringify(unicodeDB[char]))
     }  
   })
-})*/
+})
 //1500 SUBTLEX, JUST CHARS
 /*
 let rl = readline.createInterface({
