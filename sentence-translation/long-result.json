@@ -1,0 +1,290 @@
+{
+  "什么": {
+    "sentence": "这成个什么样子！",
+    "translation": "What does this look like!"
+  },
+  "说": {
+    "sentence": "快跟大家说说",
+    "translation": "Tell everyone about it"
+  },
+  "知道": {
+    "sentence": "#你就不说, 我也会知道",
+    "translation": "You won't say it, I will know"
+  },
+  "来": {
+    "sentence": "自来水",
+    "translation": "Tap water"
+  },
+  "都": {
+    "sentence": "我们都不知道为什么",
+    "translation": "We don't know why"
+  },
+  "个": {
+    "sentence": "别看她个儿不大",
+    "translation": "Don't look at her, it's not big"
+  },
+  "能": {
+    "sentence": "#没有什么不可能",
+    "translation": "nothing is impossible"
+  },
+  "去": {
+    "sentence": "#过去的事就让它过去吧",
+    "translation": "Let it pass in the past"
+  },
+  "和": {
+    "sentence": "# 她从那天以后就再也不和他说话了",
+    "translation": "She has never talked to him since that day"
+  },
+  "到": {
+    "sentence": "想不到你来了",
+    "translation": "I can't think of you coming"
+  },
+  "对": {
+    "sentence": "对事不对人",
+    "translation": "It is not right for people"
+  },
+  "也": {
+    "sentence": "他再也不想出去了",
+    "translation": "He doesn't want to go out anymore"
+  },
+  "做": {
+    "sentence": "会做人",
+    "translation": "Will be a person"
+  },
+  "给": {
+    "sentence": "他们分给我一个小房间",
+    "translation": "They gave me a small room"
+  },
+  "上": {
+    "sentence": "#上一个",
+    "translation": "Previous"
+  },
+  "过": {
+    "sentence": "#那就再好不过",
+    "translation": "That would be great"
+  },
+  "着": {
+    "sentence": "对着干",
+    "translation": "Right"
+  },
+  "呢": {
+    "sentence": "#你怎么以为我不喜欢你呢？",
+    "translation": "How do you think that I don't like you?"
+  },
+  "只": {
+    "sentence": "那只不过是句玩笑话",
+    "translation": "That is just a joke"
+  },
+  "但": {
+    "sentence": "他们都去了, 但我没去",
+    "translation": "They all went, but I didn't go"
+  },
+  "走": {
+    "sentence": "走遍天下",
+    "translation": "Travel all over the world"
+  },
+  "太": {
+    "sentence": "不太好",
+    "translation": "not too good"
+  },
+  "跟": {
+    "sentence": "快跟大家说说",
+    "translation": "Tell everyone about it"
+  },
+  "自己": {
+    "sentence": "走自己的路，让别人去说吧",
+    "translation": "Take your own path and let others talk about it"
+  },
+  "再": {
+    "sentence": "时不再来",
+    "translation": "Time is no longer coming"
+  },
+  "快": {
+    "sentence": "快要下雨了",
+    "translation": "It's going to rain"
+  },
+  "谁": {
+    "sentence": "谁也不知道那个人到哪里去了",
+    "translation": "No one knows where the man went"
+  },
+  "多": {
+    "sentence": "不一样的，多种多样的",
+    "translation": "Not the same, a variety of"
+  },
+  "用": {
+    "sentence": "用心去想一想",
+    "translation": "Think about it with your heart"
+  },
+  "时候": {
+    "sentence": "你什么时候再来看我们呢？",
+    "translation": "When will you come to see us again?"
+  },
+  "下": {
+    "sentence": "下一个",
+    "translation": "next"
+  },
+  "天": {
+    "sentence": "我的天",
+    "translation": "Oh my God"
+  },
+  "从": {
+    "sentence": "从这里到那里, 有很远?",
+    "translation": "From here to there, there is a long way to go"
+  },
+  "为": {
+    "sentence": "为的是",
+    "translation": "For the sake of it"
+  },
+  "可能": {
+    "sentence": "你女儿可真是一个了不起的做饭能手",
+    "translation": "Your daughter is really an amazing cook"
+  },
+  "需要": {
+    "sentence": "#我知道她十分需要我的东西",
+    "translation": "I know that she needs my things very much"
+  },
+  "是的": {
+    "sentence": "是的，它从书本上学不到",
+    "translation": "Yes, it can't be learned from books"
+  },
+  "干": {
+    "sentence": "实干家",
+    "translation": "Doer work"
+  },
+  "而": {
+    "sentence": "只是想想而已",
+    "translation": "Just think about it"
+  },
+  "么": {
+    "sentence": "#什么时候",
+    "translation": "When"
+  },
+  "东西": {
+    "sentence": "东南西北",
+    "translation": "Southeast and northwest"
+  },
+  "两": {
+    "sentence": "两下子",
+    "translation": "Two sons"
+  },
+  "哪": {
+    "sentence": "告诉我哪些是你需要的",
+    "translation": "Tell me what you need"
+  },
+  "车": {
+    "sentence": "我坐火车",
+    "translation": "I am taking the train"
+  },
+  "不过": {
+    "sentence": "不过是只猫",
+    "translation": "But it is a cat"
+  },
+  "后": {
+    "sentence": "我在你后面",
+    "translation": "I am behind you"
+  },
+  "意思": {
+    "sentence": "一点儿小意思",
+    "translation": "A little bit small"
+  },
+  "分": {
+    "sentence": "做得太过分",
+    "translation": "Doing too much"
+  },
+  "过来": {
+    "sentence": "你过来好吗？",
+    "translation": "Are you coming over?"
+  },
+  "先": {
+    "sentence": "#先到先得/先来后到",
+    "translation": "First come, first served, first come first"
+  },
+  "买": {
+    "sentence": "买房子了",
+    "translation": "I bought a house"
+  },
+  "过去": {
+    "sentence": "#时间一点一点的过去",
+    "translation": "Time passes by little by little"
+  },
+  "以": {
+    "sentence": "我以为这不可能",
+    "translation": "I thought it was impossible"
+  },
+  "以前": {
+    "sentence": "以前我没来过这里",
+    "translation": "I have never been here before"
+  },
+  "可是": {
+    "sentence": "我们要五本书，可是只有三本",
+    "translation": "We want five books, but there are only three"
+  },
+  "难": {
+    "sentence": "十分难过",
+    "translation": "Very sad"
+  },
+  "只要": {
+    "sentence": "但是只要我喜欢",
+    "translation": "But as long as I like it"
+  },
+  "心": {
+    "sentence": "我对他有信心",
+    "translation": "I have confidence in him"
+  },
+  "门": {
+    "sentence": "#学到做生意的门路",
+    "translation": "Learn the way to do business"
+  },
+  "路": {
+    "sentence": "过马路",
+    "translation": "Cross the road"
+  },
+  "怎么办": {
+    "sentence": "下一步怎么办?",
+    "translation": "What should I do next?"
+  },
+  "内": {
+    "sentence": "在三天以内",
+    "translation": "Within three days"
+  },
+  "别的": {
+    "sentence": "我 别的 不要",
+    "translation": "I don't want anything else"
+  },
+  "部": {
+    "sentence": "可爱面部",
+    "translation": "Cute face"
+  },
+  "而已": {
+    "sentence": "我只是听说而已",
+    "translation": "I just heard about it"
+  },
+  "办": {
+    "sentence": "只要办得到，我一定给你办",
+    "translation": "As long as I can get it, I will definitely do it for you"
+  },
+  "想到": {
+    "sentence": "我一下想到了你的生日是今天",
+    "translation": "I thought about your birthday today"
+  },
+  "不同": {
+    "sentence": "要是同意, 好, 要是不同意, 也好",
+    "translation": "If you agree, well, if you don't agree, it's good"
+  },
+  "想法": {
+    "sentence": "有什么想法?",
+    "translation": "Any thoughts?"
+  },
+  "本来": {
+    "sentence": "#这本来没有什么了不起",
+    "translation": "This is nothing remarkable"
+  },
+  "步": {
+    "sentence": "到这一步",
+    "translation": "Go to this step"
+  },
+  "鬼": {
+    "sentence": "日本鬼子",
+    "translation": "Jap"
+  }
+}
