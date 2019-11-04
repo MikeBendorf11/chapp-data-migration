@@ -27,7 +27,7 @@ for (let i = 0, k = 0; i < units.length; i++ , k++) {
     newUnits[k].lesson.order = undefined
     newUnits[k].lesson.level = undefined
     newUnits[k].lesson.consult = undefined
-    
+    newUnits[k].char.figurative = undefined
     newUnits[k].char.hanzi = units[i].char
     newUnits[k].char.pinyin = undefined
     newUnits[k].short.hanzi = undefined
@@ -39,7 +39,6 @@ for (let i = 0, k = 0; i < units.length; i++ , k++) {
     var oldSingle = units[i].definitions.single[0].trim()
     var isDoubleChar = units[i].char.length > 1 || false
     
-    newUnits[k].lesson.notes = ''
     newUnits[k].lesson.relevance = units[i].id
     newUnits[k].lesson.order = units[i].learnedId
     newUnits[k].lesson.level = units[i].level
@@ -50,7 +49,7 @@ for (let i = 0, k = 0; i < units.length; i++ , k++) {
     //parenthesis and
     //single char doesn't have figurative
     if (isDoubleChar) {
-      oldSingle = oldSingle.substring(1, oldSingle.length - 1)
+      oldSingle = oldSingle.substring(1, oldSingle.length - 1)  
       newUnits[k].char.figurative = units[i].definitions.single[1].trim()
     }
     newUnits[k].char.literal = oldSingle
@@ -114,7 +113,22 @@ filestx15.toString().split(',').forEach((ch, i, a)=>{
   }
 })
 
-fs.writeFile('results/new-db-1500.json', JSON.stringify(newUnits, null, 2), function (err) {
+//indexing by char - aligning with circular char API
+var indexedByChar = {}
+newUnits.forEach(unit=>{
+  indexedByChar[unit.char.hanzi]={
+    lesson: unit.lesson,
+    char: {
+      pinyin: unit.char.pinyin,
+      literal: unit.char.literal,
+      figurative: unit.char.figurative || undefined
+    },
+    short: unit.short,
+    long: unit.long
+  }
+})
+
+fs.writeFile('migration/new-db-1500-byChar.json', JSON.stringify(indexedByChar, null, 2), function (err) {
   if (err) console.log(err)
   console.log('Result saved!!')
 })
